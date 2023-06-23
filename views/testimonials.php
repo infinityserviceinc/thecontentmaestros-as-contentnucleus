@@ -26,8 +26,8 @@
 <meta name="twitter:title" content="Testimonials | CCW"/>
 <meta name="twitter:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/testimonials"/>                    
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/testimonials"/>                    
                     
 
 
@@ -36,10 +36,10 @@
 
 <meta property="og:title" content="Testimonials | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/testimonials"/>
+<meta property="og:url" content="https://thecontentmaestros.com/testimonials"/>
 <meta property="og:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
              
 
 
@@ -88,7 +88,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/testimonials" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -186,7 +186,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/testimonials" />
                   </div>
                 </div>
               </div>
@@ -386,7 +386,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/testimonials" />
                         </div>
                       </div>
                     </div>

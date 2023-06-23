@@ -26,17 +26,17 @@
 <meta name="twitter:title" content="Professional Blog Writing Services in UK | CCW"/>
 <meta name="twitter:description" content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/blog-writing"/>                   
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/our-services/blog-writing"/>                   
                     
 
 
 <meta property="og:title" content="Professional Blog Writing Services in UK | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/blog-writing"/>
+<meta property="og:url" content="https://thecontentmaestros.com/our-services/blog-writing"/>
 <meta property="og:description" content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs. " />
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
                    
                     
                     
@@ -91,10 +91,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>-->
       </ul>
     </nav>
     <nav class="prvcy-nav">
@@ -193,7 +193,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/blog-writing" />
                   </div>
                 </div>
               </div>
@@ -393,7 +393,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/our-services/blog-writing" />
                         </div>
                       </div>
                     </div>
@@ -498,7 +498,7 @@
                       document.getElementById('location').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
+                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/blog-writing" />
                     </div>
                   </div>
                 </div>

@@ -25,8 +25,8 @@
 <meta name="twitter:title" content="Digital Marketing Services | CCW"/>
 <meta name="twitter:description" content="Read more about our solutions including content writing, editing, copywriting, proofreading and other writing-related services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/services"/>
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/services"/>
 
 
 
@@ -38,10 +38,10 @@
 
 <meta property="og:title" content="Digital Marketing Services | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/services"/>
+<meta property="og:url" content="https://thecontentmaestros.com/services"/>
 <meta property="og:description" content="Read more about our solutions including content writing, editing, copywriting, proofreading and other writing-related services."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
                  
 
 
@@ -89,7 +89,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/services" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/services" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -187,7 +187,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/services" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/services" />
                   </div>
                 </div>
               </div>
@@ -387,7 +387,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/services" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/services" />
                         </div>
                       </div>
                     </div>

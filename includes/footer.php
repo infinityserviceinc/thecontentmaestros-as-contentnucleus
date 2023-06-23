@@ -5,11 +5,11 @@
         <div class="col-lg-2 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.com/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.com/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.com/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.com/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.com/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
           <div class="fologo">
@@ -46,7 +46,7 @@
             <li><a href="case-studies/">Case Studies</a></li>
             <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
             <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+            <!--<li><a href="http://thecontentmaestros.com/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
             <li><a href="proposal-writing/">Proposal Writing</a></li>
           </ul>
         </div> 

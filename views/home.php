@@ -18,7 +18,7 @@
   <meta name="twitter:description"
     content="CCW is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
   <meta name="twitter:site" content="@thecontentmaestros" />
-  <meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+  <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
   <meta name="twitter:url" content="index/" />
 
 
@@ -30,7 +30,7 @@
   <meta property="og:url" content=" https://thecontentmaestros.co.uk" />
   <meta property="og:description"
     content="CCW is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
-  <meta property="og:site_name" content="@thecontentmaestrosuk" />
+  <meta property="og:site_name" content="@thecontentmaestros" />
   <meta property="og:image" content="assets/images/logo.png" />
 
   <?php include_once("includes/head.php") ?>
@@ -131,7 +131,7 @@
                                 </script>
                                 <input type="hidden" name="hiddencapcha" value="">
                                 <input type="hidden" id="location" name="locationURL"
-                                  value="http://thecontentmaestros.co.uk/" />
+                                  value="http://thecontentmaestros.com/" />
                               </div>
                             </div>
                           </div>
@@ -147,7 +147,6 @@
       </div>
     </div>
   </div>
-
 
 
   <div class="floatbutton">
@@ -394,7 +393,7 @@
                         value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                       <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/" />
                     </div>
                   </div>
                 </div>
@@ -405,14 +404,6 @@
       </div>
     </div>
   </div>
-
-
-
-
-
-
-
-
 
   <div class="slider-wrapper">
     <section class="">
@@ -555,7 +546,7 @@
                                           </script>
                                           <input type="hidden" name="hiddencapcha" value="">
                                           <input type="hidden" id="location" name="locationURL"
-                                            value="http://thecontentmaestros.co.uk/" />
+                                            value="http://thecontentmaestros.com/" />
                                         </div>
                                       </div>
                                     </div>
@@ -612,8 +603,6 @@
     </section>
 
   </div>
-
-
 
   <section class="introduction-new-sec">
     <div class="container">
@@ -748,7 +737,7 @@
     </div>
   </section>
 
-  <section class="main-book-cover-sec">
+  <!-- <section class="main-book-cover-sec">
     <div class="container-fluid">
       <div class="">
         <h2>Our Recent Book Releases</h2>
@@ -1049,7 +1038,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="main-ghst-writng-second-sec sec-padding-60">
     <div class="container">
@@ -1185,7 +1174,7 @@
               <p>Enjoy the benefits of working with a world-class firm at an affordable cost. Our talented Content Writers are at your service with amazing discounts in ghostwriting pricing plans.</p>
               <h4>£365</h4>
               <b>200 Pages</b>
-              <a href="http://thecontentmaestros.co.uk/order?pack=9" class="btn-main">Order Now</a>
+              <a href="http://thecontentmaestros.com/order?pack=9" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -1203,7 +1192,7 @@
               <p>Enjoy the benefits of working with a world-class firm at an affordable cost. Our talented Content Writers are at your service with amazing discounts in ghostwriting pricing plans.</p>
               <h4>£465</h4>
               <b>201 to 400 Pages</b>
-              <a href="http://thecontentmaestros.co.uk/order?pack=10" class="btn-main">Order Now</a>
+              <a href="http://thecontentmaestros.com/order?pack=10" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -1221,7 +1210,7 @@
               <p>Enjoy the benefits of working with a world-class firm at an affordable cost. Our talented Content Writers are at your service with amazing discounts in ghostwriting pricing plans.</p>
               <h4>£565</h4>
               <b>401 to 600 Pages</b>
-              <a href="http://thecontentmaestros.co.uk/order?pack=11" class="btn-main">Order Now</a>
+              <a href="http://thecontentmaestros.com/order?pack=11" class="btn-main">Order Now</a>
               <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
@@ -1421,7 +1410,7 @@
   <div class="slider-wrapper black non-mar">
     <section class="">
       <div class="item">
-        <div class="home-banner ">
+        <div class="home-banner footer_form_sec">
           <div class="container ">
             <div class="row">
               <div class=" col-lg-12 col-xl-12 text-center">

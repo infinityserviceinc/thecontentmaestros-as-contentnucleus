@@ -66,7 +66,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/about-us" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -164,7 +164,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/about-us" />
                   </div>
                 </div>
               </div>
@@ -364,7 +364,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/about-us" />
                         </div>
                       </div>
                     </div>

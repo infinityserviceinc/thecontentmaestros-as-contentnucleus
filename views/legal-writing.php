@@ -27,17 +27,17 @@
 <meta name="twitter:title" content="Legal Document Editing & Writing in Plain English | CCW"/>
 <meta name="twitter:description" content="Have you been asked to submit a legal writing sample that can demonstrate your abilities? Don’t worry! Team CC can help you with legal writing in plain English."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/legal-writing"/>                  
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/our-services/legal-writing"/>                  
                     
    
 
 <meta property="og:title" content="Legal Document Editing & Writing in Plain English | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/legal-writing"/>
+<meta property="og:url" content="https://thecontentmaestros.com/our-services/legal-writing"/>
 <meta property="og:description" content="Have you been asked to submit a legal writing sample that can demonstrate your abilities? Don’t worry! Team CC can help you with legal writing in plain English."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
               
                     
                     
@@ -87,7 +87,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/legal-writing" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/legal-writing" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -144,10 +144,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>-->
       </ul>
     </nav>
     <nav class="prvcy-nav">
@@ -246,7 +246,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/legal-writing" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/legal-writing" />
                   </div>
                 </div>
               </div>
@@ -446,7 +446,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/legal-writing" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/our-services/legal-writing" />
                         </div>
                       </div>
                     </div>
@@ -552,7 +552,7 @@
                       document.getElementById('location').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/legal-writing" />
+                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/legal-writing" />
                     </div>
                   </div>
                 </div>
@@ -1230,11 +1230,11 @@
         <div class="col-lg-2 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.com/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.com/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.com/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.com/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.com/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
           <div class="fologo">
@@ -1271,7 +1271,7 @@
             <li><a href="case-studies/">Case Studies</a></li>
             <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
             <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+            <!--<li><a href="http://thecontentmaestros.com/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
             <li><a href="proposal-writing/">Proposal Writing</a></li>
           </ul>
         </div> 
@@ -1360,7 +1360,7 @@
       <figure style="background-image:url(../assets/images/linda-dok.jpg)"> </figure>
       <span class="heading">Book a Call </span>
       <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.co.uk/webpages/bannerFormController.php">
+      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.com/webpages/bannerFormController.php">
         <div class="fldst btnattach">
           <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
           <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>  +1-323-283-8204</a>
@@ -1382,7 +1382,7 @@
           <input type="hidden" name="ctry" value="">
           <input type="hidden" name="pc" value="">
           
-          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/legal-writing" />
+          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/legal-writing" />
         </div>
         
         

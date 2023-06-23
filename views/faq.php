@@ -22,18 +22,18 @@
 <meta name="twitter:title" content="Faqs | CCW"/>
 <meta name="twitter:description" content="Take a look at the FAQs (Frequently Asked Questions) for in-depth details about our services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/faq"/>
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/faq"/>
                     
 
 
 
 <meta property="og:title" content="FAQs | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/faq"/>
+<meta property="og:url" content="https://thecontentmaestros.com/faq"/>
 <meta property="og:description" content="Take a look at the FAQs (Frequently Asked Questions) for in-depth details about our services."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
                   
                     
                     
@@ -83,7 +83,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/faq" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -181,7 +181,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/faq" />
                   </div>
                 </div>
               </div>
@@ -381,7 +381,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/faq" />
                         </div>
                       </div>
                     </div>

@@ -27,16 +27,16 @@
 <meta name="twitter:title" content="Creative Social Media Content Calendar | CCW"/>
 <meta name="twitter:description" content="Our Social media content creator creates social media content calendars that can lead all social media content types."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/social-media-content"/>        
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/our-services/social-media-content"/>        
                     
   
 <meta property="og:title" content="Creative Social Media Content Calendar | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/social-media-content"/>
+<meta property="og:url" content="https://thecontentmaestros.com/our-services/social-media-content"/>
 <meta property="og:description" content="Our Social media content creator creates social media content calendars that can lead all social media content types."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
            
                     
                     
@@ -84,7 +84,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/social-media-content" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -141,10 +141,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>-->
       </ul>
     </nav>
     <nav class="prvcy-nav">
@@ -243,7 +243,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/social-media-content" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />
                   </div>
                 </div>
               </div>
@@ -443,7 +443,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/social-media-content" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />
                         </div>
                       </div>
                     </div>
@@ -549,7 +549,7 @@
                       document.getElementById('location').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/social-media-content" />
+                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />
                     </div>
                   </div>
                 </div>
@@ -737,7 +737,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£13.50</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=34" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=34" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -758,7 +758,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£27</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=35" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=35" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -779,7 +779,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£81</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=36" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=36" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -800,7 +800,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£24.30</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=37" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=37" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -821,7 +821,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£27.54</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=38" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=38" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -842,7 +842,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£64.80</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=39" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=39" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -869,7 +869,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£10.50</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=40" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=40" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -890,7 +890,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£14</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=41" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=41" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -911,7 +911,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£17.50</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=42" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=42" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -932,7 +932,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£105</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=43" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=43" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -953,7 +953,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£140</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=44" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=44" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -974,7 +974,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£175</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=45" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=45" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1001,7 +1001,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£55</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=46" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=46" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1022,7 +1022,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£80</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=47" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=47" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1043,7 +1043,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£130</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=48" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=48" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1070,7 +1070,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£8.75</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=49" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=49" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1091,7 +1091,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£17.50</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=50" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=50" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1112,7 +1112,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£53</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=51" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=51" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1133,7 +1133,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£15.75</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=52" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=52" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1154,7 +1154,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£17.85</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=53" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=53" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1175,7 +1175,7 @@
                         <li>Management</li>
                       </ul>
                       <h4>£42</h4>
-                      <a href="http://thecontentmaestros.co.uk/order?pack=54" class="btn-main">Order Now</a>
+                      <a href="http://thecontentmaestros.com/order?pack=54" class="btn-main">Order Now</a>
                       <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
@@ -1420,7 +1420,7 @@
 <!--          <h3>Create A Social Media Content Strategy</h3>-->
 <!--          <h2>Generating More Leads and Customers Conveniently</h2>-->
 <!--          <p>Our social media content strategy is perfect for all businesses and brands. We follow a professional approach of providing quality information and maintaining customer interaction through all mediums of social channels. We tailor content as per the need and requirement of audience which suit multiple events and occasions.</p>-->
-<!--          <a href="http://thecontentmaestros.co.uk/order" class="btn-theme">Let’s Get Started</a>-->
+<!--          <a href="http://thecontentmaestros.com/order" class="btn-theme">Let’s Get Started</a>-->
 <!--        </div>-->
 <!--      </div>-->
 <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
@@ -1819,11 +1819,11 @@
         <div class="col-lg-2 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.com/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.com/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.com/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.com/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.com/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
           <div class="fologo">
@@ -1860,7 +1860,7 @@
             <li><a href="case-studies/">Case Studies</a></li>
             <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
             <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+            <!--<li><a href="http://thecontentmaestros.com/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
             <li><a href="proposal-writing/">Proposal Writing</a></li>
           </ul>
         </div> 
@@ -1949,7 +1949,7 @@
       <figure style="background-image:url(../assets/images/linda-dok.jpg)"> </figure>
       <span class="heading">Book a Call </span>
       <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.co.uk/webpages/bannerFormController.php">
+      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.com/webpages/bannerFormController.php">
         <div class="fldst btnattach">
           <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
           <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>  +1-323-283-8204</a>
@@ -1971,7 +1971,7 @@
           <input type="hidden" name="ctry" value="">
           <input type="hidden" name="pc" value="">
           
-          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/social-media-content" />
+          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />
         </div>
         
         

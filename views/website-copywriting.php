@@ -26,18 +26,18 @@
 <meta name="twitter:title" content="Website  Content Writer & Copywriting Services | CCW"/>
 <meta name="twitter:description" content="Our website content writers can help you increase your sales and grow your business significantly with best website content writing and copywriting services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/website-copywriting"/>                               
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/our-services/website-copywriting"/>                               
                                         
                                         
 
 
 <meta property="og:title" content="Website  Content Writer & Copywriting Services | CCW"/>
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/website-copywriting"/>
+<meta property="og:url" content="https://thecontentmaestros.com/our-services/website-copywriting"/>
 <meta property="og:description" content="Our website content writers can help you increase your sales and grow your business significantly with best website content writing and copywriting services."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
                                         
                                                                                 
                                         
@@ -89,7 +89,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/website-copywriting" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/website-copywriting" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -146,10 +146,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>-->
       </ul>
     </nav>
     <nav class="prvcy-nav">
@@ -248,7 +248,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/website-copywriting" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/website-copywriting" />
                   </div>
                 </div>
               </div>
@@ -448,7 +448,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/website-copywriting" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/our-services/website-copywriting" />
                         </div>
                       </div>
                     </div>
@@ -560,7 +560,7 @@
                       document.getElementById('location').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/website-copywriting" />
+                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/website-copywriting" />
                     </div>
                   </div>
                 </div>
@@ -772,7 +772,7 @@
             <div class="main-cht-us">
               <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
-            <!-- <a href="http://thecontentmaestros.co.uk/order?pack=2" class="btn-main odr-plce">Place Your Order Now</a> -->
+            <!-- <a href="http://thecontentmaestros.com/order?pack=2" class="btn-main odr-plce">Place Your Order Now</a> -->
             <button type="Submit" onclick="window.location.href='order/'" class="btn-main odr-plce">Place Your Order Now</button>
           </div>
         </div>
@@ -802,7 +802,7 @@
             <div class="main-cht-us">
               <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
-            <!-- <a href="http://thecontentmaestros.co.uk/order?pack=3" class="btn-main odr-plce">Place Your Order Now</a> -->
+            <!-- <a href="http://thecontentmaestros.com/order?pack=3" class="btn-main odr-plce">Place Your Order Now</a> -->
             <button type="Submit" onclick="window.location.href='order/'" class="btn-main odr-plce">Place Your Order Now</button>
           </div>
         </div>
@@ -957,7 +957,7 @@
 <!--          <h3>Professional Website Copywriting</h3>-->
 <!--          <h2>All-inclusive copywriting Service to Help You Achieve Your Digital Goals</h2>-->
 <!--          <p>The Content Maestros takes pride in having a team of professional and efficient web content writers who can make your business website copy better. Whether you are a new or established business, it is essential to have a copy that lures your audience. With our service, we guarantee you more visitors, leads, and customers with an improved conversion rate.</p>-->
-<!--          <a href="http://thecontentmaestros.co.uk/order" class="btn-theme">Let’s Get Started</a>-->
+<!--          <a href="http://thecontentmaestros.com/order" class="btn-theme">Let’s Get Started</a>-->
 <!--        </div>-->
 <!--      </div>-->
 <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
@@ -1357,11 +1357,11 @@
         <div class="col-lg-2 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.com/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.com/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.com/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.com/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.com/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
           <div class="fologo">
@@ -1398,7 +1398,7 @@
             <li><a href="case-studies/">Case Studies</a></li>
             <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
             <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+            <!--<li><a href="http://thecontentmaestros.com/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
             <li><a href="proposal-writing/">Proposal Writing</a></li>
           </ul>
         </div> 
@@ -1487,7 +1487,7 @@
       <figure style="background-image:url(../assets/images/linda-dok.jpg)"> </figure>
       <span class="heading">Book a Call </span>
       <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.co.uk/webpages/bannerFormController.php">
+      <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.com/webpages/bannerFormController.php">
         <div class="fldst btnattach">
           <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
           <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>  +1-323-283-8204</a>
@@ -1509,7 +1509,7 @@
           <input type="hidden" name="ctry" value="">
           <input type="hidden" name="pc" value="">
           
-          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/website-copywriting" />
+          <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/website-copywriting" />
         </div>
         
         

@@ -329,11 +329,11 @@
           </li> -->
         </ul>
       </li>
-      <!-- <li><a href="http://thecontentmaestros.co.uk/pricing">Pricing</a></li> -->
+      <!-- <li><a href="http://thecontentmaestros.com/pricing">Pricing</a></li> -->
       <li><a href="testimonials/">Testimonials</a></li>
       <li><a href="faq/">Faq</a></li>
       <li><a href="about-us/">About</a></li>
-      <!-- <li><a href="http://thecontentmaestros.co.uk/contact">Contact</a></li> -->
+      <!-- <li><a href="http://thecontentmaestros.com/contact">Contact</a></li> -->
     </ul>
 
     
@@ -361,11 +361,11 @@
             <li class="current"><a href="/">Home</a></li>
             <li class="">
               <a href="services/" class="menuside">Services</a></li>            
-            <!-- <li class=""><a href="http://thecontentmaestros.co.uk/pricing">Pricing</a></li> -->
+            <!-- <li class=""><a href="http://thecontentmaestros.com/pricing">Pricing</a></li> -->
             <li class=""><a href="testimonials/">Testimonials</a></li>
             <li class=""><a href="faq/">Faq</a></li>
             <li class=""><a href="about-us/" class="menuside">About</a></li>
-            <!-- <li class=""><a href="http://thecontentmaestros.co.uk/contact">Contact </a></li> -->
+            <!-- <li class=""><a href="http://thecontentmaestros.com/contact">Contact </a></li> -->
           </ul>
           
         </div>
@@ -766,10 +766,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>
-          <li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>
-          <li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>
-          <li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>
+          <li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>
+          <li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>
+          <li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>
+          <li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>
       </ul> -->
         <ul class="firstlevel unstyled">
           <li>

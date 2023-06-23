@@ -857,6 +857,7 @@ video.mdn{
 
 .home-banner:before {}
 
+.home-banner.footer_form_sec{height: 100%;padding: 60px 0;}
 .home-banner-content.footer_form{
     height: auto;
 }

@@ -26,8 +26,8 @@
 <meta name="twitter:title" content="Website Design & Development For Your Business | CCW"/>
 <meta name="twitter:description" content="Are you planning to develop your business website? Knock us for the best wesite design and web development services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
-<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/web-design-development"/>                   
+<meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.com/our-services/web-design-development"/>                   
                     
                     
                     
@@ -35,10 +35,10 @@
 
 <meta property="og:title" content="Website Design & Development For Your Business | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/web-design-development"/>
+<meta property="og:url" content="https://thecontentmaestros.com/our-services/web-design-development"/>
 <meta property="og:description" content="Are you planning to develop your business website? Knock us for the best wesite design and web development services."/>
-<meta property="og:site_name" content="@thecontentmaestrosuk"/>
-<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestros"/>
+<meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
               
                     
                     
@@ -88,7 +88,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/web-design-development" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/web-design-development" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -145,10 +145,10 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.com/our-services/kick-starter">Kick Starter</a></li>-->
       </ul>
     </nav>
     <nav class="prvcy-nav">
@@ -247,7 +247,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/web-design-development" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/web-design-development" />
                   </div>
                 </div>
               </div>
@@ -447,7 +447,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/web-design-development" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.com/our-services/web-design-development" />
                         </div>
                       </div>
                     </div>
@@ -553,7 +553,7 @@
                       document.getElementById('location').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/our-services/web-design-development" />
+                      <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/web-design-development" />
                     </div>
                   </div>
                 </div>
@@ -734,7 +734,7 @@
 <!--          <h3>Expert Designers & Developers</h3>-->
 <!--          <h2>Quality Web Design and Development in-sync with your branding</h2>-->
 <!--          <p>Our proficient designers and skilled developers work with an aim to provide you fully responsive and functional website solutions. At The Content Maestros, we give our customers utmost precedence by meeting every requirement within their budget.</p>-->
-<!--          <a href="http://thecontentmaestros.co.uk/order" class="btn-theme">Let’s Get Started</a>-->
+<!--          <a href="http://thecontentmaestros.com/order" class="btn-theme">Let’s Get Started</a>-->
 <!--        </div>-->
 <!--      </div>-->
 <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
