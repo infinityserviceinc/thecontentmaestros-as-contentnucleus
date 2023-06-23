@@ -100,7 +100,7 @@ $brandurl = json_encode($brandurl);
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Content Nucleaus</title>
+  <title>The Content Maestros</title>
     <meta name="description" content=""> 
    
  
@@ -273,7 +273,7 @@ $brandurl = json_encode($brandurl);
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading" style="color:black;">Invoice from Content Nucleaus</h2>
+							<h2 class="card-heading" style="color:black;">Invoice from The Content Maestros</h2>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					

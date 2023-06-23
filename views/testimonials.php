@@ -25,9 +25,9 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Testimonials | CCW"/>
 <meta name="twitter:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
-<meta name="twitter:site" content="@contentnucleaus" />
-<meta name="twitter:image" content="https://contentnucleus.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://contentnucleus.co.uk/testimonials"/>                    
+<meta name="twitter:site" content="@thecontentmaestros" />
+<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.co.uk/testimonials"/>                    
                     
 
 
@@ -36,10 +36,10 @@
 
 <meta property="og:title" content="Testimonials | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://contentnucleus.co.uk/testimonials"/>
+<meta property="og:url" content="https://thecontentmaestros.co.uk/testimonials"/>
 <meta property="og:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
-<meta property="og:site_name" content="@Contentnucleausuk"/>
-<meta property="og:image" content="https://contentnucleus.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestrosuk"/>
+<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
              
 
 
@@ -88,7 +88,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/testimonials" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -138,7 +138,7 @@
           <div class="ban-form">
             <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -186,7 +186,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/testimonials" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />
                   </div>
                 </div>
               </div>
@@ -230,7 +230,7 @@
                 <div class="ban-form">
                   <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -386,7 +386,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://contentnucleus.co.uk/testimonials" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/testimonials" />
                         </div>
                       </div>
                     </div>
@@ -413,8 +413,8 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="trst-rvw">
-          <h1>Content Nucleus Cloud documentation</h1>
-          <p>Content Nucleus provides Git and Mercurial code management for professional teams</p>
+          <h1>The Content Maestros Cloud documentation</h1>
+          <p>The Content Maestros provides Git and Mercurial code management for professional teams</p>
           <a href="order/" class="btn-theme">Get started</a>
         </div>
       </div>
@@ -427,7 +427,7 @@
               <span>DZ</span>
             </div>
             <h3>Business Head, Denizen Corporate Services</h3>
-            <p class="fortest fortstmo">We have been in the customer service industry for quite some time, our daily job requires us to develop a lot of content quickly. Content Nucleus has helped us always and won us over with their blogs time and again. Thank you for your continuous support.</p>
+            <p class="fortest fortstmo">We have been in the customer service industry for quite some time, our daily job requires us to develop a lot of content quickly. The Content Maestros has helped us always and won us over with their blogs time and again. Thank you for your continuous support.</p>
             <h5>Mark Clinton</h5>
             <div class="ratings">
               <span class="icon-star"></span>
@@ -446,7 +446,7 @@
                 <span>AW</span>
               </div>
             <h3>Dwight Arthur Wilson</h3>
-            <p class="fortest fortstmo">I branched out to a new business and was after getting my website live. The only remaining thing was content. When I found Content Nucleus I was amazed by looking at their portfolio. I thought of giving them a try, and have never regretted since. My website looks and reads perfect</p>
+            <p class="fortest fortstmo">I branched out to a new business and was after getting my website live. The only remaining thing was content. When I found The Content Maestros I was amazed by looking at their portfolio. I thought of giving them a try, and have never regretted since. My website looks and reads perfect</p>
             <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
             <h5>Businessman</h5>
             <div class="ratings">
@@ -466,7 +466,7 @@
                 <span>AT</span>
               </div>
             <h3>Antonio Tribiani</h3>
-            <p class="fortest fortstmo">I deal with thousands of shades every day both in store and online. I needed unique and catchy product descriptions for every type and subtype of glasses in my store. Content Nucleus were the first and last ones I approached. And I intend to stand by my word. They do an amazing job every time I add a new collection.</p>
+            <p class="fortest fortstmo">I deal with thousands of shades every day both in store and online. I needed unique and catchy product descriptions for every type and subtype of glasses in my store. The Content Maestros were the first and last ones I approached. And I intend to stand by my word. They do an amazing job every time I add a new collection.</p>
             <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
             <h5>Spectacle Store owner</h5>
             <div class="ratings">
@@ -486,7 +486,7 @@
                 <span>WW</span>
               </div>
             <h3>Wanda Witherspoon</h3>
-            <p class="fortest fortstmo">Most of the kids nowadays are on tablets and smartphones. My kids have been asking me for a long time for this. Someone even recommended Content Nucleus. We are now signed up for a whole year and the kids love their books. Sorry E-books. My bad. Keep up the good work.
+            <p class="fortest fortstmo">Most of the kids nowadays are on tablets and smartphones. My kids have been asking me for a long time for this. Someone even recommended The Content Maestros. We are now signed up for a whole year and the kids love their books. Sorry E-books. My bad. Keep up the good work.
 
 </p>
             <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -508,7 +508,7 @@
                 <span>SM</span>
               </div>
             <h3>Sydney Molt</h3>
-            <p class="fortest fortstmo">A press release every now and then is an absolute necessity for my product oriented company I currently work at. I seriously would have been lost without Content Nucleus's Support
+            <p class="fortest fortstmo">A press release every now and then is an absolute necessity for my product oriented company I currently work at. I seriously would have been lost without The Content Maestros's Support
 
 </p>
             <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -530,7 +530,7 @@
                 <span>SA</span>
               </div>
             <h3>Sunita Adams</h3>
-            <p class="fortest fortstmo">I only know good writing when I see one. I am unfortunately so bad at it. Content Nucleus has been a great support for my website as well as business. I have gotten my content written from them so many times. And they do well each and every time.
+            <p class="fortest fortstmo">I only know good writing when I see one. I am unfortunately so bad at it. The Content Maestros has been a great support for my website as well as business. I have gotten my content written from them so many times. And they do well each and every time.
 
 </p>
             <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->

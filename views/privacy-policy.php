@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <title>Privacy Policy | CCW</title>
 <meta name="keywords" content="Privacy Policy" />
-<meta name="description" content="This page discloses the privacy policy and practices for contentnucleus.co.uk.">
+<meta name="description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk.">
 <link rel="canonical" href="privacy-policy/" />
 
 
@@ -22,10 +22,10 @@
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Privacy Policy | CCW"/>
-<meta name="twitter:description" content="This page discloses the privacy policy and practices for contentnucleus.co.uk."/>
-<meta name="twitter:site" content="@contentnucleaus" />
-<meta name="twitter:image" content="https://contentnucleus.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://contentnucleus.co.uk/privacy-policy"/>
+<meta name="twitter:description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk."/>
+<meta name="twitter:site" content="@thecontentmaestros" />
+<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.co.uk/privacy-policy"/>
 
 
 
@@ -33,10 +33,10 @@
 
 <meta property="og:title" content="Privacy Policy | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://contentnucleus.co.uk/privacy-policy"/>
-<meta property="og:description" content="This page discloses the privacy policy and practices for contentnucleus.co.uk."/>
-<meta property="og:site_name" content="@Contentnucleausuk"/>
-<meta property="og:image" content="https://contentnucleus.co.uk/assets/images/logo.png"/>
+<meta property="og:url" content="https://thecontentmaestros.co.uk/privacy-policy"/>
+<meta property="og:description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk."/>
+<meta property="og:site_name" content="@thecontentmaestrosuk"/>
+<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
                 
                     
                     
@@ -83,7 +83,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/privacy-policy" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/privacy-policy" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -133,7 +133,7 @@
           <div class="ban-form">
             <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -181,7 +181,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/privacy-policy" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/privacy-policy" />
                   </div>
                 </div>
               </div>
@@ -225,7 +225,7 @@
                 <div class="ban-form">
                   <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -381,7 +381,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://contentnucleus.co.uk/privacy-policy" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/privacy-policy" />
                         </div>
                       </div>
                     </div>
@@ -403,7 +403,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <h2>Privacy Policy</h2>
-        <p>This notice discloses the privacy practices for contentnucleus.co.uk. This privacy notice applies solely to information collected by this website. It will notify you of the following:<br><br>What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+        <p>This notice discloses the privacy practices for thecontentmaestros.co.uk. This privacy notice applies solely to information collected by this website. It will notify you of the following:<br><br>What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
         <br>What choices are available to you regarding the use of your data.
         <br>The security procedures in place to protect the misuse of your information.
         <br>How you can correct any inaccuracies in the information.
@@ -439,8 +439,8 @@
         <p>Non-personal information such as your IP address is automatically recorded when you enter our website. This information is used only to diagnose server problems and site administration. Cookies are used on this site to enhance the user experience and for collecting usage statistics.</p>
 
         <h3>Information About Our Products and Services</h3>
-        <p>We make every effort to be as accurate as possible in describing the services and products offered on contentnucleus.co.uk. We do not warrant that the product or service descriptions, or any other content on this site is accurate, complete, reliable, current, or free of error. Please call or email us immediately if you feel that the product or service you received from us differs from the descriptions on this website.</p>
-        <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at <a href="tel:+13232838204">+1-323-283-8204</a> or contact us via email at <a href="mailto:query@contentnucleus.com">query@contentnucleus.com</a></p>
+        <p>We make every effort to be as accurate as possible in describing the services and products offered on thecontentmaestros.co.uk. We do not warrant that the product or service descriptions, or any other content on this site is accurate, complete, reliable, current, or free of error. Please call or email us immediately if you feel that the product or service you received from us differs from the descriptions on this website.</p>
+        <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at <a href="tel:+13232838204">+1-323-283-8204</a> or contact us via email at <a href="mailto:query@thecontentmaestros.com">query@thecontentmaestros.com</a></p>
 
         <h3>Confidentiality and Ownership</h3>
         <p>While many writing services require recognition or sales incentives, our service is 100% confidential. All communication and content developed or reviewed for the purposes of working together will never be disclosed to any other party under any circumstances. We reserve no rights to the products and services we provide. Everything we edit or write is considered the sole property of the client. If you contract with us, you, and only you, will be recognized as the author and/or owner of your material.</p>

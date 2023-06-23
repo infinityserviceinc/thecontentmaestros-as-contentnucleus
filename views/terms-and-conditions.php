@@ -25,18 +25,18 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Terms and Conditions | CCW"/>
 <meta name="twitter:description" content="Read complete agreement and find out the terms and conditions which you accept by using our Website or our Services."/>
-<meta name="twitter:site" content="@contentnucleaus" />
-<meta name="twitter:image" content="https://contentnucleus.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://contentnucleus.co.uk/terms-and-conditions"/>              
+<meta name="twitter:site" content="@thecontentmaestros" />
+<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.co.uk/terms-and-conditions"/>              
                     
 
 
 <meta property="og:title" content="Terms and Conditions | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://contentnucleus.co.uk/terms-and-conditions"/>
+<meta property="og:url" content="https://thecontentmaestros.co.uk/terms-and-conditions"/>
 <meta property="og:description" content="Read complete agreement and find out the terms and conditions which you accept by using our Website or our Services."/>
-<meta property="og:site_name" content="@Contentnucleausuk"/>
-<meta property="og:image" content="https://contentnucleus.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestrosuk"/>
+<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
            
                     
 
@@ -84,7 +84,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/terms-and-conditions" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/terms-and-conditions" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -134,7 +134,7 @@
           <div class="ban-form">
             <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -182,7 +182,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/terms-and-conditions" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/terms-and-conditions" />
                   </div>
                 </div>
               </div>
@@ -226,7 +226,7 @@
                 <div class="ban-form">
                   <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -382,7 +382,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://contentnucleus.co.uk/terms-and-conditions" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/terms-and-conditions" />
                         </div>
                       </div>
                     </div>
@@ -406,18 +406,18 @@
         <h2>Terms & Conditions</h2>
         <p>Your use of this Website and/or our services constitutes Your agreement to the following terms and conditions. If You do not agree with any of these terms and conditions, please do not use this Website or Our Services.</p>
         <p>If You are under the legal age of consent for Your respective district, You are not allowed to access or use this Website or Our Services. You acknowledge and agree that You must be of legal age to purchase any of Our products or services available on this Website or otherwise.</p>
-        <p>By submitting an order and/or payment, You are acknowledging that You have read and understood these terms and conditions. By submitting an order and/or payment, You are also agreeing to be legally bound by these terms and conditions, which form the entire agreement between You and contentnucleus.co.uk.</p>
+        <p>By submitting an order and/or payment, You are acknowledging that You have read and understood these terms and conditions. By submitting an order and/or payment, You are also agreeing to be legally bound by these terms and conditions, which form the entire agreement between You and thecontentmaestros.co.uk.</p>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <h3>Definition of Terms</h3>
-        <p>"Website" refers to all online content on contentnucleus.co.uk website pages.
-          <br>"Customer," "You," or "Yours" mean and refer to you and/or any other person submitting an order to contentnucleus.co.uk on your behalf.
-          <br>"Company," "We," or "Our" mean and refer to contentnucleus.co.uk, a company registered under the laws of the London Court of International Arbitration.
-          <br>"Product" means and refers to all services and products provided by contentnucleus.co.uk to Customer in accordance with his/her Order. 
+        <p>"Website" refers to all online content on thecontentmaestros.co.uk website pages.
+          <br>"Customer," "You," or "Yours" mean and refer to you and/or any other person submitting an order to thecontentmaestros.co.uk on your behalf.
+          <br>"Company," "We," or "Our" mean and refer to thecontentmaestros.co.uk, a company registered under the laws of the London Court of International Arbitration.
+          <br>"Product" means and refers to all services and products provided by thecontentmaestros.co.uk to Customer in accordance with his/her Order. 
 
-          <br>"Order" means an order via phone or e-mail made by Customer to purchase services or products provided by contentnucleus.co.uk. Orders are confirmed by down payments via cheque, credit card, cash receipt, bank wire transfer, Western Union or PayPal transfer.
+          <br>"Order" means an order via phone or e-mail made by Customer to purchase services or products provided by thecontentmaestros.co.uk. Orders are confirmed by down payments via cheque, credit card, cash receipt, bank wire transfer, Western Union or PayPal transfer.
         </p>
 
         
@@ -426,7 +426,7 @@
           <br><br>
           <strong>REFUND POLICY</strong>
           <br>
-        It is important that you read and fully understand the refund policy in order to have full knowledge of the privileges and limitations governed by the Content Nucleus’s Policy.
+        It is important that you read and fully understand the refund policy in order to have full knowledge of the privileges and limitations governed by the The Content Maestros’s Policy.
         <br><br>
         We offer refunds only in special cases and specified conditions, detailed as under:
         </p>

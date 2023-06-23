@@ -67,7 +67,7 @@
                 <div class="col-lg-8 offset-lg-2   inner-content mtpx-100 text-left">
                   <div class="form-box-main clearfix">
                     <h2>We would love to hear from you</h2>
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://contentnucleus.co.uk/webpages/contactFormController.php"  enctype="multipart/form-data">
+                    <form class="cmxform" id="contactForm"  method="POST" action="https://thecontentmaestros.co.uk/webpages/contactFormController.php"  enctype="multipart/form-data">
                       <div class="row">
                         <div class="col-md-12">
                           <label class="field-txt">Name <span>*</span></label>

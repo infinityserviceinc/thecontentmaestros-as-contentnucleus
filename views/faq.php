@@ -21,19 +21,19 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Faqs | CCW"/>
 <meta name="twitter:description" content="Take a look at the FAQs (Frequently Asked Questions) for in-depth details about our services."/>
-<meta name="twitter:site" content="@contentnucleaus" />
-<meta name="twitter:image" content="https://contentnucleus.co.uk/assets/images/logo.png " />
-<meta name="twitter:url" content="https://contentnucleus.co.uk/faq"/>
+<meta name="twitter:site" content="@thecontentmaestros" />
+<meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+<meta name="twitter:url" content="https://thecontentmaestros.co.uk/faq"/>
                     
 
 
 
 <meta property="og:title" content="FAQs | CCW" />
 <meta property="og:type" content="article"/>
-<meta property="og:url" content="https://contentnucleus.co.uk/faq"/>
+<meta property="og:url" content="https://thecontentmaestros.co.uk/faq"/>
 <meta property="og:description" content="Take a look at the FAQs (Frequently Asked Questions) for in-depth details about our services."/>
-<meta property="og:site_name" content="@Contentnucleausuk"/>
-<meta property="og:image" content="https://contentnucleus.co.uk/assets/images/logo.png"/>
+<meta property="og:site_name" content="@thecontentmaestrosuk"/>
+<meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png"/>
                   
                     
                     
@@ -83,7 +83,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/faq" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -133,7 +133,7 @@
           <div class="ban-form">
             <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -181,7 +181,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/faq" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />
                   </div>
                 </div>
               </div>
@@ -225,7 +225,7 @@
                 <div class="ban-form">
                   <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -381,7 +381,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://contentnucleus.co.uk/faq" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/faq" />
                         </div>
                       </div>
                     </div>

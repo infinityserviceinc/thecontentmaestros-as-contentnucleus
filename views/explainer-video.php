@@ -29,19 +29,19 @@
   <meta name="twitter:title" content="Professional Blog Writing Services in UK | CCW" />
   <meta name="twitter:description"
     content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs." />
-  <meta name="twitter:site" content="@contentnucleaus" />
-  <meta name="twitter:image" content="https://contentnucleus.co.uk/assets/images/logo.png " />
-  <meta name="twitter:url" content="https://contentnucleus.co.uk/our-services/blog-writing" />
+  <meta name="twitter:site" content="@thecontentmaestros" />
+  <meta name="twitter:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png " />
+  <meta name="twitter:url" content="https://thecontentmaestros.co.uk/our-services/blog-writing" />
 
 
 
   <meta property="og:title" content="Professional Blog Writing Services in UK | CCW" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://contentnucleus.co.uk/our-services/blog-writing" />
+  <meta property="og:url" content="https://thecontentmaestros.co.uk/our-services/blog-writing" />
   <meta property="og:description"
     content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs. " />
-  <meta property="og:site_name" content="@Contentnucleausuk" />
-  <meta property="og:image" content="https://contentnucleus.co.uk/assets/images/logo.png" />
+  <meta property="og:site_name" content="@thecontentmaestrosuk" />
+  <meta property="og:image" content="https://thecontentmaestros.co.uk/assets/images/logo.png" />
 
 
 
@@ -99,16 +99,16 @@
           <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
           <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
           <li><a class="inner-pad" href="wikipedia-profile/">Wikipedia Profile</a></li>
-          <!--<li><a class="inner-pad" href="http://contentnucleus.co.uk/our-services/photo-book">Photo Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://contentnucleus.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
-          <!--<li><a class="inner-pad" href="http://contentnucleus.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
-          <!--<li><a class="inner-pad" href="http://contentnucleus.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/photo-book">Photo Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-trade-book">Make a Trade Book</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/make-magazine">Make a Magazine</a></li>-->
+          <!--<li><a class="inner-pad" href="http://thecontentmaestros.co.uk/our-services/kick-starter">Kick Starter</a></li>-->
         </ul>
       </nav>
       <nav class="prvcy-nav">
         <div class="main-overlay-privacy-policy">
           <div class="overlay-privacy-box1">
-            <p>© ContentNucleus 2022. All rights reserved.</p>
+            <p>© thecontentmaestros 2022. All rights reserved.</p>
           </div>
           <div class="overlay-privacy-box2">
             <ul>
@@ -156,7 +156,7 @@
                       <div class="ban-form">
                         <form class="cmxform" method="POST" action="/leads/">
                           <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                          <input type="hidden" name="brand" value="contentnucleaus">
+                          <input type="hidden" name="brand" value="thecontentmaestros">
                           <input type="hidden" name="token" value="<?= $token;?>">
                           <input type="hidden" name="tag" value="sidepanel form in landing-page">
                           <input type="hidden" name="price" value="null">
@@ -207,7 +207,7 @@
                                 </script>
                                 <input type="hidden" name="hiddencapcha" value="">
                                 <input type="hidden" id="location" name="locationURL"
-                                  value="http://contentnucleus.co.uk/our-services/blog-writing" />
+                                  value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
                               </div>
                             </div>
                           </div>
@@ -255,7 +255,7 @@
             <div class="ban-form">
               <form class="cmxform" method="POST" action="/leads/">
                 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                <input type="hidden" name="brand" value="contentnucleaus">
+                <input type="hidden" name="brand" value="thecontentmaestros">
                 <input type="hidden" name="token" value="<?= $token;?>">
                 <input type="hidden" name="tag" value="sidepanel form in landing-page">
                 <input type="hidden" name="price" value="null">
@@ -471,7 +471,7 @@
                       <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" id="flocation" name="locationURL"
-                        value="http://contentnucleus.co.uk/our-services/blog-writing" />
+                        value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
                     </div>
                   </div>
                 </div>
@@ -532,7 +532,7 @@
                         <div class="ban-form">
                           <form class="cmxform" method="POST" action="/leads/">
                             <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                            <input type="hidden" name="brand" value="contentnucleaus">
+                            <input type="hidden" name="brand" value="thecontentmaestros">
                             <input type="hidden" name="token" value="<?= $token;?>">
                             <input type="hidden" name="tag" value="sidepanel form in landing-page">
                             <input type="hidden" name="price" value="null">
@@ -584,7 +584,7 @@
                                   </script>
                                   <input type="hidden" name="hiddencapcha" value="">
                                   <input type="hidden" id="location" name="locationURL"
-                                    value="http://contentnucleus.co.uk/our-services/blog-writing" />
+                                    value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
                                 </div>
                               </div>
                             </div>
@@ -1322,7 +1322,7 @@
                   </div>
                   <h3>Business Head, Denizen Corporate Services</h3>
                   <p class="fortest">We have been in the customer service industry for quite some time, our daily job
-                    requires us to develop a lot of content quickly. Content Nucleus has helped us always and won us
+                    requires us to develop a lot of content quickly. The Content Maestros has helped us always and won us
                     over with their blogs time and again. Thank you for your continuous support.</p>
                   <h5>Mark Clinton</h5>
                   <div class="ratings">
@@ -1344,7 +1344,7 @@
                   </div>
                   <h3>Dwight Arthur Wilson</h3>
                   <p class="fortest">I branched out to a new business and was after getting my website live. The only
-                    remaining thing was content. When I found Content Nucleus I was amazed by looking at their
+                    remaining thing was content. When I found The Content Maestros I was amazed by looking at their
                     portfolio. I thought of giving them a try, and have never regretted since. My website looks and
                     reads perfect</p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -1367,7 +1367,7 @@
                   </div>
                   <h3>Antonio Tribiani</h3>
                   <p class="fortest">I deal with thousands of shades every day both in store and online. I needed unique
-                    and catchy product descriptions for every type and subtype of glasses in my store. Content Nucleus
+                    and catchy product descriptions for every type and subtype of glasses in my store. The Content Maestros
                     were the first and last ones I approached. And I intend to stand by my word. They do an amazing job
                     every time I add a new collection.</p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -1390,7 +1390,7 @@
                   </div>
                   <h3>Wanda Witherspoon</h3>
                   <p class="fortest">Most of the kids nowadays are on tablets and smartphones. My kids have been asking
-                    me for a long time for this. Someone even recommended Content Nucleus. We are now signed up for a
+                    me for a long time for this. Someone even recommended The Content Maestros. We are now signed up for a
                     whole year and the kids love their books. Sorry E-books. My bad. Keep up the good work.
 
                   </p>
@@ -1414,7 +1414,7 @@
                   </div>
                   <h3>Sydney Molt</h3>
                   <p class="fortest">A press release every now and then is an absolute necessity for my product oriented
-                    company I currently work at. I seriously would have been lost without Content Nucleus's Support
+                    company I currently work at. I seriously would have been lost without The Content Maestros's Support
 
                   </p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -1584,7 +1584,7 @@
                       <h2>We would love to hear from you</h2>
                       <form class="cmxform" method="POST" action="/leads/">
                         <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                        <input type="hidden" name="brand" value="contentnucleaus">
+                        <input type="hidden" name="brand" value="thecontentmaestros">
                         <input type="hidden" name="token" value="<?= $token;?>">
                         <input type="hidden" name="tag" value="sidepanel form in landing-page">
                         <input type="hidden" name="price" value="null">
@@ -1652,11 +1652,11 @@
           <div class="col-lg-2 offset-lg-1">
             <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://contentnucleus.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://contentnucleus.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://contentnucleus.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://contentnucleus.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://contentnucleus.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
             <div class="fologo">
@@ -1693,24 +1693,24 @@
               <li><a href="case-studies/">Case Studies</a></li>
               <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
               <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-              <!--<li><a href="http://contentnucleus.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+              <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
               <li><a href="proposal-writing/">Proposal Writing</a></li>
             </ul>
           </div>
           <div class="col-lg-3">
-            <h3 class="xsmtpx-30">ABOUT ContentNucleus</h3>
+            <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
             <ul class="linkinglist">
               <li><a href="tel:+13232838204">+1-323-283-8204</a></li>
               <li><a class="address">2021 Fillmore Street, Ste #1256,San Francisco, CA 94115-2708</a></li>
             </ul>
             <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/Contentnucleausuk/"><i class="fa fa-facebook"
+              <li><a href="https://www.facebook.com/thecontentmaestrosuk/"><i class="fa fa-facebook"
                     aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/contentnucleaus"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <li><a href="https://twitter.com/thecontentmaestros"><i class="fa fa-twitter" aria-hidden="true"></i></a>
               </li>
-              <li><a href="https://www.instagram.com/ContentNucleus/"><i class="fa fa-instagram"
+              <li><a href="https://www.instagram.com/thecontentmaestros/"><i class="fa fa-instagram"
                     aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/contentnucleus/"><i class="fa fa-linkedin"
+              <li><a href="https://www.linkedin.com/company/thecontentmaestros/"><i class="fa fa-linkedin"
                     aria-hidden="true"></i></a></li>
             </ul>
           </div>
@@ -1741,7 +1741,7 @@
               <!-- <div class="fologo">
             <img src="../assets/images/logo.png">
           </div> -->
-              <p class="copyright">&copy; ContentNucleus <span id="year"></span>. All rights reserved.</p>
+              <p class="copyright">&copy; thecontentmaestros <span id="year"></span>. All rights reserved.</p>
               <!--<p class="copyright"><strong>ORBIT TECHNOLOGY SOLUTIONS LTD</strong>-->
               <!--     <br>-->
               <!--     381 Audley Range, Blackburn, Lancashire, United Kingdom, BB1 1UD-->
@@ -1788,7 +1788,7 @@
           <h2 class="text-center">Our smart and friendly client support team is available to guide you through the
             creative process and answer all of your questions.</h2>
           <form id="popupfrm" class="cmxform" method="POST"
-            action="https://contentnucleus.co.uk/webpages/bannerFormController.php">
+            action="https://thecontentmaestros.co.uk/webpages/bannerFormController.php">
             <div class="fldst btnattach">
               <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
               <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>
@@ -1813,7 +1813,7 @@
               <input type="hidden" name="pc" value="">
 
               <input type="hidden" id="location" name="locationURL"
-                value="http://contentnucleus.co.uk/our-services/blog-writing" />
+                value="http://thecontentmaestros.co.uk/our-services/blog-writing" />
             </div>
 
 
@@ -1928,7 +1928,7 @@
             <div class="analyzeform ">
               <form method="POST" action="/leads/">
                 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                <input type="hidden" name="brand" value="contentnucleaus">
+                <input type="hidden" name="brand" value="thecontentmaestros">
                 <input type="hidden" name="token" value="<?= $token;?>">
                 <input type="hidden" name="tag" value="sidepanel form in landing-page">
                 <input type="hidden" name="price" value="null">

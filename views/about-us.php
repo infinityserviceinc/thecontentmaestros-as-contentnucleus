@@ -6,7 +6,7 @@
 <head>
 <title>Get to Know Us | CCW</title>
 <meta name="keywords" content="">
-<meta name="description" content="Content Nucleus has seen an upsurge in success with a purpose-driven, user focused, and end-vision approach; learn more about our strategy">
+<meta name="description" content="The Content Maestros has seen an upsurge in success with a purpose-driven, user focused, and end-vision approach; learn more about our strategy">
 
 
 
@@ -66,7 +66,7 @@
 <!--              <input type="hidden" name="hiddencapcha" value="">-->
 <!--              <input class="" type="hidden" name="tctry" value="" />-->
 <!--          <input type="hidden" name="tpc" value="">-->
-<!--              <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/about-us" />-->
+<!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />-->
 <!--               </div>-->
 
 <!--               <div class="fldst">-->
@@ -116,7 +116,7 @@
           <div class="ban-form">
             <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -164,7 +164,7 @@
                     document.getElementById('location').value = window.location.href;
                     </script>
                     <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" id="location" name="locationURL" value="http://contentnucleus.co.uk/about-us" />
+                    <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />
                   </div>
                 </div>
               </div>
@@ -208,7 +208,7 @@
                 <div class="ban-form">
                   <form class="cmxform" method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
@@ -364,7 +364,7 @@
                       <input class="" type="hidden" name="ctry" value="Pakistan Pakistan Pakistan Pakistan Pakistan Pakistan ">
                           <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" id="flocation" name="locationURL" value="http://contentnucleus.co.uk/about-us" />
+                      <input type="hidden" id="flocation" name="locationURL" value="http://thecontentmaestros.co.uk/about-us" />
                         </div>
                       </div>
                     </div>

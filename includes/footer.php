@@ -5,11 +5,11 @@
         <div class="col-lg-2 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="http://contentnucleus.co.uk/logo-design">Logo Design</a></li>
-          <li><a href="http://contentnucleus.co.uk/website-design-development">Website Design &amp; Development</a></li>
-          <li><a href="http://contentnucleus.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
-          <li><a href="http://contentnucleus.co.uk/mobile-app-development">Mobile App Development</a></li>
-          <li><a href="http://contentnucleus.co.uk/video-animation-services">Video Animation Services</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/logo-design">Logo Design</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/website-design-development">Website Design &amp; Development</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/search-engine-optimization">Search Engine Optimization</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/mobile-app-development">Mobile App Development</a></li>
+          <li><a href="http://thecontentmaestros.co.uk/video-animation-services">Video Animation Services</a></li>
             
           </ul> -->
           <div class="fologo">
@@ -46,21 +46,21 @@
             <li><a href="case-studies/">Case Studies</a></li>
             <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
             <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://contentnucleus.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
+            <!--<li><a href="http://thecontentmaestros.co.uk/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
             <li><a href="proposal-writing/">Proposal Writing</a></li>
           </ul>
         </div> 
         <div class="col-lg-3">
-          <h3 class="xsmtpx-30">ABOUT ContentNucleus</h3>
+          <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
           <ul class="linkinglist">
             <li><a href="tel:+13232838204">+1-323-283-8204</a></li>
             <li><a class="address">2021 Fillmore Street, Ste #1256,San Francisco, CA 94115-2708</a></li>
           </ul>
            <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/Contentnucleausuk/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/contentnucleaus"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.instagram.com/ContentNucleus/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/contentnucleus/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/thecontentmaestrosuk/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/thecontentmaestros"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/thecontentmaestros/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/thecontentmaestros/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
           </ul>
         </div>  
       </div>
@@ -90,7 +90,7 @@
           <!-- <div class="fologo">
             <img src="assets/images/logo.png">
           </div> -->
-          <p class="copyright">&copy;  ContentNucleus <span id="year"></span>. All rights reserved.</p>
+          <p class="copyright">&copy;  thecontentmaestros <span id="year"></span>. All rights reserved.</p>
            <!--<p class="copyright"><strong>ORBIT TECHNOLOGY SOLUTIONS LTD</strong>-->
            <!--     <br>-->
            <!--     381 Audley Range, Blackburn, Lancashire, United Kingdom, BB1 1UD-->
@@ -169,7 +169,7 @@
           <div class="analyzeform ">
             <form method="POST" action="/leads/">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
-                  <input type="hidden" name="brand" value="contentnucleaus">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
