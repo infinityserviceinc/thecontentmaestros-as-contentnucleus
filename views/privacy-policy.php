@@ -97,7 +97,7 @@
 <!--                 <button type="submit" form="popupfrm" value="Submit"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
 
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+13232838204">+1-323-283-8204</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+19295667079">+1-929-566-7079</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -207,9 +207,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -440,7 +440,7 @@
 
         <h3>Information About Our Products and Services</h3>
         <p>We make every effort to be as accurate as possible in describing the services and products offered on thecontentmaestros.co.uk. We do not warrant that the product or service descriptions, or any other content on this site is accurate, complete, reliable, current, or free of error. Please call or email us immediately if you feel that the product or service you received from us differs from the descriptions on this website.</p>
-        <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at <a href="tel:+13232838204">+1-323-283-8204</a> or contact us via email at <a href="mailto:query@thecontentmaestros.com">query@thecontentmaestros.com</a></p>
+        <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at <a href="tel:+19295667079">+1-929-566-7079</a> or contact us via email at <a href="mailto:query@thecontentmaestros.com">query@thecontentmaestros.com</a></p>
 
         <h3>Confidentiality and Ownership</h3>
         <p>While many writing services require recognition or sales incentives, our service is 100% confidential. All communication and content developed or reviewed for the purposes of working together will never be disclosed to any other party under any circumstances. We reserve no rights to the products and services we provide. Everything we edit or write is considered the sole property of the client. If you contract with us, you, and only you, will be recognized as the author and/or owner of your material.</p>

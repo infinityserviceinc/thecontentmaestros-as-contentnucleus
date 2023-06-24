@@ -156,9 +156,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-      <a href="tel:+13232838204" class="call_wrap">
+      <a href="tel:+19295667079" class="call_wrap">
         <span class="icoo"><i class="fa fa-phone"></i></span>
-        <span> +1-323-283-8204 </span>
+        <span> +1-929-566-7079 </span>
       </a>
     </div>.
     <div class="floating-overlay"></div>
@@ -613,13 +613,12 @@
             <h3><span>Let Us Help You Succeed</span> Innovative Content Writing Agency</h3>
             <p>At The Content Maestros, we seek to provide a wide range of content writing, editing, and proofreading
               services to a varied global clientele.</p>
-            <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+            <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-
 
   <!-- <div class="clientele-sec">
   <div class="container">
@@ -682,6 +681,8 @@
     </div>
   </div>
 </div> -->
+
+
   <section class="main-counter-sec">
     <div class="container">
       <div class="row packslider">
@@ -737,7 +738,74 @@
     </div>
   </section>
 
-  <!-- <section class="main-book-cover-sec">
+  <div class="section3">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="sec3_cta">
+               <h3>Get Specifically Tailored Content</h3>
+               <p>We produce premium quality that is verifiable, backed by research, and 100% plagiarism-free.</p>
+               <div class="combo_btn">
+                  <a href="javascript:;" class="btn-theme" onclick="setButtonURL();" style="background:#fff;border-color:#fff;color:#000;">Consult an Expert</a>
+                  <a href="tel:+19295667079" class="btn-theme-outline" style="border-color:#fff;color:#fff;"><img class="lazy" alt="" src="images/call-img.webp" style="">+1-929-566-7079</a>
+                  <a href="order/" class="btn-theme" style="background:#fff;border-color:#fff;color:#000;">Get a Quote</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+  <section class="main-ghst-writng-second-sec sec-padding-60">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="wy-chseus-heading">
+            <h3>Why choose us</h3>
+            <p>Unlike our competitors, we take pride in offering personalised and targeted writing solutions to
+              businesses.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="main-ser">
+            <div class="ser-box2">
+              <ul>
+                <li>Researching and outlining a draft</li>
+                <li>The Content Maestros genuine content based on your idea</li>
+                <li>Thorough editing to guarantee the text is error free</li>
+                <li>Critical review and proofreading</li>
+                <li>Formatting and typesetting for publication</li>
+                <li>Branding and marketing your book worldwide</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="main-ser main-serv-mob">
+            <div class="ser-box2">
+              <ul>
+                <li>Book cover designing, illustration and typesetting</li>
+                <li>E-book publication</li>
+                <li>Audiobooks</li>
+                <li>Video book trailers</li>
+                <li>Web design and Internet SEO</li>
+                <li>Branding and publicity</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="wy-cseus">
+            <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="main-book-cover-sec">
     <div class="container-fluid">
       <div class="">
         <h2>Our Recent Book Releases</h2>
@@ -1038,56 +1106,25 @@
         </div>
       </div>
     </div>
-  </section> -->
-
-  <section class="main-ghst-writng-second-sec sec-padding-60">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
-            <p>Unlike our competitors, we take pride in offering personalised and targeted writing solutions to
-              businesses.</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="main-ser">
-            <div class="ser-box2">
-              <ul>
-                <li>Researching and outlining a draft</li>
-                <li>The Content Maestros genuine content based on your idea</li>
-                <li>Thorough editing to guarantee the text is error free</li>
-                <li>Critical review and proofreading</li>
-                <li>Formatting and typesetting for publication</li>
-                <li>Branding and marketing your book worldwide</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="main-ser main-serv-mob">
-            <div class="ser-box2">
-              <ul>
-                <li>Book cover designing, illustration and typesetting</li>
-                <li>E-book publication</li>
-                <li>Audiobooks</li>
-                <li>Video book trailers</li>
-                <li>Web design and Internet SEO</li>
-                <li>Branding and publicity</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12">
-          <div class="wy-cseus">
-            <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
+
+  <div class="section6">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="sec6_cta">
+               <h3>Trust Us with Your Content</h3>
+               <p>Sit back and relax. Our writers will take care of your needs.</p>
+               <div class="combo_btn">
+                  <a href="javascript:;" class="btn-theme" onclick="setButtonURL();" style="background:#000;border-color:#000;">Consult an Expert</a>
+                  <a href="tel:+19295667079" class="btn-theme-outline" style="border-color:#fff;color:#fff;"><img class="lazy" alt="" src="images/call-img.webp" style="">+1-929-566-7079</a>
+                  <a href="order/" class="btn-theme" style="background:#000;border-color:#000;">Get a Quote</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
 
   <section class="myprocess mypcros">
     <div class="container">
@@ -1149,7 +1186,7 @@
   </section>
 
 
-  <!-- <section class="main-princing-sec-hme sec-padding-60">
+<!-- <section class="main-princing-sec-hme sec-padding-60">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -1159,7 +1196,7 @@
         </div>
       </div>
     </div>
-  <div class="row">
+    <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="prce_box">
               <h3>Bronze <span>Ghost Writing</span></h3>
@@ -1175,7 +1212,7 @@
               <h4>£365</h4>
               <b>200 Pages</b>
               <a href="http://thecontentmaestros.com/order?pack=9" class="btn-main">Order Now</a>
-              <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1193,7 +1230,7 @@
               <h4>£465</h4>
               <b>201 to 400 Pages</b>
               <a href="http://thecontentmaestros.com/order?pack=10" class="btn-main">Order Now</a>
-              <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1211,13 +1248,11 @@
               <h4>£565</h4>
               <b>401 to 600 Pages</b>
               <a href="http://thecontentmaestros.com/order?pack=11" class="btn-main">Order Now</a>
-              <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
           </div>
         </div>
       </div>
 </section> -->
-
-
 
 
 

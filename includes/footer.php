@@ -53,8 +53,8 @@
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
           <ul class="linkinglist">
-            <li><a href="tel:+13232838204">+1-323-283-8204</a></li>
-            <li><a class="address">2021 Fillmore Street, Ste #1256,San Francisco, CA 94115-2708</a></li>
+            <li><a href="tel:+19295667079">+1-929-566-7079</a></li>
+            <li><a class="address">150 West 25th St New York, NY 10001</a></li>
           </ul>
            <ul class="scalmdia">
               <li><a href="https://www.facebook.com/thecontentmaestrosuk/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -147,7 +147,7 @@
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+13232838204" class="xicon phone">
+    <a href="tel:+19295667079" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>

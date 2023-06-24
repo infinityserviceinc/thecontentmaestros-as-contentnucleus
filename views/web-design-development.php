@@ -102,7 +102,7 @@
 <!--                 <button type="submit" form="popupfrm" value="Submit"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
 
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+13232838204">+1-323-283-8204</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+19295667079">+1-929-566-7079</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -273,9 +273,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -481,7 +481,7 @@
               <li>7+ years of experience</li>
             </ul>
            <a href="order/" class="btn-theme ml-0">Let’s Get Started</a>
-          <a href="tel:+13232838204" class="btn-theme-outline bnr-white-btn">+1-323-283-8204</a>
+          <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -789,7 +789,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="wy-cseus">
-          <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
+          <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -1235,7 +1235,7 @@
         <div class="wrapper ltus-hlp-sced">
           <h3>Building seamless experience for smoother business success:</h3>
           <p>A well put together teams of experts, a rich portfolio of exceptionality and guarantee of profitable investments; we set new benchmarks in the design industry.</p>
-          <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+          <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
         </div>
       </div>
     </div>

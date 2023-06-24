@@ -219,9 +219,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -426,7 +426,7 @@
               <li>One Time Payment, No Monthly/Yearly Fee</li>
             </ul>
            <a href="order/" class="btn-theme">Let’s Get Started</a>
-          <a href="tel:+13232838204" class="btn-theme-outline bnr-white-btn">+1-323-283-8204</a>
+          <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -852,7 +852,7 @@ The vast majority of our business comes from repeat customers, many of whom we�
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="wy-cseus">
-          <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
+          <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -1017,7 +1017,7 @@ The vast majority of our business comes from repeat customers, many of whom we�
         <div class="wrapper ltus-hlp-sced">
           <h3>Affordable packages that suits your budget</h3>
           <p>Our success lies in changing the game for our clients’ brands. By focusing on customer outcomes, we build beautiful, engaging experiences that drive real business results.</p>
-          <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+          <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
         </div>
       </div>
     </div>

@@ -350,7 +350,7 @@
   <div class="top-bar d-none d-lg-block">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-7">
+        <div class="col-lg-6">
           
           <div class="secondlogo">
             <a href="/">
@@ -369,11 +369,20 @@
           </ul>
           
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-6">
           <ul class="top-info-list">
-            <li><a href="tel:+13232838204">+1-323-283-8204 </a></li>
-            <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
-            <li><a href="order/" class="btn-main">Let's Get Started</a></li>
+            <li>
+                <a href="tel:+19295667079">
+                    <span>
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                    </span>
+                    +1-929-566-7079 
+                </a>
+            </li>
+            
+            <li><a href="javascript:;" class="chat-border" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a></li>
+            
+            <li><a href="order/" class="btn-main-">Let's Get Started</a></li>
           </ul>
         </div>
       </div>

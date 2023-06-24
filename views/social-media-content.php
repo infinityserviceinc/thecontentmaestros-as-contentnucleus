@@ -98,7 +98,7 @@
 <!--                 <button type="submit" form="popupfrm" value="Submit"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
 
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+13232838204">+1-323-283-8204</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+19295667079">+1-929-566-7079</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -269,9 +269,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -477,7 +477,7 @@
               <li>7+ years of experience</li>
             </ul>
            <a href="order/" class="btn-theme ml-0">Let’s Get Started</a>
-          <a href="tel:+13232838204" class="btn-theme-outline bnr-white-btn">+1-323-283-8204</a>
+          <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -738,7 +738,7 @@
                       </ul>
                       <h4>£13.50</h4>
                       <a href="http://thecontentmaestros.com/order?pack=34" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -759,7 +759,7 @@
                       </ul>
                       <h4>£27</h4>
                       <a href="http://thecontentmaestros.com/order?pack=35" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -780,7 +780,7 @@
                       </ul>
                       <h4>£81</h4>
                       <a href="http://thecontentmaestros.com/order?pack=36" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -801,7 +801,7 @@
                       </ul>
                       <h4>£24.30</h4>
                       <a href="http://thecontentmaestros.com/order?pack=37" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -822,7 +822,7 @@
                       </ul>
                       <h4>£27.54</h4>
                       <a href="http://thecontentmaestros.com/order?pack=38" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -843,7 +843,7 @@
                       </ul>
                       <h4>£64.80</h4>
                       <a href="http://thecontentmaestros.com/order?pack=39" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -870,7 +870,7 @@
                       </ul>
                       <h4>£10.50</h4>
                       <a href="http://thecontentmaestros.com/order?pack=40" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -891,7 +891,7 @@
                       </ul>
                       <h4>£14</h4>
                       <a href="http://thecontentmaestros.com/order?pack=41" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -912,7 +912,7 @@
                       </ul>
                       <h4>£17.50</h4>
                       <a href="http://thecontentmaestros.com/order?pack=42" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -933,7 +933,7 @@
                       </ul>
                       <h4>£105</h4>
                       <a href="http://thecontentmaestros.com/order?pack=43" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -954,7 +954,7 @@
                       </ul>
                       <h4>£140</h4>
                       <a href="http://thecontentmaestros.com/order?pack=44" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -975,7 +975,7 @@
                       </ul>
                       <h4>£175</h4>
                       <a href="http://thecontentmaestros.com/order?pack=45" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -1002,7 +1002,7 @@
                       </ul>
                       <h4>£55</h4>
                       <a href="http://thecontentmaestros.com/order?pack=46" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4">
@@ -1023,7 +1023,7 @@
                       </ul>
                       <h4>£80</h4>
                       <a href="http://thecontentmaestros.com/order?pack=47" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4">
@@ -1044,7 +1044,7 @@
                       </ul>
                       <h4>£130</h4>
                       <a href="http://thecontentmaestros.com/order?pack=48" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -1071,7 +1071,7 @@
                       </ul>
                       <h4>£8.75</h4>
                       <a href="http://thecontentmaestros.com/order?pack=49" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1092,7 +1092,7 @@
                       </ul>
                       <h4>£17.50</h4>
                       <a href="http://thecontentmaestros.com/order?pack=50" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1113,7 +1113,7 @@
                       </ul>
                       <h4>£53</h4>
                       <a href="http://thecontentmaestros.com/order?pack=51" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1134,7 +1134,7 @@
                       </ul>
                       <h4>£15.75</h4>
                       <a href="http://thecontentmaestros.com/order?pack=52" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1155,7 +1155,7 @@
                       </ul>
                       <h4>£17.85</h4>
                       <a href="http://thecontentmaestros.com/order?pack=53" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
@@ -1176,7 +1176,7 @@
                       </ul>
                       <h4>£42</h4>
                       <a href="http://thecontentmaestros.com/order?pack=54" class="btn-main">Order Now</a>
-                      <p>Confused? <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -1208,7 +1208,7 @@
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -1235,7 +1235,7 @@
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -1263,7 +1263,7 @@
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -1476,7 +1476,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="wy-cseus">
-          <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
+          <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -1735,7 +1735,7 @@
         <div class="wrapper ltus-hlp-sced">
           <h3>You are live, make every word count:</h3>
           <p>The quality of content on social media is what will give your brand timeliness, relevance and lasting impact—let us redefine perspectives. </p>
-          <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+          <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
         </div>
       </div>
     </div>
@@ -1867,8 +1867,9 @@
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
           <ul class="linkinglist">
-            <li><a href="tel:+13232838204">+1-323-283-8204</a></li>
-            <li><a class="address">2021 Fillmore Street, Ste #1256,San Francisco, CA 94115-2708</a></li>
+            <li><a href="tel:+19295667079">+1-929-566-7079</a></li>
+            <li><a class="address">150 West 25th St
+New York, NY 10001</a></li>
           </ul>
            <ul class="scalmdia">
               <li><a href="https://www.facebook.com/thecontentmaestrosuk/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -1952,7 +1953,7 @@
       <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.com/webpages/bannerFormController.php">
         <div class="fldst btnattach">
           <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-          <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>  +1-323-283-8204</a>
+          <a class="callus" href="tel:+19295667079"> Free writing consultation <i class="fa fa-phone"></i>  +1-929-566-7079</a>
         </div>
         <div class="fldst-two">
           <input type="text" name="Name" placeholder="Enter Name" required="">
@@ -1988,7 +1989,7 @@
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+13232838204" class="xicon phone">
+    <a href="tel:+19295667079" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>

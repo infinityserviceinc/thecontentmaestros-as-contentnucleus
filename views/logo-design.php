@@ -219,9 +219,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -421,7 +421,7 @@
            <p>We are a professional Logo Design Company!</p>
             
            <a href="order/" class="btn-theme">Let’s Get Started</a>
-          <a href="tel:+13232838204" class="btn-theme-outline bnr-white-btn">+1-323-283-8204</a>
+          <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -837,7 +837,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="wy-cseus">
-          <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
+          <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -1002,7 +1002,7 @@
         <div class="wrapper ltus-hlp-sced">
           <h3>We Offer Impressive Custom Logo Designs Services.</h3>
           <p>Being a professional logo design services company, we create custom logo design online and make sure that your logo is created in such way that it stands above your competitor’s logos and becomes a memorable mascot.</p>
-          <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+          <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
         </div>
       </div>
     </div>

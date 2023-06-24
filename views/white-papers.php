@@ -97,7 +97,7 @@
 <!--                 <button type="submit" form="popupfrm" value="Submit"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
 
 <!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+13232838204">+1-323-283-8204</a></span></p>-->
+<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+19295667079">+1-929-566-7079</a></span></p>-->
 <!--             </form>-->
 <!--           </div>-->
 <!--       </div>-->
@@ -268,9 +268,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a> -->
-            <a href="tel:+13232838204" class="call_wrap">
+            <a href="tel:+19295667079" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +1-323-283-8204 </span>
+              <span> +1-929-566-7079 </span>
             </a>
           </div>.
           <div class="floating-overlay"></div>
@@ -476,7 +476,7 @@
               <li>7+ years of experience</li>
             </ul>
            <a href="order/" class="btn-theme">Let’s Get Started</a>
-          <a href="tel:+13232838204" class="btn-theme-outline bnr-white-btn">+1-323-283-8204</a>
+          <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
@@ -727,7 +727,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -752,7 +752,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -777,7 +777,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
           </div>
           <div class="pce-box-2">
             <div class="main-cht-us">
-              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+13232838204" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
             <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
           </div>
@@ -990,7 +990,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="wy-cseus">
-          <a href="tel:+13232838204" class="btn-theme">Let's Talk</a>
+          <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -1247,7 +1247,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
         <div class="wrapper ltus-hlp-sced">
           <h3>Your guide to ace in sales meetings delivered: </h3>
           <p>A white paper is all about branding, but not like a commercial promotion. It requires honed up expertise and understanding of the basics—a rarity of the writing industry. </p>
-          <a href="tel:+13232838204" class="btn-theme-outline">Let’s start writing with us</a>
+          <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
         </div>
       </div>
     </div>
@@ -1379,8 +1379,9 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
           <ul class="linkinglist">
-            <li><a href="tel:+13232838204">+1-323-283-8204</a></li>
-            <li><a class="address">2021 Fillmore Street, Ste #1256,San Francisco, CA 94115-2708</a></li>
+            <li><a href="tel:+19295667079">+1-929-566-7079</a></li>
+            <li><a class="address">150 West 25th St
+New York, NY 10001</a></li>
           </ul>
            <ul class="scalmdia">
               <li><a href="https://www.facebook.com/thecontentmaestrosuk/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -1464,7 +1465,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
       <form id="popupfrm" class="cmxform"  method="POST" action="https://thecontentmaestros.com/webpages/bannerFormController.php">
         <div class="fldst btnattach">
           <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-          <a class="callus" href="tel:+13232838204"> Free writing consultation <i class="fa fa-phone"></i>  +1-323-283-8204</a>
+          <a class="callus" href="tel:+19295667079"> Free writing consultation <i class="fa fa-phone"></i>  +1-929-566-7079</a>
         </div>
         <div class="fldst-two">
           <input type="text" name="Name" placeholder="Enter Name" required="">
@@ -1500,7 +1501,7 @@ l<section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-sr
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+13232838204" class="xicon phone">
+    <a href="tel:+19295667079" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>
