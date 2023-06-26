@@ -6,15 +6,33 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>SEO Writing Service</title>
-  <meta name="keywords" content="">
-  <meta name="SEO Writing Service" content="">
+  <title>Press Release Writing By Professional Writers | CCW</title>
+  <meta name="keywords" content="press releases | press release example | press release template uk">
+  <meta name="description"
+    content="Make the powerful statement with expert written press releases in Hemel Hempstead, Hertfordshire. Check out the press release templates available on our website.">
+  <link rel="canonical" href="press-release/" />
 
   <?php include_once("includes/head.php") ?>
 
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Press Release Writing By Professional Writers | CCW" />
+  <meta name="twitter:description"
+    content="Make the powerful statement with expert written press releases. Check out the press release templates available on our website." />
+  <meta name="twitter:site" content="@thecontentmaestros" />
+  <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
+  <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/press-release" />
+
+  <meta property="og:title" content="Press Release Writing By Professional Writers | CCW" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thecontentmaestros.com/our-services/press-release" />
+  <meta property="og:description"
+    content="Make the powerful statement with expert written press releases. Check out the press release templates available on our website." />
+  <meta property="og:site_name" content="@thecontentmaestros" />
+  <meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png" />
+
 </head>
 
-<body class="ghostwriting-page">
+<body class="ghostwriting-page prs_pge">
 
   <noscript>
     <div id="jqcheck"><img
@@ -55,7 +73,7 @@
   <!--              <input type="hidden" name="hiddencapcha" value="">-->
   <!--              <input class="" type="hidden" name="tctry" value="" />-->
   <!--          <input type="hidden" name="tpc" value="">-->
-  <!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/seo-writing" />-->
+  <!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/press-release" />-->
   <!--               </div>-->
 
   <!--               <div class="fldst">-->
@@ -76,7 +94,6 @@
   <!--   </div>-->
   <!--</div>-->
   <?php include_once("includes/header.php") ?>
-
 
   <div class="overlay overlay-hugeinc">
     <div class="overlay-inner">
@@ -217,7 +234,7 @@
                                 </script>
                                 <input type="hidden" name="hiddencapcha" value="">
                                 <input type="hidden" id="location" name="locationURL"
-                                  value="http://thecontentmaestros.com/our-services/seo-writing" />
+                                  value="http://thecontentmaestros.com/our-services/press-release" />
                               </div>
                             </div>
                           </div>
@@ -479,7 +496,7 @@
                       <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" id="flocation" name="locationURL"
-                        value="http://thecontentmaestros.com/our-services/seo-writing" />
+                        value="http://thecontentmaestros.com/our-services/press-release" />
                     </div>
                   </div>
                 </div>
@@ -491,15 +508,23 @@
     </div>
   </div>
 
-  <!-- <section class="main-ghst-writng-first-sec sec-padding-60">
+  <!-- <section class="main-ghst-writng-first-sec sec-padding-60"
+    style="background-image: linear-gradient(to top left, #533a63 0%,#2f1d3c 100%);">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="ghst-writng-content">
-            <h1>Conquer The Search Engine!</h1>
-            <p>Our SEO writers understand the core principles of search engine optimization.</p>
-            <a href="#" class="btn-theme ml-0">Let’s Get Started</a>
-            <a href="#" class="btn-theme-outline">+1-929-566-7079</a>
+            <h1>Impression-making. Influential. Impactful— that’s how we get all eyes on you:</h1>
+            <p>Give your brand the coverage you desire and new customers it needs.</p>
+            <ul class="hme-lst-stle hme-st-lft ltf">
+              <li>Plagiarism free content</li>
+              <li>Meeting the content standards </li>
+              <li>Complete confidentiality of the service</li>
+              <li>Limitless revisions</li>
+              <li>7+ years of experience</li>
+            </ul>
+            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
@@ -577,7 +602,7 @@
                                   </script>
                                   <input type="hidden" name="hiddencapcha" value="">
                                   <input type="hidden" id="location" name="locationURL"
-                                    value="http://thecontentmaestros.com/our-services/seo-writing" />
+                                    value="http://thecontentmaestros.com/our-services/press-release" />
                                 </div>
                               </div>
                             </div>
@@ -592,39 +617,9 @@
           </div>
         </div>
       </div>
-      <div class="row">
-
-        <div class=" col-lg-12 col-xl-12 text-center">
-          <div class="home-banner-content hme-bner-cntn">
-            <div class="analyzeform col-lg-12">
-              <form class="" id="banform" method="POST"
-                action="https://thecontentmaestros.com/webpages/bannerFormController.php" novalidate="novalidate">
-                <div class="row">
-                  <div class="wrap">
-                    <div class="dtf">
-                      <input id="fname" name="name" minlength="5" class="round" type="text" placeholder="Enter Name"
-                        required="">
-                    </div>
-                    <div class="dtf">
-                      <input id="cemail" type="email" name="email" placeholder="Enter email here" required="">
-                    </div>
-                    <div class="dtf">
-                      <input id="phone" name="Number" required="" type="number" rangelength="[2,15]"
-                        placeholder="Enter phone here">
-                    </div>
-                    <div class="dtf text-left">
-                      <input type="hidden" name="hiddencapcha" value="">
-                      <input class="submit" type="submit" value="Contact Team">
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-
     </div>
+
+
   </section> -->
 
   <div class="slider-wrapper">
@@ -826,6 +821,679 @@
 
   </div>
 
+  <section class="partners-cta">
+    <div class="container">
+      <div class="row">
+        <ul class="partnerslider">
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/bloomsbury.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/elsevier.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/emerald-group-publishers.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/hachette.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/harpercollins.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/john-wiley-sons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/oxford-university-press.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/pan-macmillan.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/pearson-education.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/penguin-books.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/pubmed.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/random-house.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/sage.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/scopus.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/simon-and-schuster.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/taylor-and-francis.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/content-writing/thomson-reuters.svg">
+            </figure>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="counter ">
+    <ul class="packslider">
+      <li>
+        <a href="javascript:;">
+          <figure>
+            <img src="../assets/images/client-logo/content-writing/c1.png" height="64" width="64">
+          </figure>
+          <span class="wrap">Global Client <br> Reach</span>
+        </a>
+      </li>
+      <li>
+        <a href="javascript:;">
+          <figure>
+            <img src="../assets/images/client-logo/content-writing/c2.png" height="64" width="64">
+          </figure>
+          <span class="wrap">Affordable <br> Pricing</span>
+        </a>
+      </li>
+      <li class="">
+        <a href="javascript:;">
+          <figure>
+            <img src="../assets/images/client-logo/content-writing/c3.png" height="64" width="64">
+          </figure>
+          <span class="wrap">Experienced and Industry <br> specific writers</span>
+        </a>
+      </li>
+      <li class="dkblk">
+        <a href="javascript:;">
+          <figure>
+            <img src="../assets/images/client-logo/content-writing/testbox4-a-01.png" height="64" width="64">
+          </figure>
+          <span class="wrap">Served over 10’000 <br> Clients</span>
+        </a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-srv-prc">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="info-content">
+            <h3>Have A Look At Our Pricing</h3>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="pricing-hme-content prss-leass">
+            <ul class="nav nav-pills">
+              <li><a data-toggle="pill" href="#service1" class="active show">General News</a></li>
+              <li><a data-toggle="pill" href="#service2" class="">Launch Release</a></li>
+              <li><a data-toggle="pill" href="#service3" class="">Executive, Staff and Employees </a></li>
+              <li><a data-toggle="pill" href="#service4" class="">Event Press Release</a></li>
+              <li><a data-toggle="pill" href="#service5" class="">Expert Position</a></li>
+              <li><a data-toggle="pill" href="#service6" class="">Product Press Release</a></li>
+            </ul>
+            <div class="tab-content pricingboxes pcrc">
+              <div id="service1" class="tab-pane active">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£65.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£99.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£120.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="service2" class="tab-pane">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£75.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£109.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£130.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="service3" class="tab-pane">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£65.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£99.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£120.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="service4" class="tab-pane">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£75.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£109.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£130.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="service5" class="tab-pane">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£65.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£99.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£120.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="service6" class="tab-pane">
+                <div class="portfolio-box">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-1">£75.00</h5>-->
+                          <h3>3 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press Release Writing</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box box-prce-trnsfrm">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-2">£109.00</h5>-->
+                          <h3>4 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing - 2 options</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>2 different versions written by 2 different writers</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box2">
+                        <div class="pce-box-1">
+                          <!--<h5 class="clr-heading-3">£130.00</h5>-->
+                          <h3>5 Stars Package <span>Press Release Writing</span></h3>
+                          <div class="growth grwth">
+                            <h4>Press release writing & basic distribution service</h4>
+                            <p>Custom Press Release Writing Services.</p>
+                          </div>
+                          <ul class="pck-scrl">
+                            <li>Basic online distribution</li>
+                            <li>Within 2 days</li>
+                            <li>100% Ownership Rights</li>
+                            <li>100% Money Back Guarantee</li>
+                            <li>100% Satisfaction Guarantee</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </section>
 
 
   <!-- <div class="clientele-sec">
@@ -944,23 +1612,22 @@
     </div>
   </section>
 
-  <section class="main-ghst-writng-thierd-sec sec-padding-60">
+  <section class="main-ghst-writng-thierd-sec sec-padding-60 main-buld-img-sec">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-5 col-md-5 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="thierd-sec-img">
             <figure>
-              <img src="../assets/images/services/seo-writing/scale-to-meet-your-needs.svg" alt="" />
+              <img src="../assets/images/services/press-release/build-your-brand.png" alt="" />
             </figure>
           </div>
         </div>
-        <div class="col-lg-6 offset-lg-1 col-md-6 offset-md-1 col-sm12">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="thierd-sec-content">
-            <h3>Outrank Your Competitors With SEO Writing</h3>
-            <p>At The Content Maestros, we help businesses rank better. Our content is SEO optimized to help you gain
-              traction on search engines. From blogs to articles, guides, infographics, and web content, we ensure it is
-              well-optimized to help you outpace and outrank your competition. Our in-depth keyword research and
-              articulate writing skills set us apart from others.</p>
+            <h3>Give your brand the stage of increased press coverage and visibility: </h3>
+            <p>Busting the misconception of the press release is no longer valuable, we harness the right power and
+              impact to create a buzz about your products, informing the industry-at-large of what your brand is really
+              is.</p>
             <a href="order/" class="btn-theme">Let’s Get Started</a>
           </div>
         </div>
@@ -969,198 +1636,26 @@
   </section>
 
 
-  <section class="collaboration-sec">
-    <div class="container">
-      <div class="row">
+  <!--<section class="collaboration-sec main-pfrps-img-sec">-->
+  <!--  <div class="container">-->
+  <!--    <div class="row align-items-center">-->
+  <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
+  <!--        <div class="wrapper">-->
+  <!--          <h3>Professional Press Release Writing Services</h3>-->
+  <!--          <h2>Optimising Public Relations and Brand Image Among The Masses</h2>-->
+  <!--          <p>We write press releases with an intent to create awareness in the market helping you build connections with the right audience.</p>-->
+  <!--          <a href="javascript:;" class="btn-theme">Find the right voice for your audiobook</a>-->
+  <!--        </div>-->
+  <!--      </div>-->
+  <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
+  <!--        <figure>-->
+  <!--          <img src="../assets/images/services/press-release/optimising-public-relations.png">-->
+  <!--        </figure>-->
+  <!--      </div>-->
+  <!--    </div>-->
+  <!--  </div>-->
+  <!--</section>-->
 
-        <div class="col-lg-6">
-          <div class="wrapper">
-            <h3>Professional SEO Writing Services</h3>
-            <h2>Helping You Rank Better On Search Engines</h2>
-            <p>Get ahead of your competition with our professional and quality SEO writing services. We have an
-              experienced team of SEO writers who have been working in the field for several years. Catering to
-              different niches, we know how to write SEO optimized content that sounds natural and converts better. Rest
-              assured, you can rely on us!</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <figure>
-            <img src="../assets/images/services/seo-writing/sidepic1.png">
-          </figure>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="main-princing-sec-hme main-portfolio-sec sec-padding-60 main-srv-prc">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="info-content">
-            <h3>Have A Look At Our Pricing</h3>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="prce_box prc-trms-box1">
-            <div class="pce-box-1">
-              <h3>Basic <span>Search Engine Optimization</span></h3>
-              <div class="growth grwth">
-                <h4>One-time setup activity </h4>
-                <p>Get More Traffic and Sales!</p>
-              </div>
-              <ul class="pck-scrl">
-                <li>Press Releases: 1/mo</li>
-                <li>Blog Posts: 2/mo</li>
-                <li>Articles: 2/mo</li>
-                <li>Infographics: 1/mo</li>
-                <li>Vides: 0/mo</li>
-                <li>Link Building: 20/mo</li>
-                <li>Content Sharing: 5/mo</li>
-                <li>Business Profile: 10/mo</li>
-                <li>Creating and listings</li>
-                <li>100% Ownership Rights</li>
-                <li>100% Money Back Guarantee</li>
-                <li>100% Satisfaction Guarantee</li>
-              </ul>
-            </div>
-            <div class="pce-box-2">
-              <div class="main-cht-us">
-                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
-                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-              </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="prce_box box-prce-trnsfrm">
-            <div class="pce-box-1">
-              <h3>Standard <span>Search Engine Optimization</span></h3>
-              <div class="growth grwth">
-                <h4>One-time setup activity </h4>
-                <p>Get More Traffic and Sales!</p>
-              </div>
-              <ul class="pck-scrl">
-                <li>Press Releases: 1/mo</li>
-                <li>Blog Posts: 4/mo</li>
-                <li>Articles: 4/mo</li>
-                <li>Infographics: 2/mo</li>
-                <li>Videos: 1/mo</li>
-                <li>Link Building: 30/mo</li>
-                <li>Content Sharing: 10/mo</li>
-                <li>Business Profile: 15/mo</li>
-                <li>Creating and listings</li>
-                <li>100% Ownership Rights</li>
-                <li>100% Money Back Guarantee</li>
-                <li>100% Satisfaction Guarantee</li>
-              </ul>
-            </div>
-            <div class="pce-box-2">
-              <div class="main-cht-us">
-                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
-                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-              </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="prce_box prc-trms-box2">
-            <div class="pce-box-1">
-              <h3>Enterprise <span>Search Engine Optimization</span></h3>
-              <div class="growth grwth">
-                <h4>One-time setup activity </h4>
-                <p>Get More Traffic and Sales!</p>
-              </div>
-              <ul class="pck-scrl">
-                <li>Press Releases: 2/mo</li>
-                <li>Blog Posts: 8/mo</li>
-                <li>Articles: 8/mo</li>
-                <li>Infographics: 3/mo</li>
-                <li>Videos: 2/mo</li>
-                <li>Link Building: 50/mo</li>
-                <li>Content Sharing: 15/mo</li>
-                <li>Business Profile: 20/mo</li>
-                <li>Creating and listings</li>
-                <li>100% Ownership Rights</li>
-                <li>100% Money Back Guarantee</li>
-                <li>100% Satisfaction Guarantee</li>
-              </ul>
-            </div>
-            <div class="pce-box-2">
-              <div class="main-cht-us">
-                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
-                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-              </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-  </section>
-
-  <section class="myprocess main-ghst-sec">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h3 class="wdt-80">Why Should you opt for The Content Maestros</h3>
-          <p class="wdt-80">Our quality The Content Maestros is uniquely poised with experienced writers, skilful
-            writing and a client-centric approach</p>
-          <ul class="book-slider">
-            <li>
-              <figure>
-                <img src="../assets/images/services/updated-layouts-collab.png">
-              </figure>
-              <h3>Various Specialised Genres</h3>
-              <p>With several years of experience and market knowledge, The Content Maestros has mastered various genres
-                of writing. This has helped us to cater to your most unique requirements easily.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
-            </li>
-            <li>
-              <figure>
-                <img src="../assets/images/services/updated-layouts-platform.png">
-              </figure>
-              <h3>Personalised Service</h3>
-              <p>At The Content Maestros, we personalise our services to meet your requirements and budgets. Our expert
-                team of writers are ready to take on your project and deliver it in a timely manner.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
-            </li>
-            <li>
-              <figure>
-                <img src="../assets/images/services/updated-layouts-sync.png">
-              </figure>
-              <h3>Client Communication</h3>
-              <p>We do not believe in ‘one size fits all’ approach. Each project is assigned an account manager who
-                remains in constant communication with you to keep you updated. At The Content Maestros, customer
-                satisfaction is of utmost precedence.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <div class="strt-bg">
-    <section class="main-strt-cta-sec sec-padding-60"
-      style="background-image:url(../assets/images/services/strt-cta-2x-2.png)">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2">
-            <div class="strt-cta wdt-80">
-              <h3>Can't wait for your manuscript to get published?</h3>
-              <p>We are here for you. Hire one of our Content Writers and make your dream book come to life.</p>
-              <a href="javascript:;" class="btn-theme">Become an author to a best seller</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  </div>
 
 
   <section class="main-ghst-writng-second-sec sec-padding-60">
@@ -1168,21 +1663,20 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
-            <p>Unlike our competitors, we take pride in offering personalised and targeted writing solutions to
-              businesses.</p>
+            <h3>Why choose us?</h3>
+            <p>The reporters are only up for crisp press releases, and we make sure not to dissuade anyone of them.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="main-ser">
             <div class="ser-box2">
               <ul>
-                <li>Researching and outlining a draft</li>
-                <li>The Content Maestros genuine content based on your idea</li>
-                <li>Thorough editing to guarantee the text is error free</li>
-                <li>Critical review and proofreading</li>
-                <li>Formatting and typesetting for publication</li>
-                <li>Branding and marketing your book worldwide</li>
+                <li>Extraordinary quality content</li>
+                <li>Plagiarism free and grammatically flawless </li>
+                <li>Successful publication </li>
+                <li>Customer satisfaction guaranteed</li>
+                <li>Experienced experts </li>
+                <li>Global clientele </li>
               </ul>
             </div>
           </div>
@@ -1191,12 +1685,12 @@
           <div class="main-ser main-serv-mob">
             <div class="ser-box2">
               <ul>
-                <li>Book cover designing, illustration and typesetting</li>
-                <li>E-book publication</li>
-                <li>Audiobooks</li>
-                <li>Video book trailers</li>
-                <li>Web design and Internet SEO</li>
-                <li>Branding and publicity</li>
+                <li>Affordability</li>
+                <!--<li>E-book publication</li>-->
+                <!--<li>Audiobooks</li>-->
+                <!--<li>Video book trailers</li>-->
+                <!--<li>Web design and Internet SEO</li>-->
+                <!--<li>Branding and publicity</li>-->
               </ul>
             </div>
           </div>
@@ -1211,6 +1705,7 @@
       </div>
     </div>
   </section>
+
 
   <section class="main-sft-sec sec-padding-60">
     <div class="container-fluid">
@@ -1374,15 +1869,14 @@
     </div>
   </section>
 
-
   <section class="main-ghst-writng-sixth-sec sec-padding-60">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Your investment is our acquired trust, a solemn conviction we work on:</h3>
-            <p>No matter what services you offer or which design you prefer, we structure your website in a way that
-              your audience will surely scroll till the bottom of the page.</p>
+            <h3>There’s one core principle we follow: hold the reporter’s attention:</h3>
+            <p>We are great at telling stories, we pen them down, we go through it, we refine it, and we capture the
+              audience’s interest—press releases are your media stories.</p>
           </div>
         </div>
       </div>
@@ -1395,9 +1889,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Experience-led:</h3>
-              <p>A good website design is a skill acquired after years of experience and develop expertise—the highlight
-                of our design services.</p>
+              <h3>The facts check:</h3>
+              <p>A good press release is the one with a creative narrative supported by some significant numbers and
+                stats— the quantified artistry of writing.</p>
             </div>
           </div>
         </div>
@@ -1409,9 +1903,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Outcome-focused: </h3>
-              <p>A good website design is a strategy opening up new possibilities and generating desired results—the
-                culmination of our expertise.</p>
+              <h3>The length check:</h3>
+              <p>A good press release is the one with pages as limited as few paragraphs on a single page—the acceptable
+                readability</p>
             </div>
           </div>
         </div>
@@ -1423,9 +1917,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Creative exclusivity: </h3>
-              <p>A good website design is an approach to make your business an industry differentiator—the business
-                pinnacle we assure you with.</p>
+              <h3>The access check:</h3>
+              <p>A good press release is the one with the mission of enabling readers to learn more about your brand and
+                products—the maximisation of interest.</p>
             </div>
           </div>
         </div>
@@ -1437,9 +1931,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Custom-made:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we do. </p>
+              <h3>The error check: </h3>
+              <p>A good press release is the one with grammatical flawlessness and structural perfection—the publication
+                guarantee.</p>
             </div>
           </div>
         </div>
@@ -1451,9 +1945,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Company Credibility:</h3>
-              <p>A good website design is a stage for impression making and establishing a brand’s integrity—the
-                principle we work on. </p>
+              <h3>The insight check:</h3>
+              <p>A good press release is the one with well-placed targeted industry keywords and scannable format—the
+                integrated impactfulness. </p>
             </div>
           </div>
         </div>
@@ -1465,9 +1959,9 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Innovation-driven:</h3>
-              <p>A good website design is a representative of the company’s take on the evolution of design—the
-                unparalleled skill we put forward.</p>
+              <h3>The guideline check:</h3>
+              <p>A good press release is the one with the thorough following of stringent guidelines of distribution
+                channels—the promotional success. </p>
             </div>
           </div>
         </div>
@@ -1483,15 +1977,16 @@
         <div class="col-lg-4"></div>
         <div class="col-lg-8">
           <div class="wrapper ltus-hlp-sced">
-            <h3><span>Let Us Help You Succeed</span> Innovative Content Writing Agency</h3>
-            <p>At The Content Maestros, we seek to provide a wide range of content writing, editing, and proofreading
-              services to a varied global clientele.</p>
+            <h3>You are in the spotlight: </h3>
+            <p>Writing a press release on your own might be suggestible, but a better practical way is to hire the
+              experience you trust. </p>
             <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
           </div>
         </div>
       </div>
     </div>
   </section>
+
 
   <div class="slider-wrapper black non-mar">
     <section class="">
@@ -1559,44 +2054,6 @@
     </div> -->
   </div>
 
-
-
-
-
-  <section class="main-sft-sec sec-padding-60">
-    <div class="container">
-      <div class="row book-slider">
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="tls-sft">
-            <span>EBook Writing</span>
-            <h3>Personalised EBook Writing Services</h3>
-            <p class="quick-ser">Are you looking to convert your dream book into a reality? Well, look no further than
-              The Content Maestros.</p>
-            <a href="ebook-writing/" class="btn-theme">Learn more</a>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="tls-sft">
-            <span>Press Release</span>
-            <h3>Let Us Make A Professional Statement On Your Behalf</h3>
-            <p class="quick-ser">The Content Maestros offers professional and affordable press release writing service
-              to get your word out there to the intended audience.</p>
-            <a href="press-release/" class="btn-theme">Learn more</a>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="tls-sft">
-            <span>Web Design & Development</span>
-            <h3>Custom-Made Web Design & Development</h3>
-            <p class="quick-ser">The Content Maestros offers web design and development services to those who desire.
-              Our team of experts provide you on time delivery of projects at affordable prices.</p>
-            <a href="Book-Video-Trailer/" class="btn-theme">Learn more</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
   </main>
   <?php include_once("includes/footer.php") ?>
 
@@ -1639,7 +2096,7 @@
               <input type="hidden" name="pc" value="">
 
               <input type="hidden" id="location" name="locationURL"
-                value="http://thecontentmaestros.com/our-services/seo-writing" />
+                value="http://thecontentmaestros.com/our-services/press-release" />
             </div>
 
 
@@ -1845,14 +2302,6 @@
 
 
 
-
-
-  <script type="text/javascript">
-    $(document).ready(function () {
-
-
-    });
-  </script>
 
 
 

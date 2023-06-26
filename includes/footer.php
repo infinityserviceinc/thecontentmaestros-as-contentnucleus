@@ -168,7 +168,7 @@
         <div class="form_wrap">
           <div class="analyzeform ">
             <form method="POST" action="/leads/">
-<input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
+                <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">   
                   <input type="hidden" name="brand" value="thecontentmaestros">   
                   <input type="hidden" name="token" value="<?= $token;?>">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
@@ -200,39 +200,50 @@
     </div>
   </div>
 </div>
+<div id='test' style="display:none;position:fixed;width:100%;height:100vh;background:red;top:0;left:0;text-align:center;color:white;font-size;60px;">
+Test
+</div>
 
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js" integrity="sha512-BQHCnffk8X4AKtVvm5fNoL8PlxlObAxUuofkgCoS22nvoMPdhJnf5gkvQZY0D9UBWg1mAUDWFjIET65o2vY8wQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 <script src="assets/js/mlib.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 <script src="assets/js/functions.js"></script>
+
 <!-- Start of Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"> </script>
-
 <!-- End of ghostbookwriters Zendesk Widget script -->
-<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
 
 
 <script>
   $(document).ready(function() {
-$(".fancybox").fancybox();
+    $(".fancybox").fancybox();    
+  });
+
+  // jQuery('#typed').typed({
+  //   strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],
+  //   typeSpeed: 100,
+  //   startDelay: 0,
+  //   backSpeed: 60,
+  //   backDelay: 2000,
+  //   loop: true,
+  //   cursorChar: "|",
+  //   contentType: 'html'
+  // });
+  
+var typed = new Typed('#typed', {
+  strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],
+  typeSpeed: 50,
+  backSpeed: 80,
+  loop: true
 });
 </script>
-<script type="text/javascript">
-function setButtonURL(){
-$zopim.livechat.window.toggle();
-}
 
-  $("#typed").typed({
-    strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],
-    typeSpeed: 100,
-    startDelay: 0,
-    backSpeed: 60,
-    backDelay: 2000,
-    loop: true,
-    cursorChar: "|",
-    contentType: 'html'
-  });
+
+<script>
+
+  function setButtonURL(){
+    $zopim.livechat.window.toggle();
+  }
 </script>

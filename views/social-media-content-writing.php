@@ -6,53 +6,36 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>Explainer Video</title>
-  <meta name="keywords" content="blog writing | writing a blog | blog writing services UK">
+  <title>Creative Social Media Content Writing | CCW</title>
+  <meta name="keywords"
+    content="social media content creator | social media content types | social media content calendar">
   <meta name="description"
-    content="Are you looking for best blog writing services in Hemel Hempstead, Hertfordshire? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs">
-  <link rel="canonical" href="blog-writing/" />
-
-
-
-
-
+    content="Our Social media content creator creates social media content calendars that can lead all social media content types in Hemel Hempstead, Hertfordshire.">
+  <link rel="canonical" href="social-media-content/" />
 
   <?php include_once("includes/head.php") ?>
 
 
-
-
-
-  <!-- Twitter Card: -->
-
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Professional Blog Writing Services in UK | CCW" />
+  <meta name="twitter:title" content="Creative Social Media Content Calendar | CCW" />
   <meta name="twitter:description"
-    content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs." />
+    content="Our Social media content creator creates social media content calendars that can lead all social media content types." />
   <meta name="twitter:site" content="@thecontentmaestros" />
   <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
-  <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/blog-writing" />
+  <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/social-media-content" />
 
 
-
-  <meta property="og:title" content="Professional Blog Writing Services in UK | CCW" />
+  <meta property="og:title" content="Creative Social Media Content Calendar | CCW" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://thecontentmaestros.com/our-services/blog-writing" />
+  <meta property="og:url" content="https://thecontentmaestros.com/our-services/social-media-content" />
   <meta property="og:description"
-    content="Are you looking for best blog writing services in UK? CCW leads the blog writing industry. For us, writing a blog is a piece of cake. We have blog writing experts who write and review exceptional blogs. " />
+    content="Our Social media content creator creates social media content calendars that can lead all social media content types." />
   <meta property="og:site_name" content="@thecontentmaestros" />
   <meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png" />
 
-
-
-
-
 </head>
 
-<body class="ghostwriting-page blg_pge">
-
-
-
+<body class="ghostwriting-page smc_pge">
 
   <noscript>
     <div id="jqcheck"><img
@@ -61,9 +44,59 @@
   </noscript>
 
   <div class="ys-layer"></div>
+  <!--<div class="ys-container" id="ys-container">-->
+  <!--   <div class="ys-box">-->
+  <!--       <a class="ys-popup-close ys-exit" href="#">x</a>-->
+  <!--       <img src="assets/images/form-banner.jpg" class="mainbann" alt="">-->
+  <!--       <div class="ys-popup-content">-->
 
+
+  <!--           <div class="popupform tabform clearfix  text-left">-->
+
+  <!--             <h3>Get Special Discount</h3>-->
+  <!--             <figure>-->
+  <!--               <img src="../assets/images/popup-img.jpg" alt="">-->
+  <!--             </figure>-->
+  <!--             <P>Don't miss out on special discount offer</P>-->
+  <!--             <form id="popupfrm" class="cmxform"  method="POST" action="webpages/bannerFormController.php">-->
+
+  <!--               <div class="fldst">-->
+  <!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name *" required />-->
+  <!--               </div>-->
+
+  <!--               <div class="fldst fldstrght">-->
+  <!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address *" required>-->
+  <!--               </div>-->
+
+  <!--               <div class="fldst">-->
+  <!--                 <input id="phone-coun" name="Number" required="" type="number" rangelength="[2,15]" placeholder="Phone No *">-->
+  <!--                 <script type="text/javascript">-->
+  <!--                document.getElementById('location').value = window.location.href;-->
+  <!--              </script>-->
+  <!--              <input type="hidden" name="hiddencapcha" value="">-->
+  <!--              <input class="" type="hidden" name="tctry" value="" />-->
+  <!--          <input type="hidden" name="tpc" value="">-->
+  <!--              <input type="hidden" id="location" name="locationURL" value="http://thecontentmaestros.com/our-services/social-media-content" />-->
+  <!--               </div>-->
+
+  <!--               <div class="fldst">-->
+  <!--                 <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>-->
+
+  <!--               </div>-->
+
+
+  <!--               <div class="fldst btnattach">-->
+  <!--                  <input class="submit" type="submit" value="" class="btnsb" /> -->
+  <!--                 <button type="submit" form="popupfrm" value="Submit"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
+
+  <!--               </div>-->
+  <!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+19295667079">+1-929-566-7079</a></span></p>-->
+  <!--             </form>-->
+  <!--           </div>-->
+  <!--       </div>-->
+  <!--   </div>-->
+  <!--</div>-->
   <?php include_once("includes/header.php") ?>
-  </header>
 
 
   <div class="overlay overlay-hugeinc">
@@ -124,8 +157,6 @@
       </nav>
     </div>
   </div>
-
-
 
   <div class="main-modal-sec">
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
@@ -207,7 +238,7 @@
                                 </script>
                                 <input type="hidden" name="hiddencapcha" value="">
                                 <input type="hidden" id="location" name="locationURL"
-                                  value="http://thecontentmaestros.com/our-services/blog-writing" />
+                                  value="http://thecontentmaestros.com/our-services/social-media-content" />
                               </div>
                             </div>
                           </div>
@@ -223,7 +254,6 @@
       </div>
     </div>
   </div>
-
 
 
   <div class="floatbutton">
@@ -471,7 +501,7 @@
                       <input type="hidden" name="pc" value="+92+92+92+92+92+92">
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" id="flocation" name="locationURL"
-                        value="http://thecontentmaestros.com/our-services/blog-writing" />
+                        value="http://thecontentmaestros.com/our-services/social-media-content" />
                     </div>
                   </div>
                 </div>
@@ -484,28 +514,22 @@
   </div>
 
 
-
-
-
-
-
-
-  <section class="main-ghst-writng-first-sec sec-padding-60"
-    style=" background-image: linear-gradient(to bottom right,#2a264e ,  #3e3a8a);">
+  <!-- <section class="main-ghst-writng-first-sec sec-padding-60"
+    style="    background-image: linear-gradient(to bottom right, #231921 0%,#5a3e55 100%);">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="ghst-writng-content">
-            <h1>Animated Explainer Video Company</h1>
-            <p>We are experts at making the complex, simple.</p>
-            <!-- <ul class="hme-lst-stle hme-st-lft ltf">
+            <h1>Social validation. Subtle aesthetics. Stirring quality— the likeability increased:</h1>
+            <p>Release the fret of spending thousands to end up average quality work</p>
+            <ul class="hme-lst-stle hme-st-lft ltf">
               <li>Plagiarism free content</li>
               <li>Meeting the content standards </li>
-       
+              <li>Complete confidentiality of the service</li>
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
-            </ul> -->
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </ul>
+            <a href="order/" class="btn-theme ml-0">Let’s Get Started</a>
             <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
@@ -584,7 +608,7 @@
                                   </script>
                                   <input type="hidden" name="hiddencapcha" value="">
                                   <input type="hidden" id="location" name="locationURL"
-                                    value="http://thecontentmaestros.com/our-services/blog-writing" />
+                                    value="http://thecontentmaestros.com/our-services/social-media-content" />
                                 </div>
                               </div>
                             </div>
@@ -600,7 +624,206 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
+
+  <div class="slider-wrapper">
+    <section class="">
+      <div class="item">
+        <video autoplay="" muted="" loop="" class="mdn">
+          <source src="assets/video/banner-video.mp4" type="video/mp4">
+        </video>
+        <div class="home-banner">
+          <div class="container align-self-center">
+            <div class="row">
+              <div class=" col-lg-7 col-md-7 col-sm-12">
+                <!-- <div class="home-banner-content">
+                  <h1>Professional & Quality The Content Maestros Services </h1>
+                  <p class="subtitle">Committed to helping you achieve your digital and publishing goals with our
+                    content writing services</p>
+                  <ul class="hme-lst-stle">
+                    <li>100 % Original Content</li>
+                    <li>Compliance with the content standards</li>
+                    <li>Complete confidentiality of the service</li>
+                    <li>Unlimited revisions.</li>
+                    <li>7+ Years of Experience</li>
+                  </ul>
+                  <div class="main-hme-lgs">
+                    <img width="204" height="50" class="good-firm" src="assets/images/good-firm.png" alt="" />
+                    <img width="240" height="32" class="clutch" src="assets/images/clutch.png" alt="" />
+                    <img width="88" height="67" class="top-design-firm" src="assets/images/top-design-firm.png"
+                      alt="" />
+                    <img width="204" height="42" class="top-digital-agency" src="assets/images/top-digital-agency.png"
+                      alt="" />
+                  </div>
+                  <div class="ratingBr">
+                    <p>Rated 9 out of 10
+                      <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                      </span> based on 3,543 satisfied customers.
+                    </p>
+                  </div>
+                  <a href="order/" class="btn-theme">Let’s Get Started</a>
+                </div> -->
+                  <div class="banner_left">
+                    <h1>Content Writing Agency for
+                        <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span class="typed-cursor"></span>
+                    </h1>
+                    <p>
+                        Wondering where to find expert creative writers?
+                        <br>
+                        Your search ends at The Content Maestros.
+                    </p>
+                    <div class="combo_img">
+                        <a href="javascript:;"><img class="lazy" alt="Trustpilot" src="assets/images/rating-1.webp" style=""></a>
+                        <a href="javascript:;"><img class="lazy" alt="Reviews.io" src="assets/images/rating-2.webp" style=""></a>
+                        <a href="javascript:;"><img class="lazy" alt="Clutch" src="assets/images/rating-3.webp" style=""></a>
+                        <a href="javascript:;"><img class="lazy" alt="DesignRush" src="assets/images/rating-4.webp" style=""></a>
+                    </div>
+                    <div class="combo_btn">
+                        <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
+                        <a href="/order/" class="btn-theme-outline">Get a Quote</a>
+                    </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                <!-- <div class="main-banner-form">
+                  <div class="services_form">
+                    <div class="main-servi-wrapper">
+                      <div class="main-percent">
+                        <div class="per-box1">
+                          <figure>
+                            <img class="hme-nmrl-img" src="assets/images/50percent.png" alt="" />
+                          </figure>
+                        </div>
+                        <div class="per-box2">
+                          <h3><span>chat</span>
+                            <p>with us to avail</p> 25% off
+                          </h3>
+                        </div>
+                      </div>
+                      <div class="banner-form">
+                        <section class="banform">
+                          <div class="container">
+                            <div class="row">
+                              <div class="">
+                                <div class="ban-form">
+                                  <form class="cmxform" method="POST" action="/leads/">
+                                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
+                                    <input type="hidden" name="brand" value="thecontentmaestros">
+                                    <input type="hidden" name="token" value="<?= $token;?>">
+                                    <input type="hidden" name="tag" value="sidepanel form in landing-page">
+                                    <input type="hidden" name="price" value="null">
+                                    <input type="hidden" name="news" value="1">
+                                    <input type="text" class="jun" name="gender">
+
+                                    <div class="row">
+                                      <div class="col-lg-12">
+                                        <div class="gt-strtd">
+                                          <h3>Get Started Now!</h3>
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset">
+                                          <input id="username" name="name" minlength="2" type="text"
+                                            placeholder="Enter your name" required />
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset">
+                                          <input id="cemail" type="email" name="email" placeholder="Enter email here"
+                                            required>
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset">
+                                          <input id="phone-coun" name="phone" type="number" placeholder="Phone Number"
+                                            required />
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset massage-field">
+                                          <textarea placeholder="Message" name="brief"></textarea>
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset term">
+                                          <label>
+                                            <input type="checkbox" name="nda" value="Required NDA" class="frm-checkbox">
+                                            <span>To receive our weekly Newsletter/SMS check here. You can unsubscribe
+                                              at any time.</span>
+                                          </label>
+                                        </div>
+                                      </div>
+                                      <div class="col-lg-12">
+                                        <div class="fldset">
+                                          <input name="btn-theme" type="submit" placeholder="Connect With Us"
+                                            required />
+                                          <script type="text/javascript">
+                                            document.getElementById('location').value = window.location.href;
+                                          </script>
+                                          <input type="hidden" name="hiddencapcha" value="">
+                                          <input type="hidden" id="location" name="locationURL"
+                                            value="http://thecontentmaestros.com/" />
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </form>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div> -->
+                <div class="banner_right ">
+                  <video autoplay="" muted="" loop="" class="" style="position:unset;object-fit:contain;">
+                    <source src="assets/video/banner-img.webm" type="video/webm">
+                  </video>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <div class="container sec1_main_form mob">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="sec1_form">
+                        <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
+                        <form action="/leads/" method="POST">
+                            <input type="text" name="name" placeholder="Full Name" required="">
+                            <input type="email" name="email" placeholder="Email" required="">
+                            <input type="number" name="phone" placeholder="Phone Number" required="">
+                            <input type="Submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="container sec1_main_form web">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="sec1_form">
+                        <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
+                        <form action="/leads/" method="POST">
+                            <input type="text" name="name" placeholder="Full Name" required="">
+                            <input type="email" name="email" placeholder="Email" required="">
+                            <input type="number" name="phone" placeholder="Phone Number" required="">
+                            <input type="Submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  </div>
 
   <section class="partners-cta">
     <div class="container">
@@ -732,101 +955,152 @@
       </li>
     </ul>
   </section>
-
-  <!-- <section class="main-princing-sec-hme main-portfolio-sec sec-padding-60">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="info-content">
-          <h3>Have A Look At Our Pricing</h3>
+  <section class="main-princing-sec-hme main-portfolio-sec sec-padding-60">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="info-content">
+            <h3>Have A Look At Our Pricing</h3>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="row">
+      <!-- <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="pricing-hme-content">
           <ul class="nav nav-pills">
-            <li><a data-toggle="pill" href="#service1" class="active show">Custom Blog Posts</a></li>
-            <li><a data-toggle="pill" href="#service2" class="">Monthly Blog Packages</a></li>
-            <li><a data-toggle="pill" href="#service3" class="">Power Blog Posts</a></li>
+            <li><a data-toggle="pill" href="#service1" class="active show">Facebook Package</a></li>
+            <li><a data-toggle="pill" href="#service2" class="">LinkedIn Artical Package</a></li>
+            <li><a data-toggle="pill" href="#service3" class="">LinkedIn Profile Package</a></li>
+            <li><a data-toggle="pill" href="#service4" class="">Twitter Package</a></li>
           </ul>
-          <div class="tab-content pricingboxes pcrc">
+          <div class="tab-content pricingboxes">
             <div id="service1" class="tab-pane active">
               <div class="portfolio-box">
                 <div class="row">
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box1">
-                      <div class="pce-box-1">
-                      
-                        <h3>3 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>1 CUSTOM BLOG POST </h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>Within 5 business days</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Basic Package <span>5 FACEBOOK POSTS </span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 3 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£13.50</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=34" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box box-prce-trnsfrm">
-                      <div class="pce-box-1">
-                        
-                        <h3>4 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>1 CUSTOM BLOG POST </h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>Within 2 business days</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                          <li>Unlimited Revisions</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Bronze Package <span>10 FACEBOOK POSTS</span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£27</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=35" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box2">
-                      <div class="pce-box-1">
-                       
-                        <h3>5 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>1 CUSTOM BLOG POST </h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>Within 2 business days</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                          <li>Unlimited Revisions</li>
-                          <li>SEO Optimized Content</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Silver Package <span>30 FACEBOOK POSTS</span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                      <ul class="pck-scrl">
+                        <li>Within 1 week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£81</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=36" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Gold Package <span>10 MONTHLY POSTS</span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
                       </div>
+                      <ul class="pck-scrl">
+                        <li>Ten posts per month</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£24.30</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=37" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Platinium Package <span>3 WEEKLY FACEBOOK POSTS</span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Three posts per week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£27.54</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=38" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Diamond Package <span>1 DAILY FACEBOOK POST</span></h3>
+                      <div class="growth grwth">
+                        <h4>40 words </h4>
+                        <p>Facebook Post Writing Service</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>One post daily</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£64.80</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=39" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -836,85 +1110,129 @@
               <div class="portfolio-box">
                 <div class="row">
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box1">
-                      <div class="pce-box-1">
-      
-                        <h3>3 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>5 BLOG POSTS/MO </h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>500 words each</li>
-                          <li>5 posts will be uploaded every month on your blog</li>
-                          <li>Properly formatted with images</li>
-                          <li>SEO Optimized</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Basic Package <span>1 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>300 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 3 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£10.50</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=40" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box box-prce-trnsfrm">
-                      <div class="pce-box-1">
-                     
-                        <h3>4 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>10 BLOG POSTS/MO </h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>500 words each</li>
-                          <li>10 posts will be uploaded every month on your blog</li>
-                          <li>Properly formatted with images</li>
-                          <li>SEO Optimized</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Bronze Package <span>1 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>400 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£14</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=41" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box2">
-                      <div class="pce-box-1">
-                      
-                        <h3>5 Stars Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>15 BLOG POSTS/MO</h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>500 words each</li>
-                          <li>15 posts will be uploaded every month on your blog</li>
-                          <li>Properly formatted with images</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                          <li>SEO Optimized Content</li>
-                          <li>Unlimited Revisions</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Silver Package <span>1 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>500 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                      <ul class="pck-scrl">
+                        <li>Within 1 week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£17.50</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=42" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Gold Package <span>10 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>300 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
                       </div>
+                      <ul class="pck-scrl">
+                        <li>Within 1 week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£105</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=43" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Platinium Package <span>10 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>400 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£140</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=44" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Diamond Package <span>10 LINKEDIN ARTICLE</span></h3>
+                      <div class="growth grwth">
+                        <h4>500 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 1 week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£175</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=45" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -923,82 +1241,199 @@
             <div id="service3" class="tab-pane">
               <div class="portfolio-box">
                 <div class="row">
+                  <div class="col-lg-4">
+                    <div class="prce_box">
+                      <h3>Basic Package <span>1 SHORT PROFILE</span></h3>
+                      <div class="growth grwth">
+                        <h4>300 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 3 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£55</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=46" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="prce_box">
+                      <h3>Silver Package <span>1 CORPORATE PROFILE</span></h3>
+                      <div class="growth grwth">
+                        <h4>500 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£80</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=47" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="prce_box">
+                      <h3>Gold Package <span>1 LONG PROFILE</span></h3>
+                      <div class="growth grwth">
+                        <h4>800 words</h4>
+                        <p>Custom LinkedIn Article Writing</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£130</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=48" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="service4" class="tab-pane">
+              <div class="portfolio-box">
+                <div class="row">
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box1">
-                      <div class="pce-box-1">
-                  
-                        <h3>1 Power Post Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>1 POWER POST / MO <a href="javascript:;">2000 words</a></h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>1,200+ words each</li>
-                          <li>Several targeted, organically embedded keywords</li>
-                          <li>Multiple screenshots and professional quality royalty free images</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Basic Package <span>5 TWITTER TWEETS</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters</h4>
+                        <p>Twitter Tweet Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 3 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£8.75</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=49" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box box-prce-trnsfrm">
-                      <div class="pce-box-1">
-                 
-                        <h3>5 Power Post’s Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>5 POWER POSTS / MO <a href="javascript:;">2000 words</a></h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>1,200+ words each</li>
-                          <li>Several targeted, organically embedded keywords</li>
-                          <li>Multiple screenshots and professional quality royalty free images</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Bronze Package <span>10 TWITTER TWEETS</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters </h4>
+                        <p>Twitter Tweet Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                      </div>
+                      <ul class="pck-scrl">
+                        <li>Within 5 business days</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£17.50</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=50" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="prce_box prc-trms-box2">
-                      <div class="pce-box-1">
-          
-                        <h3>10 Power Post’s Package <span>Blog Writing</span></h3>
-                        <div class="growth grwth">
-                          <h4>10 POWER POSTS / MO <a href="javascript:;">2000 words</a></h4>
-                          <p>Custom Blog Writing Services.</p>
-                        </div>
-                        <ul class="pck-scrl">
-                          <li>1,200+ words each</li>
-                          <li>Several targeted, organically embedded keywords</li>
-                          <li>Multiple screenshots and professional quality royalty free images</li>
-                          <li>100% Ownership Rights</li>
-                          <li>100% Money Back Guarantee</li>
-                          <li>100% Satisfaction Guarantee</li>
-                        </ul>
+                    <div class="prce_box">
+                      <h3>Silver Package <span>30 TWITTER TWEETS</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters </h4>
+                        <p>Twitter Tweet Writing Service</p>
                       </div>
-                      <div class="pce-box-2">
-                        <div class="main-cht-us">
-                          <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
-                        </div>
-                        <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                      <ul class="pck-scrl">
+                        <li>Within 1 week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£53</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=51" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Gold Package <span>10 TWITTER TWEETS/MO</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters</h4>
+                        <p>Twitter Tweet Writing Service</p>
                       </div>
+                      <ul class="pck-scrl">
+                        <li>10 Posts Every Month</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£15.75</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=52" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Platinium Package <span>3 WEEKLY TWITTER TWEETS</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters</h4>
+                        <p>Twitter Tweet Writing Service</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>3 Per Week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£17.85</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=53" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="prce_box">
+                      <h3>Diamond Package <span>1 TWITTER TWEETS/MO</span></h3>
+                      <div class="growth grwth">
+                        <h4>140 characters</h4>
+                        <p>Twitter Tweet Writing Service</p>
+                      </div>
+                      <ul class="pck-scrl">
+                        <li>5 Per week</li>
+                        <li>100% Satisfaction Guaranteed</li>
+                        <li>Unlimited Revisions</li>
+                        <li>Content</li>
+                        <li>Images</li>
+                        <li>Posting</li>
+                        <li>Management</li>
+                      </ul>
+                      <h4>£42</h4>
+                      <a href="http://thecontentmaestros.com/order?pack=54" class="btn-main">Order Now</a>
+                      <p>Confused? <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
                     </div>
                   </div>
                 </div>
@@ -1007,10 +1442,159 @@
           </div>
         </div>
       </div>
+    </div> -->
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="prce_box prc-trms-box1">
+            <div class="pce-box-1">
+              <!--<h5 class="clr-heading-1">£99.00<small>/per month</small></h5>-->
+              <h3>Social Basic</h3>
+              <div class="growth grwth">
+                <p>For Existing Social Media Profiles</p>
+              </div>
+              <ul class="pck-scrl">
+                <li>Unlimited Revisions</li>
+                <li>Content</li>
+                <li>Images</li>
+                <li>Posting</li>
+                <li>Management</li>
+                <li>100% Ownership Rights</li>
+                <li>100% Money Back Guarantee</li>
+                <li>100% Satisfaction Guarantee</li>
+              </ul>
+            </div>
+            <div class="pce-box-2">
+              <div class="main-cht-us">
+                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
+                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              </div>
+              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="prce_box box-prce-trnsfrm">
+            <div class="pce-box-1">
+              <!--<h5 class="clr-heading-2">£199<small>/per month</small></h5>-->
+              <h3>Social Pro</h3>
+              <div class="growth grwth">
+                <p>With no social media presence</p>
+              </div>
+              <ul class="pck-scrl">
+                <li>Unlimited Revisions</li>
+                <li>Content</li>
+                <li>Images</li>
+                <li>Posting</li>
+                <li>Management</li>
+                <li>100% Ownership Rights</li>
+                <li>100% Money Back Guarantee</li>
+                <li>100% Satisfaction Guarantee</li>
+              </ul>
+            </div>
+            <div class="pce-box-2">
+              <div class="main-cht-us">
+                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
+                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              </div>
+              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="prce_box prc-trms-box2">
+            <div class="pce-box-1">
+              <!--<h5 class="clr-heading-3">£299<small>/per month</small></h5>-->
+              <h3>Social Advance</h3>
+              <div class="growth grwth">
+                <p>For Social lead generation</p>
+              </div>
+              <ul class="pck-scrl">
+                <li>Within 1 week</li>
+                <li>Unlimited Revisions</li>
+                <li>Content</li>
+                <li>Images</li>
+                <li>Posting</li>
+                <li>Management</li>
+                <li>100% Ownership Rights</li>
+                <li>100% Money Back Guarantee</li>
+                <li>100% Satisfaction Guarantee</li>
+              </ul>
+            </div>
+            <div class="pce-box-2">
+              <div class="main-cht-us">
+                <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
+                  <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
+              </div>
+              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+  </section>
+
+  <!-- <div class="clientele-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>Hire one of our Content Writers <b class="small-a">a</b>nd get featured</h2>
+        <ul class="clients-slider">
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/bbc-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/esquire-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/forbes-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/hbo-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/la-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/nbc-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/newyork-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/random-house-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/the-newyorker-icons.svg">
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <img src="../assets/images/client-logo/the-wall-street-icons.svg">
+            </figure>
+          </li>
+        </ul>
+      </div>
     </div>
-  </section>   -->
-
-
+  </div>
+</div> -->
   <section class="main-counter-sec">
     <div class="container">
       <div class="row packslider">
@@ -1066,27 +1650,22 @@
     </div>
   </section>
 
-  <section class="main-ghst-writng-thierd-sec sec-padding-60 main-cont-img-sec">
+  <section class="main-ghst-writng-thierd-sec sec-padding-60 main-etb-img-sec">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="thierd-sec-img">
             <figure>
-              <img src="../assets/images/services/blog-writing/informative-pieces-that.png" alt="" />
+              <img src="../assets/images/services/social-media-content/establish-your-social.png" alt="" />
             </figure>
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="thierd-sec-content">
-            <h3>What is an explainer video?</h3>
-            <p>Animated explainer videos are short videos that help to illustrate complex ideas in simple, engaging, and
-              meaningful ways in less than 2 minutes. Being one of the most potent resources for content marketers
-              today, they aim to describe your company’s products (or services) in a way that resonates with your target
-              audience’s pain points — introducing your solution as the best solution.
-
-              Using an explainer video can help your company generate leads, reduce bounce rates, foster brand
-              awareness, and increase conversions. All from a single piece of high-quality video content. Not a bad
-              deal, huh?</p>
+            <h3>There’s only one rule to success: consistency</h3>
+            <p>Engrave it on your rulebook to social media strategy: regular updates are the key to increasing awareness
+              and brand development. Want to remain at the forefront of billions of potential prospects? Give us a call;
+              our work proves our expertise. </p>
             <a href="order/" class="btn-theme">Let’s Get Started</a>
           </div>
         </div>
@@ -1094,161 +1673,29 @@
     </div>
   </section>
 
-  <section class="container-fluid padding0">
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg" width="646" height="466"
-        alt="Adzerk" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg" width="646" height="466"
-          alt="Adzerk" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/76o9g1diqj" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Adzerk</strong></h2>
-              <p>—<br>Length: 60 seconds<br>Industry: IT and SaaS</p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg" width="646" height="466"
-        alt="Recognize" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg" width="646" height="466"
-          alt="Recognize" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/hrtpo9j52i" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Recognize</strong></h2>
-              <p>—<br>Length: 70 seconds<br>Industry: Human Resources </p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg" width="646" height="466"
-        alt="Remind" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg" width="646" height="466"
-          alt="Remind" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/gzzdmoxvgs" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Remind</strong></h2>
-              <p>—<br>Length: 76 seconds<br>Industry: Education</p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg" width="646" height="466"
-        alt="Fonoa" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg" width="646" height="466"
-          alt="Fonoa" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/dm2qu7lnii" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Fonoa</strong></h2>
-              <p>—<br>Length: 60 seconds<br>Industry: Finance</p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg" width="646" height="466"
-        alt="Accelerant" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg" width="646" height="466"
-          alt="Accelerant" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/o489sge8h2" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Accelerant</strong></h2>
-              <p>—<br>Length: 2:51 minutes<br>Industry: Insurance</p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg" width="646" height="466"
-        alt="Built in" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg" width="646" height="466"
-          alt="Built in" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/7gdqwq45fw" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Built in</strong></h2>
-              <p>—<br>Length: 1:54 minutes<br>Industry: Human Resources </p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg" width="646" height="466"
-        alt="Law-whiz 1" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg" width="646" height="466"
-          alt="Law-whiz 1" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/by40cyxpv7" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Law-whiz 1</strong></h2>
-              <p>—<br>Length: 80 seconds<br>Industry: HR</p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg" width="646" height="466"
-        alt="Carely" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg" width="646" height="466"
-          alt="Carely" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/p4m4idfctx" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>Carely</strong></h2>
-              <p>—<br>Length: 90 seconds<br>Industry: Healthcare </p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-    <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
-        src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg" width="646" height="466"
-        alt="ChargeBee 1" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg" width="646" height="466"
-          alt="ChargeBee 1" /></noscript>
-      <div class="work1"></div>
-      <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/na6foqfhp4" rel="nofollow"
-          class="color-blanco">
-          <div class="width100 height100 vertical">
-            <div class="padding30">
-              <h2 class="h5 mayuscula"><strong>ChargeBee 1</strong></h2>
-              <p>—<br>Length: 1:50 minutes<br>Industry: SaaS </p>
-            </div>
-          </div>
-        </a></div>
-    </div>
-  </section>
+
+  <!--<section class="collaboration-sec main-smc-img-sec">-->
+  <!--  <div class="container">-->
+  <!--    <div class="row align-items-center">-->
+  <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
+  <!--        <div class="wrapper">-->
+  <!--          <h3>Create A Social Media Content Strategy</h3>-->
+  <!--          <h2>Generating More Leads and Customers Conveniently</h2>-->
+  <!--          <p>Our social media content strategy is perfect for all businesses and brands. We follow a professional approach of providing quality information and maintaining customer interaction through all mediums of social channels. We tailor content as per the need and requirement of audience which suit multiple events and occasions.</p>-->
+  <!--          <a href="http://thecontentmaestros.com/order" class="btn-theme">Let’s Get Started</a>-->
+  <!--        </div>-->
+  <!--      </div>-->
+  <!--      <div class="col-lg-6 col-md-6 col-sm-12">-->
+  <!--        <figure>-->
+  <!--          <img src="../assets/images/services/social-media-content/generating-more-leads.png">-->
+  <!--        </figure>-->
+  <!--      </div>-->
+  <!--    </div>-->
+  <!--  </div>-->
+  <!--</section>-->
+
+
+
 
   <section class="main-ghst-writng-second-sec sec-padding-60">
     <div class="container">
@@ -1256,19 +1703,19 @@
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
             <h3>Why choose us</h3>
-            <p>Your blog establishes brand identity, and we make sure you get a reputable one.</p>
+            <p>We ensure that every second spent by the user is a time well-spent to become your customer.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="main-ser">
             <div class="ser-box2">
               <ul>
-                <li>Brand related and customer-oriented</li>
-                <li>Strong call to actions</li>
-                <li>Optimised for search engines and social platforms </li>
-                <li>Value-adding content with rich media</li>
-                <li>Effective inbound marketing</li>
-                <li>Increased search engine presence </li>
+                <li>Quality and enticing content</li>
+                <li>Business prospect targeted </li>
+                <li>Customer-base expansion</li>
+                <li>Client satisfaction guaranteed</li>
+                <li>Fast turnaround</li>
+                <li>All-round expertise</li>
               </ul>
             </div>
           </div>
@@ -1277,7 +1724,7 @@
           <div class="main-ser main-serv-mob">
             <div class="ser-box2">
               <ul>
-                <li>Maximising customer base </li>
+                <li>Complete refund</li>
                 <!--<li>E-book publication</li>-->
                 <!--<li>Audiobooks</li>-->
                 <!--<li>Video book trailers</li>-->
@@ -1297,6 +1744,7 @@
       </div>
     </div>
   </section>
+
 
 
   <section class="main-sft-sec sec-padding-60">
@@ -1322,8 +1770,8 @@
                   </div>
                   <h3>Business Head, Denizen Corporate Services</h3>
                   <p class="fortest">We have been in the customer service industry for quite some time, our daily job
-                    requires us to develop a lot of content quickly. The Content Maestros has helped us always and won us
-                    over with their blogs time and again. Thank you for your continuous support.</p>
+                    requires us to develop a lot of content quickly. The Content Maestros has helped us always and won
+                    us over with their blogs time and again. Thank you for your continuous support.</p>
                   <h5>Mark Clinton</h5>
                   <div class="ratings">
                     <span class="icon-star"></span>
@@ -1367,9 +1815,9 @@
                   </div>
                   <h3>Antonio Tribiani</h3>
                   <p class="fortest">I deal with thousands of shades every day both in store and online. I needed unique
-                    and catchy product descriptions for every type and subtype of glasses in my store. The Content Maestros
-                    were the first and last ones I approached. And I intend to stand by my word. They do an amazing job
-                    every time I add a new collection.</p>
+                    and catchy product descriptions for every type and subtype of glasses in my store. The Content
+                    Maestros were the first and last ones I approached. And I intend to stand by my word. They do an
+                    amazing job every time I add a new collection.</p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
                   <h5>Spectacle Store owner</h5>
                   <div class="ratings">
@@ -1390,8 +1838,8 @@
                   </div>
                   <h3>Wanda Witherspoon</h3>
                   <p class="fortest">Most of the kids nowadays are on tablets and smartphones. My kids have been asking
-                    me for a long time for this. Someone even recommended The Content Maestros. We are now signed up for a
-                    whole year and the kids love their books. Sorry E-books. My bad. Keep up the good work.
+                    me for a long time for this. Someone even recommended The Content Maestros. We are now signed up for
+                    a whole year and the kids love their books. Sorry E-books. My bad. Keep up the good work.
 
                   </p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -1436,9 +1884,9 @@
                     <span>SA</span>
                   </div>
                   <h3>Sunita Adams</h3>
-                  <p class="fortest">I only know good writing when I see one. I am unfortunately so bad at it. Content
-                    Nucleus has been a great support for my website as well as business. I have gotten my content
-                    written from them so many times. And they do well each and every time.
+                  <p class="fortest">I only know good writing when I see one. I am unfortunately so bad at it. The
+                    Content Maestros has been a great support for my website as well as business. I have gotten my
+                    content written from them so many times. And they do well each and every time.
 
                   </p>
                   <!-- <a href="javascript:;" class="btn-theme">Learn more</a> -->
@@ -1460,99 +1908,107 @@
       </div>
     </div>
   </section>
+  <section class="main-ghst-writng-sixth-sec sec-padding-60">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="git wdt-80">
+            <h3>Giving you the level playing field and equal footing in the digital world: </h3>
+            <p>Whether you are a decade old brand or the greenest of business in the industry, rushing up with social
+              media might just the only difference between your ultimate success and total collapse. </p>
+          </div>
+        </div>
+      </div>
+      <div class="row ultimate-slider">
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/affordable.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Lead-generating:</h3>
+              <p>A great social media content is the one that brings a relevant audience to your website and social
+                profile—your business prospect, broadened.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/profitable.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Research-based: </h3>
+              <p>A great social media content is the one that includes compelling yet precise write-ups and
+                information—your business representation, done right.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/secure-ownership.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Diverse channels: </h3>
+              <p>A great social media content is the one that communicates brand message convincingly on every social
+                platform and network—your business reputation, enhanced.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Scalable solutions: </h3>
+              <p>A great social media content is the one that can get across your offerings and products in any
+                preferred number of words—your business branding, rebuilt.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Dedicated professionals:</h3>
+              <p>A great social media content is the one that results from rigorous efforts and sufficient time
+                investment—your business resources, preserved. </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="git-main">
+            <div class="git-box1">
+              <figure>
+                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
+              </figure>
+            </div>
+            <div class="git-box2">
+              <h3>Regular updates:</h3>
+              <p>A great social media content is the one that maintains the frequency of posting and publishing—your
+                business relevance, amplified. </p>
+            </div>
+          </div>
+        </div>
+      </div>
 
-  <!-- <section class="main-ghst-writng-sixth-sec sec-padding-60">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="git wdt-80">
-          <h3>Contextually precise, objectively superior—quality blog is the new face of customer experience:</h3>
-          <p>No matter how many or long your blog post might be, quality is a promise we haven’t failed to deliver. Our talented and hand-picked blog writers will amaze you with masterpieces they create. </p>
-        </div>
-      </div>
     </div>
-    <div class="row ultimate-slider">
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/affordable.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>Top-notch quality: </h3>
-            <p>A blog is not just another marketing method; it is the only key to securing marketing success– the guarantee our quality blogs offer.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/profitable.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>SEO-oriented:  </h3>
-            <p>A blog incorporated with searcher’s intent is what ranks the highest on SERPs— the sole objective of our skilled content curators.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/secure-ownership.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>Added content sophistication:</h3>
-            <p>A blog, free of grammatical and structural errors, perfected with relevant images and videos is what guarantees higher clicks— the speciality we add for content value. </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/qualified-experts.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>Engaging content:</h3>
-            <p>A blog with the human factors of readability and higher engagement rate is what boosts views and shares of your post – the ultimate benefit we offer </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/authentic-research.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>Quality in-line with the cost: </h3>
-            <p>A blog is usually ordered on the basis of its complexity and quality requirement—a flexible system with zero hagglings. </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="git-main">
-          <div class="git-box1">
-            <figure>
-              <img src="../assets/images/services/author-website/professional-excellence.svg" alt=""  width="42"/>
-            </figure>
-          </div>
-          <div class="git-box2">
-            <h3>Optimised for diversity:</h3>
-            <p>A blog personalised and carefully crafted for diverse purposes and platforms is what makes an impact—the only algorithm we follow.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
+  </section>
+
 
   <section class="introduction-new-sec">
     <div class="container">
@@ -1560,10 +2016,9 @@
         <div class="col-lg-4"></div>
         <div class="col-lg-8">
           <div class="wrapper ltus-hlp-sced">
-            <h3>AN EXPLAINER VIDEO COMPANY THAT TASTES DIFFERENT</h3>
-            <p>As an explainer animation agency, making animated explainer videos is what we love most. Our videos stand
-              out for being highly targeted and branded, and that’s because we have a creative team capable of creating
-              flawless pieces of content with a highly organized process.</p>
+            <h3>You are live, make every word count:</h3>
+            <p>The quality of content on social media is what will give your brand timeliness, relevance and lasting
+              impact—let us redefine perspectives. </p>
             <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
           </div>
         </div>
@@ -1637,9 +2092,9 @@
     </div> -->
   </div>
 
-</main>
+  </main>
+  <?php include_once("includes/footer.php") ?>
 
-<?php include_once("includes/footer.php") ?>
 
   <div class="book-call-ys-layer"></div>
   <div class="book-call-ys-container" id="ys-container">
@@ -1679,7 +2134,7 @@
               <input type="hidden" name="pc" value="">
 
               <input type="hidden" id="location" name="locationURL"
-                value="http://thecontentmaestros.com/our-services/blog-writing" />
+                value="http://thecontentmaestros.com/our-services/social-media-content" />
             </div>
 
 
@@ -1703,59 +2158,62 @@
   </div>
 
 
+
+
+
   <!--<div class="overlay-bg"></div>
-  <div class="mypopup-wrap">
-    <div class="mypopup">
-      <div class="left">
-        <figure>
-          <img src="assets/images/creative-content-weiting.jpg">
-        </figure>
-      </div>
-      <div class="right">
-        <div class="closebutton">x</div>
-        <div class="mypopup-innerwrap">
-          <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
-          <div class="form_wrap">
-            <div class="analyzeform ">
-                    <form class="" id="banform"  method="POST" action="webpages/bannerFormController.php" >
-                      <div class="row">
-                        <div class="wrap">
-                          <div class="dtf">
-                            <input id="username" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required />
-                          </div>
-                          <div class="dtf">
-                            <input id="cemail"  type="email" name="Email" placeholder="Enter email here" required>
-                          </div>
-                          <div class="dtf">
-                            <input id="phone-coun" name="Number" required type="number" rangelength="[2,15]"  placeholder="Enter phone here" />
-                          </div>
-                          <div class="dtf text-left">
-                                <input type="hidden" name="hiddencapcha" value="">
-
-                            <input class="submit" type="submit" value="RESERVE THIS OFFER" />
-                            <input class="" type="hidden" name="ctry" value="">
-                            <input type="hidden" name="pc" value="">
-                          </div>
+<div class="mypopup-wrap">
+  <div class="mypopup">
+    <div class="left">
+      <figure>
+        <img src="assets/images/creative-content-weiting.jpg">
+      </figure>
+    </div>
+    <div class="right">
+      <div class="closebutton">x</div>
+      <div class="mypopup-innerwrap">
+        <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
+        <div class="form_wrap">
+          <div class="analyzeform ">
+                  <form class="" id="banform"  method="POST" action="webpages/bannerFormController.php" >
+                    <div class="row">
+                      <div class="wrap">
+                        <div class="dtf">
+                          <input id="username" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required />
                         </div>
+                        <div class="dtf">
+                          <input id="cemail"  type="email" name="Email" placeholder="Enter email here" required>
+                        </div>
+                        <div class="dtf">
+                          <input id="phone-coun" name="Number" required type="number" rangelength="[2,15]"  placeholder="Enter phone here" />
+                        </div>
+                        <div class="dtf text-left">
+                              <input type="hidden" name="hiddencapcha" value="">
 
+                          <input class="submit" type="submit" value="RESERVE THIS OFFER" />
+                          <input class="" type="hidden" name="ctry" value="">
+                          <input type="hidden" name="pc" value="">
+                        </div>
                       </div>
-                    </form>
-                  </div>
-          </div>
+
+                    </div>
+                  </form>
+                </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 
-  <div class="eggoffer">
-    
-    <div class="top">
-      <figure>
-        <img src="assets/images/creative-content-weiting-t.png">
-      </figure>
-    </div>
-    </a>
-  </div>-->
+<div class="eggoffer">
+   
+  <div class="top">
+    <figure>
+      <img src="assets/images/creative-content-weiting-t.png">
+    </figure>
+  </div>
+  </a>
+</div>-->
 
 
 
@@ -1882,6 +2340,14 @@
 
 
 
+
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+
+
+    });
+  </script>
 
 
 

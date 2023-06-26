@@ -908,7 +908,7 @@ video.mdn{
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .banner_left{
@@ -1088,6 +1088,14 @@ video.mdn{
     .header-main.showmenu .nav-area-full{
         top: 0;
     }
+
+    .slider-wrapper{
+        margin-bottom: 0;
+    }
+}
+
+.slider-wrapper{
+    margin-bottom: 160px;
 }
 
 .home-banner-content.hme-bner-cntn {
@@ -9745,7 +9753,7 @@ _:future,
     padding: 60px 0;
     background-color: #ffedf5;
     position: relative;
-    margin-top: 190px;
+    /* margin-top: 190px; */
 }
 
 .introduction-new-sec:before {

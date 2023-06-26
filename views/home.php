@@ -449,12 +449,12 @@
                 </div> -->
                   <div class="banner_left">
                     <h1>Content Writing Agency for
-                        <span id="typed" style="white-space:pre; color:#f6dd0c;" class="typed">Resume</span><span class="typed-cursor">|</span>
+                        <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span class="typed-cursor"></span>
                     </h1>
                     <p>
                         Wondering where to find expert creative writers?
                         <br>
-                        Your search ends at Lincoln Creative Writers.
+                        Your search ends at The Content Maestros.
                     </p>
                     <div class="combo_img">
                         <a href="javascript:;"><img class="lazy" alt="Trustpilot" src="assets/images/rating-1.webp" style=""></a>
@@ -573,7 +573,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="sec1_form">
-                        <h3>Sign up with Lincoln Creative Writers to Avail Our Exclusive Discounts</h3>
+                        <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
@@ -589,7 +589,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="sec1_form">
-                        <h3>Sign up with Lincoln Creative Writers to Avail Our Exclusive Discounts</h3>
+                        <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
@@ -805,7 +805,7 @@
     </div>
   </section>
 
-  <section class="main-book-cover-sec">
+  <!-- <section class="main-book-cover-sec">
     <div class="container-fluid">
       <div class="">
         <h2>Our Recent Book Releases</h2>
@@ -1106,7 +1106,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <div class="section6">
    <div class="container-fluid">
@@ -1185,7 +1185,6 @@
     </div>
   </section>
 
-
 <!-- <section class="main-princing-sec-hme sec-padding-60">
   <div class="container">
     <div class="row">
@@ -1253,8 +1252,6 @@
         </div>
       </div>
 </section> -->
-
-
 
   <section class="main-sft-sec sec-padding-60">
     <div class="container-fluid">
@@ -1418,7 +1415,6 @@
     </div>
   </section>
 
-
   <section class="built-sec">
     <div class="container">
       <div class="row">
@@ -1440,7 +1436,6 @@
       </div>
     </div>
   </section>
-
 
   <div class="slider-wrapper black non-mar">
     <section class="">
@@ -1507,19 +1502,7 @@
     </div> -->
   </div>
 
-
-
-
-
-
-
-
-
-
-
-
   <?php include_once("includes/footer.php") ?>
-
 
   <!-- Start of ghostbookwriters Zendesk Widget script -->
   <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e062b842-32d7-46a4-ab6a-2726e5d796ba">
@@ -1533,22 +1516,10 @@
   </script>
 
 
-
-
-
-
-
-
-
-
   <script>
     // var options = {
     // debug: false,
     // }
-
-
-
-
 
 
 
@@ -1560,11 +1531,6 @@
     //  ysExit(options);
     // }
   </script>
-
-
-
-
-
 
 
   <script type="text/javascript">
@@ -1581,9 +1547,6 @@
         $(".overlay-bg").removeClass('vis');
     });
 
-
-    
-
 });*/
   </script>
 
@@ -1593,8 +1556,6 @@
 
     });
   </script>
-
-
 
 
 </body>

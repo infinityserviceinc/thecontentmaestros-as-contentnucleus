@@ -36,30 +36,30 @@
               </a>
               <ul class="dropdown dropdown-03" id="last_nav4">
                   <li class="first">
-                      <a href="article-writing"> Article Writing </a>
+                      <a href="article-writing/"> Article Writing </a>
                   </li>
                   <li>
-                      <a href="blogs-writing"> Blog Writing </a>
+                      <a href="blogs-writing/"> Blog Writing </a>
                   </li>
                   <li>
-                      <a href="microblog-posts"> Microblog Posts</a>
+                      <a href="microblog-posts/"> Microblog Posts</a>
                   </li>
                   <li>
-                      <a href="newsjacking-posts"> Newsjacking posts</a>
+                      <a href="newsjacking-posts/"> Newsjacking posts</a>
                   </li>
                   <li>
-                      <a href="power-blog-posts"> Power blog posts</a>
+                      <a href="power-blog-posts/"> Power blog posts</a>
                   </li>
                   <li>
-                      <a href="magazine-articles"> Magazine Articles</a>
+                      <a href="magazine-articles/"> Magazine Articles</a>
                   </li>
                   <li>
-                      <a href="listicles"> Listicles</a>
+                      <a href="listicles/"> Listicles</a>
                   </li>
               </ul>
           </li>
           <li>
-              <a href="grant-writing-services">
+              <a href="grant-writing-services/">
                 Grant Writing </a>
           </li>
           <li>
@@ -67,43 +67,43 @@
               </a>
               <ul class="dropdown dropdown-03">
                   <li>
-                      <a href="newsletter-writing">
+                      <a href="newsletter-writing/">
                           Newsletter Writing</a>
                   </li>
                   <li>
-                      <a href="whitepaper-writing-service">Whitepaper Writing Service</a>
+                      <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
                   </li>
                   <li>
-                      <a href="business-proposal"> Business Proposal</a>
+                      <a href="business-proposal/"> Business Proposal</a>
                   </li>
                   <li>
-                      <a href="business-plan">
+                      <a href="business-plan/">
                           Business Plan </a>
                   </li>
                   
                   <li>
-                      <a href="email-writing">
+                      <a href="email-writing/">
                           Email Writing </a>
                   </li>
                   <li>
-                      <a href="pitch-deck-design">
+                      <a href="pitch-deck-design/">
                           Pitch Deck </a>
                   </li>
                   <li class="first">
-                      <a href="press-release-writing-service"> Press Release Writing
+                      <a href="press-release-writing-service/"> Press Release Writing
                           Services</a>
                   </li>
                   <li class="first">
-                      <a href="presentations-writing"> Presentations Writing</a>
+                      <a href="presentations-writing/"> Presentations Writing</a>
                   </li>
                   <li>
-                      <a href="customer-letters"> Customer Letters</a>
+                      <a href="customer-letters/"> Customer Letters</a>
                   </li>
                   <li>
-                      <a href="memo-writing-servies">Memo Writing Servies</a>
+                      <a href="memo-writing-services/">Memo Writing Services</a>
                   </li>
                   <li>
-                      <a href="professional-case-study-writing-service">Case Study</a>
+                      <a href="professional-case-study-writing-service/">Case Study</a>
                   </li>
               </ul>
           </li>
@@ -125,31 +125,31 @@
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
-                      <a href="transcription-service">Transcription service</a>
+                      <a href="transcription-service/">Transcription service</a>
                   </li>
                   <li>
-                      <a href="video-script-writing">Video Script Writing</a>
+                      <a href="video-script-writing/">Video Script Writing</a>
                   </li>
                   <li>
-                      <a href="bio-writing">Bio Writing</a>
+                      <a href="bio-writing/">Bio Writing</a>
                   </li>
                   <li>
-                      <a href="resume-writing">Resume Writing</a>
+                      <a href="resume-writing/">Resume Writing</a>
                   </li>
                   <li>
-                      <a href="wikipedia-writing">Wikipedia Writing</a>
+                      <a href="wikipedia-writing/">Wikipedia Writing</a>
                   </li>
                   <li>
-                      <a href="complaint-letters">Complaint Letter Writing Service</a>
+                      <a href="complaint-letters/">Complaint Letter Writing Service</a>
                   </li>
                   <li>
-                      <a href="recommendation-letters">Recommendation Letters</a>
+                      <a href="recommendation-letters/">Recommendation Letters</a>
                   </li>
                   <li>
-                      <a href="cover-letter-writing-services">Cover Letter</a>
+                      <a href="cover-letter-writing-services/">Cover Letter</a>
                   </li>
                   <li>
-                      <a href="speeches">Speeches</a>
+                      <a href="speeches/">Speeches</a>
                   </li>
               </ul>
           </li>
@@ -238,34 +238,34 @@
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav2">
                   <li class="first">
-                      <a href="affiliate-marketing"> Affiliate Content Marketing</a>
+                      <a href="affiliate-marketing/"> Affiliate Content Marketing</a>
                   </li>
                   <li>
-                      <a href="slogans">Slogans</a>
+                      <a href="slogans/">Slogans</a>
                   </li>
                   <li>
-                      <a href="taglines">Taglines</a>
+                      <a href="taglines/">Taglines</a>
                   </li>
                   <li>
-                      <a href="brochure">Brochure</a>
+                      <a href="brochure/">Brochure</a>
                   </li>
                   <li>
-                      <a href="social-media-content-writing">Social Media Content Writing</a>
+                      <a href="social-media-content-writing/">Social Media Content Writing</a>
                   </li>
                   <li>
-                      <a href="book-marketing">Book Marketing</a>
+                      <a href="book-marketing/">Book Marketing</a>
                   </li>
                   <li>
-                      <a href="ppc-ads"> PPC Ads</a>
+                      <a href="ppc-ads/"> PPC Ads</a>
                   </li>
                   <li>
-                      <a href="sales-emails">Sales Emails</a>
+                      <a href="sales-emails/">Sales Emails</a>
                   </li>
                   <li>
-                      <a href="banner-ad">Banner Ad</a>
+                      <a href="banner-ad/">Banner Ad</a>
                   </li>
                     <li>
-                      <a href="reviews-service">Reviews</a>
+                      <a href="reviews-service/">Reviews</a>
                   </li>
               </ul>
           </li>
@@ -293,13 +293,13 @@
               </a>
               <ul class="dropdown dropdown-03" id="last_nav2">
                   <li class="first">
-                      <a href="seo-content-marketing"> SEO Content Marketing</a>
+                      <a href="seo-content-marketing/"> SEO Content Marketing</a>
                   </li>
                   <li>
-                      <a href="seo-writing">SEO Writing</a>
+                      <a href="seo-writing/">SEO Writing</a>
                   </li>
                   <li>
-                      <a href="reputation-management">Reputation Management</a>
+                      <a href="reputation-management/">Reputation Management</a>
                   </li>
               </ul>
           </li>
@@ -440,30 +440,30 @@
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav4">
                       <li class="first">
-                          <a href="article-writing"> Article Writing </a>
+                          <a href="article-writing/"> Article Writing </a>
                       </li>
                       <li>
-                          <a href="blogs-writing"> Blog Writing </a>
+                          <a href="blogs-writing/"> Blog Writing </a>
                       </li>
                       <li>
-                          <a href="microblog-posts"> Microblog Posts</a>
+                          <a href="microblog-posts/"> Microblog Posts</a>
                       </li>
                       <li>
-                          <a href="newsjacking-posts"> Newsjacking posts</a>
+                          <a href="newsjacking-posts/"> Newsjacking posts</a>
                       </li>
                       <li>
-                          <a href="power-blog-posts"> Power blog posts</a>
+                          <a href="power-blog-posts/"> Power blog posts</a>
                       </li>
                       <li>
-                          <a href="magazine-articles"> Magazine Articles</a>
+                          <a href="magazine-articles/"> Magazine Articles</a>
                       </li>
                       <li>
-                          <a href="listicles"> Listicles</a>
+                          <a href="listicles/"> Listicles</a>
                       </li>
                   </ul>
               </li>
               <li>
-                  <a href="grant-writing-services">
+                  <a href="grant-writing-services/">
                     Grant Writing </a>
               </li>
               <li>
@@ -471,43 +471,43 @@
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li>
-                          <a href="newsletter-writing">
+                          <a href="newsletter-writing/">
                               Newsletter Writing</a>
                       </li>
                       <li>
-                          <a href="whitepaper-writing-service">Whitepaper Writing Service</a>
+                          <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
                       </li>
                       <li>
-                          <a href="business-proposal"> Business Proposal</a>
+                          <a href="business-proposal/"> Business Proposal</a>
                       </li>
                       <li>
-                          <a href="business-plan">
+                          <a href="business-plan/">
                               Business Plan </a>
                       </li>
                       
                       <li>
-                          <a href="email-writing">
+                          <a href="email-writing/">
                               Email Writing </a>
                       </li>
                       <li>
-                          <a href="pitch-deck-design">
+                          <a href="pitch-deck-design/">
                               Pitch Deck </a>
                       </li>
                       <li class="first">
-                          <a href="press-release-writing-service"> Press Release Writing
+                          <a href="press-release-writing-service/"> Press Release Writing
                               Services</a>
                       </li>
                       <li class="first">
-                          <a href="presentations-writing"> Presentations Writing</a>
+                          <a href="presentations-writing/"> Presentations Writing</a>
                       </li>
                       <li>
-                          <a href="customer-letters"> Customer Letters</a>
+                          <a href="customer-letters/"> Customer Letters</a>
                       </li>
                       <li>
-                          <a href="memo-writing-servies">Memo Writing Servies</a>
+                          <a href="memo-writing-services/">Memo Writing Services</a>
                       </li>
                       <li>
-                          <a href="professional-case-study-writing-service">Case Study</a>
+                          <a href="professional-case-study-writing-service/">Case Study</a>
                       </li>
                   </ul>
               </li>
@@ -529,31 +529,31 @@
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li class="first">
-                          <a href="transcription-service">Transcription service</a>
+                          <a href="transcription-service/">Transcription service</a>
                       </li>
                       <li>
-                          <a href="video-script-writing">Video Script Writing</a>
+                          <a href="video-script-writing/">Video Script Writing</a>
                       </li>
                       <li>
-                          <a href="bio-writing">Bio Writing</a>
+                          <a href="bio-writing/">Bio Writing</a>
                       </li>
                       <li>
-                          <a href="resume-writing">Resume Writing</a>
+                          <a href="resume-writing/">Resume Writing</a>
                       </li>
                       <li>
-                          <a href="wikipedia-writing">Wikipedia Writing</a>
+                          <a href="wikipedia-writing/">Wikipedia Writing</a>
                       </li>
                       <li>
-                          <a href="complaint-letters">Complaint Letter Writing Service</a>
+                          <a href="complaint-letters/">Complaint Letter Writing Service</a>
                       </li>
                       <li>
-                          <a href="recommendation-letters">Recommendation Letters</a>
+                          <a href="recommendation-letters/">Recommendation Letters</a>
                       </li>
                       <li>
-                          <a href="cover-letter-writing-services">Cover Letter</a>
+                          <a href="cover-letter-writing-services/">Cover Letter</a>
                       </li>
                       <li>
-                          <a href="speeches">Speeches</a>
+                          <a href="speeches/">Speeches</a>
                       </li>
                   </ul>
               </li>
@@ -642,34 +642,34 @@
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav2">
                       <li class="first">
-                          <a href="affiliate-marketing"> Affiliate Content Marketing</a>
+                          <a href="affiliate-marketing/"> Affiliate Content Marketing</a>
                       </li>
                       <li>
-                          <a href="slogans">Slogans</a>
+                          <a href="slogans/">Slogans</a>
                       </li>
                       <li>
-                          <a href="taglines">Taglines</a>
+                          <a href="taglines/">Taglines</a>
                       </li>
                       <li>
-                          <a href="brochure">Brochure</a>
+                          <a href="brochure/">Brochure</a>
                       </li>
                       <li>
-                          <a href="social-media-content-writing">Social Media Content Writing</a>
+                          <a href="social-media-content-writing/">Social Media Content Writing</a>
                       </li>
                       <li>
-                          <a href="book-marketing">Book Marketing</a>
+                          <a href="book-marketing/">Book Marketing</a>
                       </li>
                       <li>
-                          <a href="ppc-ads"> PPC Ads</a>
+                          <a href="ppc-ads/"> PPC Ads</a>
                       </li>
                       <li>
-                          <a href="sales-emails">Sales Emails</a>
+                          <a href="sales-emails/">Sales Emails</a>
                       </li>
                       <li>
-                          <a href="banner-ad">Banner Ad</a>
+                          <a href="banner-ad/">Banner Ad</a>
                       </li>
                         <li>
-                          <a href="reviews-service">Reviews</a>
+                          <a href="reviews-service/">Reviews</a>
                       </li>
                   </ul>
               </li>
@@ -697,13 +697,13 @@
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav2">
                       <li class="first">
-                          <a href="seo-content-marketing"> SEO Content Marketing</a>
+                          <a href="seo-content-marketing/"> SEO Content Marketing</a>
                       </li>
                       <li>
-                          <a href="seo-writing">SEO Writing</a>
+                          <a href="seo-writing/">SEO Writing</a>
                       </li>
                       <li>
-                          <a href="reputation-management">Reputation Management</a>
+                          <a href="reputation-management/">Reputation Management</a>
                       </li>
                   </ul>
               </li>
@@ -850,7 +850,7 @@
                       <a href="customer-letters"> Customer Letters</a>
                   </li>
                   <li>
-                      <a href="memo-writing-servies">Memo Writing Servies</a>
+                      <a href="memo-writing-services">Memo Writing Services</a>
                   </li>
                   <li>
                       <a href="professional-case-study-writing-service">Case Study</a>
