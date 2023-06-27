@@ -639,37 +639,36 @@
         <div class="home-banner">
           <div class="container align-self-center">
             <div class="row">
-            <div class="banner_left align-items-center">
-                  <h1>Premium Article Writing Services
-                    <!-- <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span
-                      class="typed-cursor"></span> -->
-                  </h1>
-                  <p>
-                    Hire article writers who can provide you with results helping you boost your business.
-                  </p>
+              <div class="banner_left align-items-center">
+                <h1>Premium Article Writing Services
+                  <!-- <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span
+                    class="typed-cursor"></span> -->
+                </h1>
+                <p>
+                  Hire article writers who can provide you with results helping you boost your business.
+                </p>
 
-                  <h4 class="sf-txt">
-                    Starting from only 
-                    <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
-                    <span>$10</span> 
-                  </h4>
-                  <div class="combo_btn">
-                    <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
-                    <a href="/order/" class="btn-theme-outline">Get a Quote</a>
-                  </div>
-
-                  <div class="combo_img justify-content-center">
-                    <a href="javascript:;"><img class="lazy" alt="Trustpilot" src="assets/images/rating-1.webp"
-                        style=""></a>
-                    <a href="javascript:;"><img class="lazy" alt="Reviews.io" src="assets/images/rating-2.webp"
-                        style=""></a>
-                    <a href="javascript:;"><img class="lazy" alt="Clutch" src="assets/images/rating-3.webp"
-                        style=""></a>
-                    <a href="javascript:;"><img class="lazy" alt="DesignRush" src="assets/images/rating-4.webp"
-                        style=""></a>
-                  </div>
-                  
+                <h4 class="sf-txt">
+                  Starting from only 
+                  <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
+                  <span>$10</span> 
+                </h4>
+                <div class="combo_btn">
+                  <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
+                  <a href="/order/" class="btn-theme-outline">Get a Quote</a>
                 </div>
+
+                <div class="combo_img justify-content-center">
+                  <a href="javascript:;"><img class="lazy" alt="Trustpilot" src="assets/images/rating-1.webp"
+                      style=""></a>
+                  <a href="javascript:;"><img class="lazy" alt="Reviews.io" src="assets/images/rating-2.webp"
+                      style=""></a>
+                  <a href="javascript:;"><img class="lazy" alt="Clutch" src="assets/images/rating-3.webp"
+                      style=""></a>
+                  <a href="javascript:;"><img class="lazy" alt="DesignRush" src="assets/images/rating-4.webp"
+                      style=""></a>
+                </div>
+              </div>
             </div>
           </div>
           <div class="container sec1_main_form mob">
