@@ -2,7 +2,7 @@
   <div class="footer-top">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-2 offset-lg-1">
+        <div class="col-lg-3 offset-lg-1">
           <!-- <h3>Services</h3>
           <ul class="linkinglist">
           <li><a href="http://thecontentmaestros.com/logo-design">Logo Design</a></li>
@@ -15,42 +15,6 @@
           <div class="fologo">
             <a href="javascript:;"><img src="assets/images/logo.png"></a>
           </div>
-        </div>
-        <div class="col-lg-2">
-          <h3 class="xsmtpx-30">SERVICES</h3>
-          <ul class="linkinglist">
-            <li><a href="content-writing/">Content Writing</a></li>
-              <li><a href="website-copywriting/">Website Copywriting</a></li>
-              <li><a href="seo-writing/">SEO Writing</a></li>
-              <li><a href="guest-blogging/">Guest Blogging</a></li>
-              <li><a href="article-writing/">Article Writing</a></li>
-              <li><a href="blog-writing/">Blog Writing</a></li>
-              <li><a href="resume-writing/">Resume Writing</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-2">
-          <h3 class="xshide">&nbsp</h3>
-          <ul class="linkinglist">
-              <li><a href="speech-writing/">Speech Writing</a></li>
-              <li><a href="ebook-writing/">eBook Writing</a></li>
-              <li><a href="press-release/">Press Release</a></li>
-              <li><a href="web-design-development/">Web design & development</a></li>
-              <li><a href="social-media-content/">Social Media Content</a></li>
-              <li><a href="white-papers/">White Papers</a></li>
-              <li><a href="legal-writing/">Legal Writing</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-2">
-          <h3 class="xsmtpx-30">&nbsp</h3>
-          <ul class="linkinglist">
-            <li><a href="case-studies/">Case Studies</a></li>
-            <li><a href="manuscripts-novels/">Manuscripts & Novels</a></li>
-            <li><a href="editing-proofreading/">Editing and Proofreading</a></li>
-            <!--<li><a href="http://thecontentmaestros.com/our-services/wikipedia-profile">Wikipedia Profile</a></li>-->
-            <li><a href="proposal-writing/">Proposal Writing</a></li>
-          </ul>
-        </div> 
-        <div class="col-lg-3">
           <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
           <ul class="linkinglist">
             <li><a href="tel:+19295667079">+1-929-566-7079</a></li>
@@ -61,6 +25,156 @@
               <li><a href="https://twitter.com/thecontentmaestros"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li><a href="https://www.instagram.com/thecontentmaestros/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               <li><a href="https://www.linkedin.com/company/thecontentmaestros/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-lg-2">
+          <h3 class="xsmtpx-30">SERVICES</h3>
+          <ul class="linkinglist">
+            <li class="first">
+                <a href="article-writing/"> Article Writing </a>
+            </li>
+            <li>
+                <a href="blogs-writing/"> Blog Writing </a>
+            </li>
+            <li>
+                <a href="microblog-posts/"> Microblog Posts</a>
+            </li>
+            <li>
+                <a href="newsjacking-posts/"> Newsjacking posts</a>
+            </li>
+            <li>
+                <a href="power-blog-posts/"> Power blog posts</a>
+            </li>
+            <li>
+                <a href="magazine-articles/"> Magazine Articles</a>
+            </li>
+            <li>
+                <a href="listicles/"> Listicles</a>
+            </li>
+            <li>
+              <a href="grant-writing-services/">
+                Grant Writing </a>
+            </li>
+            <li>
+                <a href="newsletter-writing/">
+                    Newsletter Writing</a>
+            </li>
+            <li>
+                <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
+            </li>
+            <li>
+                <a href="business-proposal/"> Business Proposal</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-2">
+          <h3 class="xshide">&nbsp</h3>
+          <ul class="linkinglist">
+            <li>
+                <a href="business-plan/">
+                    Business Plan </a>
+            </li>
+            
+            <li>
+                <a href="email-writing/">
+                    Email Writing </a>
+            </li>
+            <li>
+                <a href="pitch-deck-design/">
+                    Pitch Deck </a>
+            </li>
+            <li class="first">
+                <a href="press-release-writing-service/"> Press Release Writing
+                    Services</a>
+            </li>
+            <li class="first">
+                <a href="presentations-writing/"> Presentations Writing</a>
+            </li>
+            <li>
+                <a href="customer-letters/"> Customer Letters</a>
+            </li>
+            <li>
+                <a href="memo-writing-services/">Memo Writing Services</a>
+            </li>
+            <li>
+                <a href="professional-case-study-writing-service/">Case Study</a>
+            </li>
+            <li class="first">
+                <a href="transcription-service/">Transcription service</a>
+            </li>
+            <li>
+                <a href="video-script-writing/">Video Script Writing</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-2">
+          <h3 class="xsmtpx-30">&nbsp</h3>
+          <ul class="linkinglist">
+            <li>
+                <a href="bio-writing/">Bio Writing</a>
+            </li>
+            <li>
+                <a href="resume-writing/">Resume Writing</a>
+            </li>
+            <li>
+                <a href="wikipedia-writing/">Wikipedia Writing</a>
+            </li>
+            <li>
+                <a href="complaint-letters/">Complaint Letter Writing Service</a>
+            </li>
+            <li>
+                <a href="recommendation-letters/">Recommendation Letters</a>
+            </li>
+            <li>
+                <a href="cover-letter-writing-services/">Cover Letter</a>
+            </li>
+            <li>
+                <a href="speeches/">Speeches</a>
+            </li>
+            <li class="first">
+                <a href="affiliate-marketing/"> Affiliate Content Marketing</a>
+            </li>
+            <li>
+                <a href="slogans/">Slogans</a>
+            </li>
+            <li>
+                <a href="taglines/">Taglines</a>
+            </li>
+          </ul>
+        </div> 
+        <div class="col-lg-2">
+          <h3 class="xsmtpx-30">&nbsp</h3>
+          <ul class="linkinglist">
+            <li>
+                <a href="brochure/">Brochure</a>
+            </li>
+            <li>
+                <a href="social-media-content-writing/">Social Media Content Writing</a>
+            </li>
+            <li>
+                <a href="book-marketing/">Book Marketing</a>
+            </li>
+            <li>
+                <a href="ppc-ads/"> PPC Ads</a>
+            </li>
+            <li>
+                <a href="sales-emails/">Sales Emails</a>
+            </li>
+            <li>
+                <a href="banner-ad/">Banner Ad</a>
+            </li>
+            <li>
+              <a href="reviews-service/">Reviews</a>
+            </li>
+            <li class="first">
+              <a href="seo-content-marketing/"> SEO Content Marketing</a>
+            </li>
+            <li>
+                <a href="seo-writing/">SEO Writing</a>
+            </li>
+            <li>
+                <a href="reputation-management/">Reputation Management</a>
+            </li>
           </ul>
         </div>  
       </div>

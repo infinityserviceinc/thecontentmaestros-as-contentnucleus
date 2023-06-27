@@ -649,11 +649,11 @@
                   We are home to a proficient team of writers who can produce high-quality and engaging listicles for you.
                 </p>
 
-                <h4 class="sf-txt">
+                <!-- <h4 class="sf-txt">
                   Starting from only 
                   <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
                   <span>$10</span> 
-                </h4>
+                </h4> -->
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
                   <a href="/order/" class="btn-theme-outline">Get a Quote</a>
@@ -670,7 +670,6 @@
                       style=""></a>
                 </div>
               </div>
-
             </div>
           </div>
           <div class="container sec1_main_form mob">

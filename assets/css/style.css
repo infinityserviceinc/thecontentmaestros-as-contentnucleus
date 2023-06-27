@@ -1092,6 +1092,17 @@ video.mdn{
     .slider-wrapper{
         margin-bottom: 0;
     }
+
+    /* .counter ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .counter ul li{
+        width: 100%;
+    } */
 }
 
 .slider-wrapper{
