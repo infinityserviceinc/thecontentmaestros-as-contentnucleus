@@ -98,7 +98,6 @@
   <!--   </div>-->
   <!--</div>-->
   <?php include_once("includes/header.php") ?>
-  </header>
 
 
   <div class="overlay overlay-hugeinc">
@@ -160,7 +159,7 @@
     </div>
   </div>
 
-
+  
   <div class="main-modal-sec">
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
       aria-hidden="true">
@@ -640,50 +639,26 @@
         <div class="home-banner">
           <div class="container align-self-center">
             <div class="row">
-              <div class=" col-lg-7 col-md-7 col-sm-12">
-                <!-- <div class="home-banner-content">
-                  <h1>Professional & Quality The Content Maestros Services </h1>
-                  <p class="subtitle">Committed to helping you achieve your digital and publishing goals with our
-                    content writing services</p>
-                  <ul class="hme-lst-stle">
-                    <li>100 % Original Content</li>
-                    <li>Compliance with the content standards</li>
-                    <li>Complete confidentiality of the service</li>
-                    <li>Unlimited revisions.</li>
-                    <li>7+ Years of Experience</li>
-                  </ul>
-                  <div class="main-hme-lgs">
-                    <img width="204" height="50" class="good-firm" src="assets/images/good-firm.png" alt="" />
-                    <img width="240" height="32" class="clutch" src="assets/images/clutch.png" alt="" />
-                    <img width="88" height="67" class="top-design-firm" src="assets/images/top-design-firm.png"
-                      alt="" />
-                    <img width="204" height="42" class="top-digital-agency" src="assets/images/top-digital-agency.png"
-                      alt="" />
-                  </div>
-                  <div class="ratingBr">
-                    <p>Rated 9 out of 10
-                      <span>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                        <i class="fa fa-star"></i>
-                      </span> based on 3,543 satisfied customers.
-                    </p>
-                  </div>
-                  <a href="order/" class="btn-theme">Let’s Get Started</a>
-                </div> -->
-                <div class="banner_left">
-                  <h1>Content Writing Agency for
-                    <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span
-                      class="typed-cursor"></span>
+            <div class="banner_left align-items-center">
+                  <h1>Premium Article Writing Services
+                    <!-- <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span
+                      class="typed-cursor"></span> -->
                   </h1>
                   <p>
-                    Wondering where to find expert creative writers?
-                    <br>
-                    Your search ends at The Content Maestros.
+                    Hire article writers who can provide you with results helping you boost your business.
                   </p>
-                  <div class="combo_img">
+
+                  <h4 class="sf-txt">
+                    Starting from only 
+                    <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
+                    <span>$10</span> 
+                  </h4>
+                  <div class="combo_btn">
+                    <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
+                    <a href="/order/" class="btn-theme-outline">Get a Quote</a>
+                  </div>
+
+                  <div class="combo_img justify-content-center">
                     <a href="javascript:;"><img class="lazy" alt="Trustpilot" src="assets/images/rating-1.webp"
                         style=""></a>
                     <a href="javascript:;"><img class="lazy" alt="Reviews.io" src="assets/images/rating-2.webp"
@@ -693,111 +668,8 @@
                     <a href="javascript:;"><img class="lazy" alt="DesignRush" src="assets/images/rating-4.webp"
                         style=""></a>
                   </div>
-                  <div class="combo_btn">
-                    <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
-                    <a href="/order/" class="btn-theme-outline">Get a Quote</a>
-                  </div>
+                  
                 </div>
-              </div>
-              <div class="col-lg-4 col-md-4 col-sm-12">
-                <!-- <div class="main-banner-form">
-                  <div class="services_form">
-                    <div class="main-servi-wrapper">
-                      <div class="main-percent">
-                        <div class="per-box1">
-                          <figure>
-                            <img class="hme-nmrl-img" src="assets/images/50percent.png" alt="" />
-                          </figure>
-                        </div>
-                        <div class="per-box2">
-                          <h3><span>chat</span>
-                            <p>with us to avail</p> 25% off
-                          </h3>
-                        </div>
-                      </div>
-                      <div class="banner-form">
-                        <section class="banform">
-                          <div class="container">
-                            <div class="row">
-                              <div class="">
-                                <div class="ban-form">
-                                  <form class="cmxform" method="POST" action="/leads/">
-                                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
-                                    <input type="hidden" name="brand" value="thecontentmaestros">
-                                    <input type="hidden" name="token" value="<?= $token;?>">
-                                    <input type="hidden" name="tag" value="sidepanel form in landing-page">
-                                    <input type="hidden" name="price" value="null">
-                                    <input type="hidden" name="news" value="1">
-                                    <input type="text" class="jun" name="gender">
-
-                                    <div class="row">
-                                      <div class="col-lg-12">
-                                        <div class="gt-strtd">
-                                          <h3>Get Started Now!</h3>
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset">
-                                          <input id="username" name="name" minlength="2" type="text"
-                                            placeholder="Enter your name" required />
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset">
-                                          <input id="cemail" type="email" name="email" placeholder="Enter email here"
-                                            required>
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset">
-                                          <input id="phone-coun" name="phone" type="number" placeholder="Phone Number"
-                                            required />
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset massage-field">
-                                          <textarea placeholder="Message" name="brief"></textarea>
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset term">
-                                          <label>
-                                            <input type="checkbox" name="nda" value="Required NDA" class="frm-checkbox">
-                                            <span>To receive our weekly Newsletter/SMS check here. You can unsubscribe
-                                              at any time.</span>
-                                          </label>
-                                        </div>
-                                      </div>
-                                      <div class="col-lg-12">
-                                        <div class="fldset">
-                                          <input name="btn-theme" type="submit" placeholder="Connect With Us"
-                                            required />
-                                          <script type="text/javascript">
-                                            document.getElementById('location').value = window.location.href;
-                                          </script>
-                                          <input type="hidden" name="hiddencapcha" value="">
-                                          <input type="hidden" id="location" name="locationURL"
-                                            value="http://thecontentmaestros.com/" />
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </form>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </section>
-                      </div>
-                    </div>
-                  </div>
-                </div> -->
-                <div class="banner_right ">
-                  <video autoplay="" muted="" loop="" class="" style="position:unset;object-fit:contain;">
-                    <source src="assets/video/banner-img.webm" type="video/webm">
-                  </video>
-                </div>
-              </div>
-
             </div>
           </div>
           <div class="container sec1_main_form mob">
