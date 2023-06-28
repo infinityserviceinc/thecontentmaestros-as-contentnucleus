@@ -1,6 +1,5 @@
 <div class="mobile-nav"> <a href="/" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
-
     <ul class="unstyled mainnav pbpx-15">
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
@@ -336,9 +335,6 @@
       <!-- <li><a href="http://thecontentmaestros.com/contact">Contact</a></li> -->
     </ul>
 
-    
-
-
   </nav>
 </div>
 <main class="app-container">
@@ -379,9 +375,12 @@
                     +1-929-566-7079 
                 </a>
             </li>
-            
-            <li><a href="javascript:;" class="chat-border" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a></li>
-            
+            <li>
+                <a href="javascript:;" class="chat-border" onclick="setButtonURL();" target="_self">
+                    <span class="icon-chat"></span> 
+                    Live Chat
+                </a>
+            </li>
             <li><a href="order/" class="btn-main-">Let's Get Started</a></li>
           </ul>
         </div>

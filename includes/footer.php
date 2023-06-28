@@ -335,16 +335,17 @@ Test
     $(".fancybox").fancybox();    
   });
 
-  // jQuery('#typed').typed({
-  //   strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],
-  //   typeSpeed: 100,
-  //   startDelay: 0,
-  //   backSpeed: 60,
-  //   backDelay: 2000,
-  //   loop: true,
-  //   cursorChar: "|",
-  //   contentType: 'html'
-  // });
+  $(".contentSlider").slick({
+    dots: !0,
+    arrows: !1,
+    infinite: !0,
+    speed: 1e3,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: !0,
+    autoplaySpeed: 2e3,
+    adaptiveHeight: !0
+});
   
 var typed = new Typed('#typed', {
   strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],

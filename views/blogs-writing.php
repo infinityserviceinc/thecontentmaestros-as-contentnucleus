@@ -1268,11 +1268,54 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Fuel up your blogging strategy:</h3>
-            <p>It’s a quality blog or nought, that’s how the content world works, and that’s what we guarantee you with
-              every written piece. Promotional, informative, personal, niche--- you name it, and we’ll get it done.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Business Blogs</h3>
+              <p>
+                Blogs have proved to be efficient for businesses to communicate with their clients, build
+                communities, and attract new customers. We understand the unique needs of businesses and provide
+                them with blogs that can help them increase their sales and visibility. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>News Blogs</h3>
+              <p>
+                News blogs have become immensely popular in recent times. They help keep the audience updated
+                about what's happening around the industry. Our seasoned writers keep an eye on everything that
+                happens around us and produce blogs that are informative and engaging for the target audience.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Guest Post Blogs</h3>
+              <p>
+                Guest post blogs are blogs that are posted on a third-party platform for a unique purpose.
+                Different platforms allow you to post informative blogs that contribute to your community. Our
+                writers are capable of producing such blogs by following the writing instructions provided by
+                each platform. We ensure to maintain the quality and credibility of the content to match the
+                content on each platform.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Marketing Blogs</h3>
+              <p>
+                Marketing blogs have become a way to market products or services in a new way. They play a
+                crucial role in creating hype around a product. Our professional team of writers ensures that
+                each blog is written with a fresh approach to keep the surroundings buzzing. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Lifestyle Blogs</h3>
+              <p>
+                Lifestyle blogs cover a wide variety of topics ranging from productivity to wellness. These blogs
+                can provide valuable information to people looking for workout routines, tips and tricks. Our
+                writers aim to produce such blogs that can add great value to the lives of the readers. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1537,9 +1580,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Top-notch quality: </h3>
-              <p>A blog is not just another marketing method; it is the only key to securing marketing success– the
-                guarantee our quality blogs offer.</p>
+              <h3>Enhance Your SEO</h3>
+              <p>
+                SEO has become the holy grail for your business. Get your SEO improved to turn the tables and let customers find you, instead of finding them. We work dedicatedly to improve your website by using content based on popular keywords.
+              </p>
             </div>
           </div>
         </div>
@@ -1551,9 +1595,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented: </h3>
-              <p>A blog incorporated with searcher’s intent is what ranks the highest on SERPs— the sole objective of
-                our skilled content curators.</p>
+              <h3>Guaranteed Results </h3>
+              <p>
+                We believe in producing favorable results. Our content writers guarantee to meet your various expectations according to your ideology for your business. The content we produce is free of plagiarism and has all the elements to make your business grow.
+              </p>
             </div>
           </div>
         </div>
@@ -1565,9 +1610,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Added content sophistication:</h3>
-              <p>A blog, free of grammatical and structural errors, perfected with relevant images and videos is what
-                guarantees higher clicks— the speciality we add for content value. </p>
+              <h3>Build Your Brand's Identity</h3>
+              <p>
+                We will help you build your identity and attract way more customers than ever before. We know which keyword suits your niche to make the content look refined and attractive. Get in touch and give your business a new identity.
+              </p>
             </div>
           </div>
         </div>

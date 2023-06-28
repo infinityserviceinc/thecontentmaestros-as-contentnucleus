@@ -966,11 +966,43 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Magazine Articles </h3>
+              <p>
+                Magazine articles need to be brief and appealing. What most writers forget is to match the tone
+                and style of the magazine. We ensure that the articles incorporate the tone and the targeted
+                audience.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Industry Articles</h3>
+              <p>
+                Each industry has its unique nuisances, and they must reflect in each article written for the
+                industry. Our writers ensure to research each topic thoroughly to provide information based on
+                facts utilizing authentic resources.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>News Articles</h3>
+              <p>
+                News articles are a great way to break the hottest news to your readers. Our professional writers
+                ensure that each news article has enough substance in it to make the news engaging for the
+                readers.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>LinkedIn Articles</h3>
+              <p>
+                The competition in the corporate world is getting tougher every day. LinkedIn articles can be the
+                master plan that can help you build authority. We have trained writers to meet your goals on the
+                LinkedIn platform.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1233,9 +1265,12 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Improve Your SEO</h3>
+              <p>
+                Optimized content is the ultimate key to success. You can attract more traffic with content that
+                is engaging and informative. We can help you reach your goals by offering impactful content to
+                make your business get ahead of the competition.
+              </p>
             </div>
           </div>
         </div>
@@ -1247,9 +1282,12 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Create a Brand</h3>
+              <p>
+                We believe in analytics and know which keywords complement your website and can attract more
+                organic traffic for your growth. You can boost your brand image by having business-friendly
+                keywords that can help you gain more clients, visibility, and sales.
+              </p>
             </div>
           </div>
         </div>
@@ -1261,9 +1299,12 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>High Visibility</h3>
+              <p>
+                Informative content has the power to attract customers. Our professional ghost article writers
+                ensure that your website has useful content that can help customers understand your ideology. It
+                would help you build an improved brand persona and increased conversion rate.
+              </p>
             </div>
           </div>
         </div>
