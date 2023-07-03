@@ -967,11 +967,29 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>LinkedIn</h3>
+              <p>
+              LinkedIn has become a crucial platform for businesses and professionals alike. Our microbloggers work tirelessly to help you write suitable content for LinkedIn.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Twitter</h3>
+              <p>
+              Nothing says micro like Twitter. Tweet your way to marketing brilliance with our microblogging services.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
+            <div class="thierd-sec-content">
+              <h3>Instagram</h3>
+              <p>
+              Microblogging is not only about written content. Our Instagram pros write content and add pictures on your handles. Sounds like a win-win situation, no?
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1218,10 +1236,8 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Expand Your Reach On Trending Topics With Our Microblogs</h3>
+            <p>Take content marketing to new heights with our microblogging services.</p>
           </div>
         </div>
       </div>
@@ -1234,9 +1250,8 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Frequent Posts</h3>
+              <p>The best part about microblogging is the frequent posting. You can cover topics quickly and publish on time.</p>
             </div>
           </div>
         </div>
@@ -1248,9 +1263,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Lesser Turnaround
+Time</h3>
+              <p>Microblogs have a quicker turnaround time, making them an exceptional marketing tactic.
+
+</p>
             </div>
           </div>
         </div>
@@ -1262,9 +1279,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Perfect for
+Time-Sensitive Content</h3>
+              <p>Microblogs are the perfect solution for time-sensitive content like important announcements and breaking news.
+
+</p>
             </div>
           </div>
         </div>
@@ -1276,11 +1295,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
+              <h3>Mobile
+Friendly</h3>
+              <p>Microblogs work great with mobile phones, making them easy to read and accessible.
+
+</p>
             </div>
           </div>
         </div>
@@ -1292,9 +1311,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
+              <h3>Great for
+Product Marketing</h3>
+              <p>Microblogs are a great way to market products. In our micro-blogging, we share images, promote products, and put in product links to boost sales.
+
+</p>
             </div>
           </div>
         </div>
@@ -1306,9 +1327,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
+              <h3>Direct
+Communication</h3>
+              <p>They act as short-form communication by enabling users to leave comments or retweets.
+
+</p>
             </div>
           </div>
         </div>

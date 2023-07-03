@@ -967,11 +967,39 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Feature Articles</h3>
+              <p>
+              We understand that every magazine has a unique audience. This drives us to produce compelling feature articles that aim to enlighten your readers with authentic content that matches their tastes and preferences.
+
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Opinion Articles</h3>
+              <p>
+              We at Lincoln Creative believe that opinions can change the world. Our expert writing team produces high-quality opinion articles helping you set a unique direction for your magazine. 
+
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Informative Articles</h3>
+              <p>
+              Today, information has become crucial to diversify perspectives. Our content experts curate industry-based informative articles enabling your magazine to become a distinguished source of information on relevant topics.
+
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Technical Articles</h3>
+              <p>
+              Our technical writing team produces high-quality, accurate, and effective technical content that meets the needs of the intended audience. Our writers bring years of experience in various industries and can communicate complex information clearly and concisely to your readers.
+
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1218,10 +1246,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Hire Article Writers Who Can Set New Industry Standards
+</h3>
+            <p>Lincoln Creative Writers has the most professional magazine writers in the industry, with unparalleled expertise and a knack for crafting captivating content that keeps your readers engaged and informed.
+
+</p>
           </div>
         </div>
       </div>
@@ -1234,9 +1263,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>High-Quality Content
+</h3>
+              <p>Our writers stay head to head with the latest trends and happenings, working tirelessly to produce relevant and quality content to make your magazine stand out, bringing exceptional value to your readers.
+
+</p>
             </div>
           </div>
         </div>
@@ -1248,9 +1279,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Diverse Perspectives
+</h3>
+              <p>We at Lincoln Creative believe in diversity and introducing readers to different perspectives. We have niche-based writers who can generate premium content that provides various voices, allowing a platform to shine.
+
+</p>
             </div>
           </div>
         </div>
@@ -1262,56 +1295,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Powered by Trends
+</h3>
+              <p>Our professional writers always stay ahead of the curve by actively following the latest trends and industry developments, ensuring the content produced is always fresh, relevant, and appealing.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

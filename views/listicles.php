@@ -967,11 +967,34 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>How-To Listicles</h3>
+              <p>
+              We understand that guides and tutorials are easy when they are listed. That’s what drives our
+                        writing team to offer the readers an informative and brief listicle to offer them value. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Educational Listicles</h3>
+              <p>
+              We at Lincoln Creative Writers understand that educational listicles can play a key role in
+                        making choices and comparisons for educational purposes. We have the skills to do the research
+                        for your consumers so that they can make the right decisions. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Best Options Listicles</h3>
+              <p>
+              Our trained writing staff is set to help you choose the best out of many options that often put
+                        you into a dilemma. We at Lincoln Creative can effortlessly create articles featuring the best
+                        options available. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1218,10 +1241,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Keep The Readers Engaged Through Professional Listicle Writing Services
+</h3>
+            <p>Our trained writing experts can produce engaging and high-quality listicles that are informative and concise, allowing your readers to grasp the context in no time.
+
+</p>
           </div>
         </div>
       </div>
@@ -1234,9 +1258,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Informative
+</h3>
+              <p>We at Lincoln Creative Writers are home to a dedicated writing force that produces informative and engaging listicles that can keep your readers informed without boring them.
+
+</p>
             </div>
           </div>
         </div>
@@ -1248,9 +1274,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Concise</h3>
+              <p>We believe in keeping things short and simple with our unique writing style. Our professional writers know the art of providing quality content without complicating things.
+
+</p>
             </div>
           </div>
         </div>
@@ -1262,9 +1289,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Accurate
+</h3>
+              <p>Our listicle writing service is built on the pillar of trust. That is why every project undergoes thorough research before making it to the readers.
+
+</p>
             </div>
           </div>
         </div>
@@ -1276,42 +1305,16 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
+              <h3>Content
+</h3>
+              <p>Our team’s attention to detail propels them to create original and 100% plagiarism-free content that resonates with the latest trends and popular demand.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
       </div>
 
     </div>
