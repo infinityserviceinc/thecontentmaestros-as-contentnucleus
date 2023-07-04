@@ -966,11 +966,36 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Academic Letter of Recommendation </h3>
+              <p>
+              The dream of getting into your dream college isn’t a distant dream anymore. Our talented writing
+                        team can help you draft a persuasive LOR highlighting all you offer. We will present you as a
+                        valuable addition to the institution allowing you to pursue your dreams
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Character Letter of Recommendation</h3>
+              <p>
+              How others perceive you can make a huge difference academically and professionally. Our trained
+                        recommendation writers can help you highlight the characteristics that make you stand tall in
+                        the crowd. We can help you create an image that can leave a lasting impression on the people
+                        around you. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Employment Letter of Recommendation</h3>
+              <p>
+              Let’s face it the competition is real in ever-evolving industries, and you need to have the wow
+                        factor to make yourself stand out. Our expert writers can help you highlight your professional
+                        achievements offering the hiring managers distinctive reasons to get you on board.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1242,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Recommendation Letters That Represent You In The Best Possible Way
+</h3>
+            <p>Our professional letter of recommendation writers produce authentic and convincing letters that can help you establish credibility in the eyes of admission or hiring committees.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1259,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Guaranteed Results
+</h3>
+              <p>Our letter of recommendation services are designed to impeccably match all the requirements of the clients and hiring committees. We work closely with our clients to provide guaranteed results that align with their goals and ambitions. We are committed to delivering perfection and creating new paths for our clients.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1275,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Dedicated Writing Force
+</h3>
+              <p>Each of our letter of recommendation writers brings years of experience working with clients from different industries. We understand the importance of getting the tone right when drafting a convincing LOR. Our team will go beyond limitations to create a uniquely convincing letter of recommendation for you.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1291,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Unique Approach
+</h3>
+              <p>We believe every letter of recommendation requires an out-of-the-box approach, which drives us to take a new route every time we work with a LOR. Our professional writers closely monitor your needs and craft letter of recommendation according to your professional and academic requirements.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

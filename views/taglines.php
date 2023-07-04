@@ -966,11 +966,35 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Humorous Taglines</h3>
+              <p>
+              Humor attracts attention like nothing else. Our creative tagline writing team can help you
+                        develop a tagline that grips the audience’s attention with a giggle.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Descriptive Taglines</h3>
+              <p>
+              We believe clarity provokes intent. That’s why our tagline specialists have mastered the art of
+                        turning your brand’s vision into a memorable story.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Emotional Taglines </h3>
+              <p>
+              Emotions play a key role in attracting customers. We design taglines in a way that creates a
+                        lasting impression on the minds of your audience.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1241,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Enclose Your Brand Story In Few Powerful Words
+</h3>
+            <p>Lincoln Creative Writers is home to professional tagline experts who can create catchy and intuitive taglines that will stay with your audience for a long time.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1258,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Captivating Taglines
+</h3>
+              <p>We at Lincoln Creative Writers craft concise, catchy, and memorable taglines by understanding brand values, target audience, vision, and modern market trends.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1274,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Impactful Execution
+</h3>
+              <p>Our writers excel at crafting meaningful taglines by carefully honing ideas, tone, and message to capture the true essence of your vision.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1290,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>A Powerful Message
+</h3>
+              <p>Our dedicated tagline writing team prioritizes clear and impactful messaging, constructing niche-based, catchy taglines that effectively convey the essence of your brand.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

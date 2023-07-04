@@ -1156,14 +1156,36 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>The Most Professional Business Plan Writing Services Near Me</h3>
-            <p>We offer the most professional business plan writing services that fulfill a majority of purposes. Be it
-              a start-up business or an existing business looking to tap new markets, we cater to all sorts of business
-              needs. For those who need a business plan to obtain long-term financing from a bank or any other lending
-              institution, we have experienced and educated personnel who work through the numbers to give favorable
-              financial feasibility</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Investor-Grade</h3>
+              <p>
+              Have a revolutionary business/product idea? It's time you push your powerful idea into execution.
+                        Choose our business plan writing service and get a business plan that'll attract venture capital
+                        firms and angel investors. From market research to cost analysis, we make things the entire
+                        process easy, simple, and convenient.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Bank-Compliant</h3>
+              <p>
+              Struggling to kick start your small business, it's time you look towards a Small Business
+                        Administration (SBA) loan. Get our cheap business plan writing service and impress the bank with
+                        a business plan that showcases your business idea in its best possible version. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Franchise</h3>
+              <p>
+              Is it finally time to expand your business and step into franchising? You've come to the right
+                        place. Our business plan writing experts will help design plans that include thorough industry
+                        research, financial projections, and competitor analysis. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1386,9 +1408,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Contextually precise, objectively superior—quality blog is the new face of customer experience:</h3>
-            <p>No matter how many or long your blog post might be, quality is a promise we haven’t failed to deliver.
-              Our talented and hand-picked blog writers will amaze you with masterpieces they create. </p>
+            <h3>Renowned Business Plan Writers For Hire
+</h3>
+            <p>Starting a business from your perspective is a good start. We then identify key opportunities and provide recommendations to help your company grow. You have to search for 'professional business plan writing services near me to hire the best services.
+
+</p>
           </div>
         </div>
       </div>
@@ -1401,9 +1425,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Top-notch quality: </h3>
-              <p>A blog is not just another marketing method; it is the only key to securing marketing success– the
-                guarantee our quality blogs offer.</p>
+              <h3>Consultants with
+Prior Experience</h3>
+              <p>We will match you with a senior consultant who has assisted clients in over 100 industries in raising financing and growing their businesses.
+
+</p>
             </div>
           </div>
         </div>
@@ -1415,9 +1441,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented: </h3>
-              <p>A blog incorporated with searcher’s intent is what ranks the highest on SERPs— the sole objective of
-                our skilled content curators.</p>
+              <h3>Process of
+Strategic Advisory</h3>
+              <p>We don't simply write down our ideas. We brainstorm, study, and offer the most acceptable business growth tactics.
+
+</p>
             </div>
           </div>
         </div>
@@ -1429,9 +1457,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Added content sophistication:</h3>
-              <p>A blog, free of grammatical and structural errors, perfected with relevant images and videos is what
-                guarantees higher clicks— the speciality we add for content value. </p>
+              <h3>Completely
+Personalized</h3>
+              <p>There will be no templates or lengthy questionnaires. We collaborate with you to create a personalized plan that reflects your vision.
+
+</p>
             </div>
           </div>
         </div>
@@ -1443,9 +1473,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Engaging content:</h3>
-              <p>A blog with the human factors of readability and higher engagement rate is what boosts views and shares
-                of your post – the ultimate benefit we offer </p>
+              <h3>Cost-effective and
+Results-Oriented</h3>
+              <p>We recognize that time is money. We do all of the legal work, leaving you with more time to focus on building your business.
+
+</p>
             </div>
           </div>
         </div>
@@ -1457,26 +1489,15 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Quality in-line with the cost: </h3>
-              <p>A blog is usually ordered on the basis of its complexity and quality requirement—a flexible system with
-                zero hagglings. </p>
+              <h3>Competitive Pricing
+And High Quality</h3>
+              <p>We offer the most excellent quality business plans for a fraction of the cost that some competitors ask.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Optimised for diversity:</h3>
-              <p>A blog personalised and carefully crafted for diverse purposes and platforms is what makes an
-                impact—the only algorithm we follow.</p>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </div>
   </section>

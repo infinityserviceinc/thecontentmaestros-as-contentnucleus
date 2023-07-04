@@ -1537,12 +1537,35 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>There’s only one rule to success: consistency</h3>
-            <p>Engrave it on your rulebook to social media strategy: regular updates are the key to increasing awareness
-              and brand development. Want to remain at the forefront of billions of potential prospects? Give us a call;
-              our work proves our expertise. </p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Instagram Posts </h3>
+              <p>
+              Slowly rising to the top ranks, Instagram is turning into one of the most impactful social media marketing tools. It’s true that a picture speaks a thousand words and our team of social media post writers is leveraging this very fact. Enhance visibility and target a wider audience with wisely curated Instagram posts. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Twitter Tweets</h3>
+              <p>
+              Nothing can beat the power Twitter holds in this modern world. Be it politics or entertainment, it’s the hub of keyboard warriors and marketers. Let our experts channel the power of Twitter the right way with Tweets that impact the masses and wins hearts across the globe.   
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Facebook Posts </h3>
+              <p>
+              Did you know Facebook is the world’s most popular social media platform? More than 20% of the entire world’s population uses this social media. Partner with us for writing copy for Facebook posts and target a global audience with powerful words that impress, attract, and boost sales.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>LinkedIn Posts</h3>
+              <p>
+              If you’re looking for corporate marketing, you need to have a presence on LinkedIn. We have a team of LinkedIn marketing experts that help optimize LinkedIn profiles and curate powerful articles to attract the relavent audience. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1789,9 +1812,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Giving you the level playing field and equal footing in the digital world: </h3>
-            <p>Whether you are a decade old brand or the greenest of business in the industry, rushing up with social
-              media might just the only difference between your ultimate success and total collapse. </p>
+            <h3>Content Creator Calendar Ensures A Competitive Edge
+ </h3>
+            <p>Even the most inexperienced entrepreneurs may showcase themselves alongside renowned businesses via social media marketing. However, creating content for your social media efforts takes time and consideration. By writing a social media post, you may generate more leads at a fraction of the cost of traditional marketing.
+
+</p>
           </div>
         </div>
       </div>
@@ -1804,9 +1829,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Lead-generating:</h3>
-              <p>A great social media content is the one that brings a relevant audience to your website and social
-                profile—your business prospect, broadened.</p>
+              <h3>Branded
+content</h3>
+              <p>Increase your social media followers with eye-catching content while maintaining your brand voice.
+
+</p>
             </div>
           </div>
         </div>
@@ -1818,9 +1845,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Research-based: </h3>
-              <p>A great social media content is the one that includes compelling yet precise write-ups and
-                information—your business representation, done right.</p>
+              <h3>Top 1% of
+social media creators</h3>
+              <p>Tell us about your goals, and let our carefully curated creator network assist you in connecting with your target audience.
+
+</p>
             </div>
           </div>
         </div>
@@ -1832,54 +1861,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Diverse channels: </h3>
-              <p>A great social media content is the one that communicates brand message convincingly on every social
-                platform and network—your business reputation, enhanced.</p>
+              <h3>Make contact with
+your target audience</h3>
+              <p>Count on our content developers to provide ideal short-form content and brief tidbits to help you dominate the social media market.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Scalable solutions: </h3>
-              <p>A great social media content is the one that can get across your offerings and products in any
-                preferred number of words—your business branding, rebuilt.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Dedicated professionals:</h3>
-              <p>A great social media content is the one that results from rigorous efforts and sufficient time
-                investment—your business resources, preserved. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Regular updates:</h3>
-              <p>A great social media content is the one that maintains the frequency of posting and publishing—your
-                business relevance, amplified. </p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

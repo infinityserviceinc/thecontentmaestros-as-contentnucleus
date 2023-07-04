@@ -966,11 +966,42 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Job Application Letters</h3>
+              <p>
+              It is a supplemental document that applicants send with their resume or CVs containing all the important information, such as measurable results that increase your match rate with the company. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Company Specific Prospect Letters </h3>
+              <p>
+              This primary type of cover letter is used to inquire about job openings at a single organization without eyeing a specific designation. We can help you write a letter that aligns your talent with the company’s vision. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Career Change Cover Letters</h3>
+              <p>
+              We also provide cover letter writing services to individuals transitioning to a new profession or developing a different passion than their previous experiences. Highlighting the skills used in past experiences to show your value for the current job. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Networking Cover Letters </h3>
+              <p>
+              We can help you build a secure network of contacts with our reader-friendly and compelling networking cover letters. It can help you take advice, get referrals, recommendations, and news about new job openings in your profession. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Email Cover Letters </h3>
+              <p>
+              We also offer short and crisp email cover letter writing services to send with your resumes and CVs, including a cordial introduction, an elevator pitch, and an excerpt reflecting your value to the recruiter. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1217,10 +1248,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Letters That Showcase Your Worth In The Most Authentic Way
+</h3>
+            <p>Our Premier cover letter writing services are one of a kind. We create engaging letters that market your skills and elaborate your career objectives in the most eye-catching manner.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1265,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Customized Writing Services</h3>
+              <p>We provide more contextualized information to the hiring managers about our clients. We showcase your capabilities by relating your skills and accomplishments to the job requirement.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1280,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Quick Turnaround Time
+</h3>
+              <p>We believe a cover letter is a great tool for making a memorable impression and identifying your strengths. Compelling the recruiter that you are the best candidate for the job.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1296,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Niche Specific Writers
+</h3>
+              <p>We have writers from different professions who thoroughly understand their respective fields, skills, and responsibilities. Allows more impact on your application.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

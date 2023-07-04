@@ -966,11 +966,39 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Formally solicited</h3>
+              <p>
+              A formally solicited proposal is written in response to a request. Our professional writers
+                        ensure to meet the distinctive requirements of a business proposal according to each industry.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Informally solicited </h3>
+              <p>
+              An informally solicited proposal is written when there's no official request for a proposal. It
+                        requires plenty of research to understand the key points for a proposal of this kind. The
+                        writers at Lincoln Creative Writers ensure to meet the unique needs of an informal proposal
+                        according to each industry.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Unsolicited </h3>
+              <p>
+              The unsolicited business proposals are like cold emails and business brochures. Our writers make
+                        sure that each proposal is prepared with a meticulous approach avoiding making it look blunt.
+                        The words are chosen with a great understanding of the business to provide a subtle tone to the
+                        proposal.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1245,10 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Business Proposal For A Lasting Impression</h3>
+            <p>Our writers have an in-depth understanding of how crucial the first impression can be for businesses. Our professional business proposal writing services are tailored for businesses, so they never miss a chance to get on board with amazing opportunities.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1261,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Business Proposals for
+All Businesses</h3>
+              <p>At Lincoln Creative Writers, we treat all businesses as equals. No matter the scale of your business, we will draft a compelling proposal for you, keeping your future goals in mind. We opt for a unique approach for each project.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1277,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Our Versatile
+Approach</h3>
+              <p>Our proficient team of writers deals in all kinds of business proposals. We have trained our team to create both solicited and unsolicited business proposals with great professionalism. Each business proposal is prepared to keep the business objectives in mind.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1293,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Creative Think
+Tank</h3>
+              <p>Before initiating the proposal writing process, we make sure that our writers understand the unique goals that a business aims to achieve. All our business proposals are prepared with a competitive market approach to help you excel in every department.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

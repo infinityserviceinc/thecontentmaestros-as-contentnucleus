@@ -966,11 +966,37 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Corporate</h3>
+              <p>
+              Want to know the smartest way to showcase the benefits of your products/services? Partner with
+                        our professional brochure writers and benefit from design brochures that perfectly encapsulate
+                        the power of your products. Spread the word about your brand's excellence with brochures that
+                        impact consumer choice. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Capabilities</h3>
+              <p>
+              Make sure you're spreading the word about yourself or your business's capabilities with smartly
+                        designed brochures. Get those 'powerful' capabilities brochures designed for your company and
+                        let the world know how your business adds value to their lives. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Trifold/Bifold Brochures</h3>
+              <p>
+              It's hard to overlook the benefits of trifold and bi-fold brochures. These brochures are an
+                        efficient way to incorporate your business's information in a readable manner. Choose
+                        professional content writing for brochures and effectively educate potential consumers about
+                        your business's vision! 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1243,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Creative Brochure Copywriting
+</h3>
+            <p>Get the most out of your next brochure with assistance from our brochure copywriting services. One tool that can be used to market to online and offline prospects is a professional brochure. We generate brochures that maximize your marketing impact on potential customers.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1260,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Educate the
+Audience</h3>
+              <p>Make brochures a part of your marketing strategy to spread the word about your company, products, and services with top-notch brochure copywriting.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1276,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Build trust
+& Credibility</h3>
+              <p>Did you know that brochures help build credibility of a business? Choose a suitable brochure for your company and establish a firm standing the market.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1292,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Completely
+Personalized</h3>
+              <p>There will be no templates or lengthy questionnaires. We collaborate with you to create a personalized brochures that reflects your vision.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

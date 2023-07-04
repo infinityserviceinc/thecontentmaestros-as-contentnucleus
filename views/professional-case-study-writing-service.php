@@ -966,11 +966,42 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Descriptive Case Studies</h3>
+              <p>
+              If you already have a hypothesis or an idea that can be discussed in detail, you can opt for a descriptive case study. Here we focus on developing a certain theory by forming a pattern between a subject and that theory. It includes quantitative data and concrete evidence to support its study conclusions.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Explanatory Case Studies</h3>
+              <p>
+              It explains the cause of an event in your field or business, including trends, advancements, and discussion on newer technologies. It can explain these occurrences' cause, effect, and future predictions. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Exploratory Reports </h3>
+              <p>
+              Refers to a self-contained paper that anchors the beginning of a large-scale investigation. These reports do not have a definite result, but they can help you kickstart a larger trend or research. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Intrinsic Case Studies</h3>
+              <p>
+              We can also write intrinsic reports for healthcare, psychology, and non-profit organizations. These papers help the user understand a brand in a better way. Intrinsic case studies can help you spread brand awareness if you have a unique business or service.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Instrumental Case Studies</h3>
+              <p>
+              These case studies can help you generate leads and provide a base for a larger phenomenon. It can help businesses understand which marketing tool will work best for them.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1217,10 +1248,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Customized Case Study Design At Your Fingertips
+</h3>
+            <p>Case studies can be complex, but when written by a professional writer, they can become the biggest strength of a business! Our writers create solution-driven and original case studies that prove your business potential and reliability to your audience.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1265,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Data-Driven Research Methods</h3>
+              <p>Our writers fill every section of your linkedIn profile with substantial information to prevent you from getting lost in the sea of linkedIn users. We make a thorough and intentionally crafted linkedIn profile using your resume and relevant information to make your stand out.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1280,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>High Quality and Authentic Information</h3>
+              <p>Using real-world examples and original scenarios, we relate a business and its benefits, building trust between the customer and the brand.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,9 +1295,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Plagiarism Free Original Work</h3>
+              <p>At Lincoln Creative Writers, Originality is the first metric to judge quality. Our writers emphasize on “Zero Plagiarism” to maintain content dignity and uniqueness in the competition pool.
+
+</p>
             </div>
           </div>
         </div>
@@ -1275,11 +1310,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
+              <h3>24/7 Customer Support
+</h3>
+              <p>We maintain cordial and transparent customer relationships through constant communication. We conduct open discussions and sort expectations to ensure adequate results.
+
+<p>
             </div>
           </div>
         </div>
@@ -1291,26 +1326,14 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
+              <h3>Guaranteed Conversion Rates</h3>
+              <p>We follow the best practices to boost your conversion rates. Our High-end case study designs are guaranteed to show a positive ROI as quickly as possible.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
       </div>
 
     </div>

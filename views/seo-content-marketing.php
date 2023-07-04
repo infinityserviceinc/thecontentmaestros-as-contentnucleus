@@ -1073,12 +1073,32 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Our innovation helps you succeed!</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and professional SEO experts cover every
-              aspect of innovative Search Engine Optimisation. </p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Medical Articles</h3>
+              <p>
+              The medical field keeps advancing every day with new observations, and everyone wants to educate themselves with different medical terminologies. Our SEO writers produce 100% original and factually correct articles to help easily break down medical concepts for lay people. 
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Technological Articles</h3>
+              <p>
+              Technology has taken over, and it’s time to familiarize ourselves with the evolving world of tech. Our SEO-driven content marketing team produces top-quality SEO content to help you stay on track with the times.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Sports Articles</h3>
+              <p>
+              Sports fandom is the best! We have a  team of sports-loving SEO writers who write articles on the sports niche with proper research and due diligence. 
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1322,10 +1342,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros helps you enhance your organic online presence across all platforms!</h3>
-            <p>Melding creativity, thoughtful approach, and content marketing proficiency, our writers, make sure that
-              every written piece hits the highest ranking. Utilising innovative SEO practices, we make sure that your
-              brand stand outs in the digital world.</p>
+            <h3>We Are A Proactive SEO Writing Service
+</h3>
+            <p>We understand the importance of creating high-quality content that resonates with search engines and your target audience. Our SEO content development service combines productivity with an out-of-the-box strategic approach to get you results that empower your brand and voice.
+
+</p>
           </div>
         </div>
       </div>
@@ -1338,10 +1359,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Authentic and detailed keyword research:</h3>
-              <p>Through careful research and cutting-edge practices, we make sure that your content lands amongst the
-                highest-ranking links. Benefit from increased traffic and improved visibility within the most affordable
-                prices.</p>
+              <h3>Enhanced Visibility
+</h3>
+              <p>Our SEO-driven content marketing strategy is a promise to enhance your online visibility. We want to take your business to new horizons.
+
+</p>
             </div>
           </div>
         </div>
@@ -1353,10 +1375,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Pay per click campaigns:</h3>
-              <p>Let our highly qualified and certified experts design effective PPC campaigns to reach your potential
-                prospects quickly. With precise and data-driven PPC approaches, we make sure to get you organic leads
-                and traffic.</p>
+              <h3>Higher Conversion Rate
+</h3>
+              <p>We don’t do things by the book and deploy the best SEO content development techniques to help you achieve a higher conversion rate, making your online footprint grow.
+
+</p>
             </div>
           </div>
         </div>
@@ -1368,56 +1391,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Link building:</h3>
-              <p>We make sure to provide your official website with authoritative and credible backlinks to take your
-                search engine rankings to the highest position. From creating a well-composed piece of content to adding
-                value through links, we have got it all covered.</p>
+              <h3>Engaging Content
+</h3>
+              <p>Boring content can make potential customers go away. This is why our qualified writers develop trendy and engaging, optimized content, helping your business resonate with your targeted audience.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/user-engagement.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>User engagement:</h3>
-              <p>Our professionals make sure that the content not only impresses the readers; rather, it also dominates
-                the search engine. Our content provides you with increased engagement and decreased bounce rates.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/social-optimisation.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Social optimisation:</h3>
-              <p>Winning the battle in SEO without social media is a lost cause. We create content that only adds value
-                to your marketing; rather, it also enables the search engines to push the ranking of your website to the
-                top.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professionalism-guaranteed.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Professionalism guaranteed:</h3>
-              <p>Our highly skilled and professionals know what it takes to come up with a high-quality search engine
-                optimised content. We provide you with a variety of writing styles and genres.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

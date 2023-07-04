@@ -1499,12 +1499,29 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Give your brand the stage of increased press coverage and visibility: </h3>
-            <p>Busting the misconception of the press release is no longer valuable, we harness the right power and
-              impact to create a buzz about your products, informing the industry-at-large of what your brand is really
-              is.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Book Press Releases </h3>
+              <p>
+              Is your book about to launch or did it just hit the bookstores? Partner with our expert press release writers today and get the word out and loud. Let the world know that your literary masterpiece has hit the shelves!  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Event Press Release</h3>
+              <p>
+              An event without publicity is bound to fail. Why take the risk? Hire press release writer and make sure the word about your even gets out. Let the expert writers attract your target audience with their word magic!
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Business Press Release</h3>
+              <p>
+              Whether you’re launching a new business or expanding it through mergers and partnerships, you need to spread the word. There’s no better way to share your achievement then a powerful press release.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1750,9 +1767,16 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>There’s one core principle we follow: hold the reporter’s attention:</h3>
-            <p>We are great at telling stories, we pen them down, we go through it, we refine it, and we capture the
-              audience’s interest—press releases are your media stories.</p>
+            <h3>Press Release Writer Your Business Needs
+
+</h3>
+            <p>When you make a huge announcement for your amazing product, business, services, book launch, celebrity news, music, or CDs, always ensure your news makes an INSTANT IMPACT on the press, and bloggers by writing a press release. It will also help increase traffic and enhance the credibility of your business.
+
+
+
+
+
+</p>
           </div>
         </div>
       </div>
@@ -1765,9 +1789,15 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>The facts check:</h3>
-              <p>A good press release is the one with a creative narrative supported by some significant numbers and
-                stats— the quantified artistry of writing.</p>
+              <h3>Press release
+for the event's launch</h3>
+              <p>Event press releases are the types of press releases that outline the specifics of an event so that the public is made aware of them.
+
+
+
+
+
+</p>
             </div>
           </div>
         </div>
@@ -1779,9 +1809,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>The length check:</h3>
-              <p>A good press release is the one with pages as limited as few paragraphs on a single page—the acceptable
-                readability</p>
+              <h3>Press release
+announcing a new product</h3>
+              <p>A product announcement is another form of a press release. Product announcements are made anytime a company introduces a new product to the market.
+
+</p>
             </div>
           </div>
         </div>
@@ -1789,58 +1821,27 @@
           <div class="git-main">
             <div class="git-box1">
               <figure>
-                <img src="../assets/images/services/author-website/secure-ownership.svg" alt="" width="42" />
+                <img src="../assets/images/services/author-website/affordable.svg" alt="" width="42" />
               </figure>
             </div>
             <div class="git-box2">
-              <h3>The access check:</h3>
-              <p>A good press release is the one with the mission of enabling readers to learn more about your brand and
-                products—the maximisation of interest.</p>
+              <h3>Press release
+announcing a new product</h3>
+              <p>A product announcement is another form of a press release. Product announcements are made anytime a company introduces a new product to the market.
+
+
+
+
+
+
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>The error check: </h3>
-              <p>A good press release is the one with grammatical flawlessness and structural perfection—the publication
-                guarantee.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>The insight check:</h3>
-              <p>A good press release is the one with well-placed targeted industry keywords and scannable format—the
-                integrated impactfulness. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>The guideline check:</h3>
-              <p>A good press release is the one with the thorough following of stringent guidelines of distribution
-                channels—the promotional success. </p>
-            </div>
-          </div>
-        </div>
+        
+        
+         
       </div>
 
     </div>

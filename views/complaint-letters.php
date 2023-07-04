@@ -966,11 +966,36 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Complaint Letters</h3>
+              <p>
+              Our complaint letter writers understand that some complaints require more effort than a phone
+                        call. We can help you draft brief complaint letters that explain your concerns with zeal and
+                        impact. We stay committed to representing you with thoughtful and effective writing. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Complaint Response Letters</h3>
+              <p>
+              A well-written complaint letter can help you save yourself from humiliation and bad word of
+                        mouth. Our trained wordsmiths know how to turn things in your favor by choosing the right words
+                        and a tone that connects with the reader. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Letter of Disappointment</h3>
+              <p>
+              Disappoints hurt, but what hurts the most is the inadequate expression of your dissatisfaction.
+                        This is why we at Lincoln Creative are committed to helping you respectfully communicate your
+                        disappointment. We can draft customized letters that allow you to communicate with clarity and
+                        mutual respect. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1242,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Complaint Letters That Present Your Case In An Elaborate Way
+</h3>
+            <p>Our experienced complaint letter writers are fully equipped to forward your complaints to the concerned bodies. Their matchless talent of wordplay and perfect execution lets them present your concerns most elaborately.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1259,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Dedicated Complaint Writers</h3>
+              <p>We have a skillful team of complaint writers who can add value to your words. We stay committed to helping you resolve matters with respect and mutual understanding.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1274,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Satisfaction Guaranteed
+</h3>
+              <p>Your complaints might represent your discomfort, but we will ensure that you don’t get disappointed with us. Our writers will provide you with quality work that speaks to your concerns.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1290,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>24/7 Support
+</h3>
+              <p>We understand the cynicism that might erupt in your mind regarding the complaint letters. This is why we offer around-the-clock support to help you find the answers to your questions.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

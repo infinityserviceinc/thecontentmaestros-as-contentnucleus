@@ -960,11 +960,58 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Pouring years of expertise to supercharge your CV:</h3>
-            <p>Our experts resume writers and editors to conduct a thorough review of your career goals, objectives,
-              experience, and skills to compose a comprehensive resume that will get you hired in no time. </p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Federal Resume</h3>
+              <p>
+              A federal resume is useful if you are planning on applying for a position in the U.S federal
+                  government. We have proficient writers that can create a resume that can increase your chances
+                  of bagging a position in the federal corridors.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Functional Resume</h3>
+              <p>
+              A functional resume is a kind of resume that has more to do with your professional skills instead
+                  of the chronological work history. Our writers can help you build a strong resume that can help
+                  you secure demanding jobs in different parts of the world. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Infographic Resume</h3>
+              <p>
+              An Infographic resume focuses on graphics and visual appearance. It is far more detailed and
+                  highlights each achievement and skill in graphs and numbers. We can create a
+                  professional-looking resume that can help you secure jobs all around the world. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Chronological Resume</h3>
+              <p>
+              A chronological resume has more to do with your work history compared to your professional
+                  skills. Our skilled team of experienced writers can help you build a suitable resume according
+                  to the preferred position. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Combined Resume</h3>
+              <p>
+              A combined resume is a blend of your work history and your professional skills to help you
+                  explore job opportunities in your niche. We have writers that can help you build an impressive
+                  resume with everything required to help you in getting the job. 
+               
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1188,9 +1235,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Get that dream job with our resume writing services and make a lasting impression on your recruiters.
-              Your expert-level resume is just a few clicks away.</p>
+            <h3>To Boost Your Conversion Rates
+</h3>
+            <p>Getting a job isn't less than winning a battle. The competition is growing, but a strong resume can save the day for you. We offer specialized resume editing services to help clients secure their dream job in no time.
+
+</p>
           </div>
         </div>
       </div>
@@ -1203,9 +1252,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Goal-oriented resumes:</h3>
-              <p>Each CV is assigned to a professional who converts your goals and qualifications into a powerful and
-                impression-creating document.</p>
+              <h3>Landing in
+Interviews</h3>
+              <p>We utilize our capabilities to highlight the finest skills you have to offer. Our specialist resume writers do everything to make you land an interview for your dream job. Get in touch today to increase your chances of being hired.
+
+</p>
             </div>
           </div>
         </div>
@@ -1217,9 +1268,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Impeccable formats:</h3>
-              <p>We offer you the expertise of thoroughly experienced resume writers who provide you with easy-to-scan
-                and flawless formats to impress employers through a single document.</p>
+              <h3>Higher Success
+Rate  </h3>
+              <p>A weak resume can make you lose your chance for your dream position. But, we ensure that you secure your position based on merit. A well-curated resume can be your key to success in an interview. Get in touch today.
+
+</p>
             </div>
           </div>
         </div>
@@ -1231,54 +1284,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Cover letter writing:</h3>
-              <p>Holding the power of making great first impressions, our cover letters succinctly convey your
-                abilities, skills, and qualifications—making you look like the right fit for the job.</p>
+              <h3>Get
+Noticed</h3>
+              <p>A good resume can help you get noticed and referred for a job. Our professional resume writers bring the best out of you on paper so you can grab the attention of the top organizations in the global job market.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>CV editing:</h3>
-              <p>Our expert resume creators and editors proofread and edit every section of your CV. We make sure your
-                abilities are well-positioned and clearly stated in your resume.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Resume composition:</h3>
-              <p>From covering the tricky points of unemployment gaps and frequent job switches to considering lack of
-                experience and education, our experts have got you covered.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Resume revisions:</h3>
-              <p>Our job doesn’t end with resume composition; we offer you with multiple revisions as per the selected
-                package, ensuring you with complete satisfaction.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

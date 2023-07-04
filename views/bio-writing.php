@@ -1050,12 +1050,35 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Build the right cornerstone for sales and conversion funnel: </h3>
-            <p>The first few seconds are all you have to pique the reader’s interest. From traction, engagement, the
-              objective resolution to design, and subtle branding, we ace in everything to lead the audience to
-              calculated consideration.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Academic</h3>
+              <p>
+              Want to highlight your academic achievements and professional accolades? Choose our biography
+                        writing services and make sure every element of your achievements is presented perfectly. Make
+                        an impact with a bio that impresses. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Personal</h3>
+              <p>
+              Are you struggling to find the right words to showcase your achievements and present your
+                        experiences? Choose our biography writers for hire, and let us do the magic. Our writers have
+                        the power to use words to present your achievements and experiences the right way!
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Professional</h3>
+              <p>
+              Make yourself stand out in a crowd of professionals with an impactful and noteworthy biography.
+                        Let the words do justice to your personality and successes by choosing trusted biography writing
+                        services across the region. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1301,9 +1324,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Wow your audience and win over the competitors with our services:</h3>
-            <p>Not only we create a great position for your brand, but we also make sure meaningfulness for targeted
-              readers and audiences. </p>
+            <h3>Truly Memorable Autobiography Writing Service
+</h3>
+            <p>Relay your struggles, hard work, efforts, and achievements to future generations through a memoir that reflects your character. Use our professional biography writing services to launch your career in a positive direction in line with your goals and objectives.
+
+</p>
           </div>
         </div>
       </div>
@@ -1316,9 +1341,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Customer-educating: </h3>
-              <p>A great white paper is the one that comprehensively conveys all the relevant information to your
-                audience—it’s not a sales pitch. </p>
+              <h3>Short
+Bios</h3>
+              <p>These are typically 150-200 words suited for a website's brief bio section. The bio is not suitable for company profiles or bios requiring detailed information from a resume. However, we will work with you to address all your needs.
+
+</p>
             </div>
           </div>
         </div>
@@ -1330,9 +1357,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Industry-specific:</h3>
-              <p>A great white paper is the one that painstakingly covers every aspect of the niche industry and
-                targeted market—it’s not about making them feel sold.</p>
+              <h3>Creative
+Bios</h3>
+              <p>It is usually between 300 and 400 words and requires a phone interview. They are a fit for creative professionals or anyone seeking a bio with a bit of flair and not too much detail. And we can work with anything you give us!
+
+</p>
             </div>
           </div>
         </div>
@@ -1344,54 +1373,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Subject-matter: </h3>
-              <p>A great white paper is the one that meticulously includes thorough research on the related subject—it’s
-                not about your mastery but their understandability. </p>
+              <h3>Executive
+Bios </h3>
+              <p>They are 300 to 400 words in length and target professionals in executive or C-suite positions. An interview is conducted over the phone. The client may also provide a resume or CV.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Keyword-richness:</h3>
-              <p>A great white paper is the one that accurately involves niche-related and business-focused keywords to
-                improve website SEO—it’s not about the jargon. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>High-impact: </h3>
-              <p>A great white paper is the one that widely communicates your brand message to give your business a
-                voice and recognition—it’s not about promotional tone. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Leads generation: </h3>
-              <p>A great white paper is the one that successfully doubles up your website traffic and conversions—it’s
-                all about driving in highest-value prospects.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

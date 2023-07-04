@@ -967,11 +967,34 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>AdWords PPC Ad Copy</h3>
+              <p>
+              We have unlocked several marketing avenues through AdWords. They are specifically designed to
+                        capture interested audiences and help businesses to transform leads into potential customers.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Display PPC Ad Copy </h3>
+              <p>
+              Did you know that a Display PPC Ad Copy can reach two-thirds of online consumers? That’s right.
+                        We use display advertising to help business take their marketing efforts to the next level. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Remarketing PPC Ad Copy</h3>
+              <p>
+              Want to target highly conversion-oriented prospects? Well, let us help you out! Our experts adopt
+                        smart layouts and extensions to ensure that your PPC Ad Copy results in profitable outcomes.
+                    
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1218,10 +1241,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Our PPC Ad Specialists Work Tirelessly To Deliver Brilliance
+</h3>
+            <p>PPC ad copy creation is no guess work, because your goal is to achieve greater ROI. So, rest assured you're in great hands!
+
+</p>
           </div>
         </div>
       </div>
@@ -1234,9 +1258,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Keyword Research
+</h3>
+              <p>Our experts use PPC ad copy best practices and sublime keyword research to ensure businesses receive the recognition they deserve.
+
+</p>
             </div>
           </div>
         </div>
@@ -1248,9 +1274,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Landing Page Optimization</h3>
+              <p>Regardless of your marketing goal, our PPC ad copy creation deals with optimizing your landing page and making it conversion-ready.
+
+</p>
             </div>
           </div>
         </div>
@@ -1262,9 +1289,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Conversion Rate Optimization</h3>
+              <p>Our CRO service maximizes the value of each dollar spent on a PPC ad copy. We aim to show you how we can get results while keeping the cost minimal.
+
+</p>
             </div>
           </div>
         </div>
@@ -1276,42 +1304,16 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
+              <h3>Content Creation
+</h3>
+              <p>It takes years of experience and effort to deliver the right PPC ad copy, and that's where we thrive.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
       </div>
 
     </div>

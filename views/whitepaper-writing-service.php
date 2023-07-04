@@ -1051,12 +1051,35 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Build the right cornerstone for sales and conversion funnel: </h3>
-            <p>The first few seconds are all you have to pique the reader’s interest. From traction, engagement, the
-              objective resolution to design, and subtle branding, we ace in everything to lead the audience to
-              calculated consideration.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>White Paper benefits businesses</h3>
+              <p>
+              If you're looking for ways to build your business's credibility and establish itself as an industry expert, you need to rely on white paper for the best results. It will educate the target audience about your products and services and convince them to do business with your company. Opt for white paper writers for hire on our platform to enjoy curated and impactful papers. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Highlighting benefits of Technology with White Paper</h3>
+              <p>
+              Wish to promote an emerging technology and convince the world of the power it holds. A white paper on technology will help you spread your word to the target audience. Hire our expert white paper writing services to make the most out of white paper benefits. Join us and promote technology together in this digital era.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Product Comparison White Paper</h3>
+              <p>
+              Want to launch an advanced version of your already existing product? Or a better version of one that's already available on the market? You can hugely benefit by publishing a product comparison white paper that will carefully enlist all the factors that make your product the best in the market. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Hybrid Business and Technology White Paper</h3>
+              <p>
+              Convince your target market of the potential technology holds and how your business is leveraging it to bring numerous benefits. Partner with us and curate the most dynamic hybrid business and technology white paper.   
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1302,9 +1325,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Wow your audience and win over the competitors with our services:</h3>
-            <p>Not only we create a great position for your brand, but we also make sure meaningfulness for targeted
-              readers and audiences. </p>
+            <h3>Highly Proficient White Paper Writers
+</h3>
+            <p>Hire Lincoln Creative Writers for an authoritative piece of content that reflects the industry’s best practices and includes expert opinions. Use professional white paper content writing services in the U.S to market your business.
+
+</p>
           </div>
         </div>
       </div>
@@ -1317,9 +1342,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Customer-educating: </h3>
-              <p>A great white paper is the one that comprehensively conveys all the relevant information to your
-                audience—it’s not a sales pitch. </p>
+              <h3>Research
+Based </h3>
+              <p>We generate content after conducting thorough market research.
+
+</p>
             </div>
           </div>
         </div>
@@ -1331,9 +1358,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Industry-specific:</h3>
-              <p>A great white paper is the one that painstakingly covers every aspect of the niche industry and
-                targeted market—it’s not about making them feel sold.</p>
+              <h3>Planning
+</h3>
+              <p>All projects are perfectly planned in line with client requirements
+
+</p>
             </div>
           </div>
         </div>
@@ -1345,54 +1374,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Subject-matter: </h3>
-              <p>A great white paper is the one that meticulously includes thorough research on the related subject—it’s
-                not about your mastery but their understandability. </p>
+              <h3>Professional
+Tone</h3>
+              <p>Each paper adopts a professional tone essential for success in the market
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Keyword-richness:</h3>
-              <p>A great white paper is the one that accurately involves niche-related and business-focused keywords to
-                improve website SEO—it’s not about the jargon. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>High-impact: </h3>
-              <p>A great white paper is the one that widely communicates your brand message to give your business a
-                voice and recognition—it’s not about promotional tone. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Leads generation: </h3>
-              <p>A great white paper is the one that successfully doubles up your website traffic and conversions—it’s
-                all about driving in highest-value prospects.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

@@ -831,14 +831,38 @@
             </figure>
           </div>
         </div>
-        <div class="col-lg-6 offset-lg-1 col-md-6 offset-md-1 col-sm12">
-          <div class="thierd-sec-content">
-            <h3>Outrank Your Competitors With SEO Writing</h3>
-            <p>At The Content Maestros, we help businesses rank better. Our content is SEO optimized to help you gain
-              traction on search engines. From blogs to articles, guides, infographics, and web content, we ensure it is
-              well-optimized to help you outpace and outrank your competition. Our in-depth keyword research and
-              articulate writing skills set us apart from others.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Medical Articles </h3>
+              <p>
+              Medical articles are an easy way for online readers to understand the medical terminologies and
+                  understand the symptoms of a disease. They can also help the general public to manage disease in
+                  a better way.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Sports Articles</h3>
+              <p>
+              Sports articles play a crucial part in keeping the fans of a particular sport about the
+                  happenings on and off the field. They can help in keeping the fans engaged and cheering for
+                  their favorite team. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Technological Articles</h3>
+              <p>
+              Technology is everywhere. The technological articles help people be aware of what's happening in
+                  the field of science and how things can change in the future. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1257,9 +1281,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Your investment is our acquired trust, a solemn conviction we work on:</h3>
-            <p>No matter what services you offer or which design you prefer, we structure your website in a way that
-              your audience will surely scroll till the bottom of the page.</p>
+            <h3>A Proficient SEO Writing Agency
+</h3>
+            <p>Our writers bring a new approach to article and web content writing. Our SEO blog writers know how to utilize keywords to produce content driven by results. We understand the importance of optimized content in helping clients meet their goals.
+
+</p>
           </div>
         </div>
       </div>
@@ -1272,9 +1298,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Experience-led:</h3>
-              <p>A good website design is a skill acquired after years of experience and develop expertise—the highlight
-                of our design services.</p>
+              <h3>Delivering Quality
+Content</h3>
+              <p>We go beyond keyword stuffing and choose what's best for a business. Our writers do thorough research and develop curated content based on the client's needs.
+
+</p>
             </div>
           </div>
         </div>
@@ -1286,9 +1314,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Outcome-focused: </h3>
-              <p>A good website design is a strategy opening up new possibilities and generating desired results—the
-                culmination of our expertise.</p>
+              <h3>Improved Conversion
+Rate</h3>
+              <p>We aim to convert your leads into successful sales. The content that we produce is based on your requirements and what you want to achieve with our services.
+
+</p>
             </div>
           </div>
         </div>
@@ -1300,54 +1330,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Creative exclusivity: </h3>
-              <p>A good website design is an approach to make your business an industry differentiator—the business
-                pinnacle we assure you with.</p>
+              <h3>Increased
+Visibility</h3>
+              <p>We help your customers reach out to you instead of you reaching out to them. Our writers ensure to attract your customers that can help to take your business to new heights.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Custom-made:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we do. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Company Credibility:</h3>
-              <p>A good website design is a stage for impression making and establishing a brand’s integrity—the
-                principle we work on. </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Innovation-driven:</h3>
-              <p>A good website design is a representative of the company’s take on the evolution of design—the
-                unparalleled skill we put forward.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

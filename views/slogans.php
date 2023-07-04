@@ -966,11 +966,39 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Slogans for Business</h3>
+              <p>
+              The market is saturated with slogans and brands trying to increase their recall value. But if you want to take things a step ahead, our slogan writing services have you covered. We offer customized slogans so you can stand out in the crowd. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Creative Slogans</h3>
+              <p>
+              Creative slogans are meant to make you stand out from the crowd. Our creative slogan writers are equipped with a thorough understanding of modern norms. They can go out of their way to provide you with catchy, effective, and memorable slogans. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Descriptive Slogans</h3>
+              <p>
+              We at Lincoln Creative Writers understand that descriptive slogans can play a pivotal role in developing a brand’s image. That’s what fuels our proficient slogan writers to develop engaging and attractive descriptive slogans to help your audience understand your brand better.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Advertising Slogans</h3>
+              <p>
+              Slogans are a game changer when it comes to advertising. It’s the slogans that have provided popular brands with the recognition they enjoy today. We can help you develop strategic advertising slogans that can create an impact.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1217,10 +1245,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Make Yourself Heard With Powerful Slogan Writing
+</h3>
+            <p>Slogans are the beginning of revolutions and innovative ideas. Our qualified slogan writers are ready to help you curate powerful slogans that give your vision meaning.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1262,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Catchy and Trendy Slogans</h3>
+              <p>Taglines and slogans hold great recall value for brands. They allow you to leave a lasting impression on your audience. We have professional writers who can create slogans with great recall value.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1277,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Tailored Solutions
+</h3>
+              <p>We at Lincoln Creative understand that slogans represent ideas, concepts, and notions. This is why we offer personalized slogan writing services to create an impact that empowers you and your business.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1293,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>A Targeted Approach
+</h3>
+              <p>Our writers are quick to grasp the tone you are looking for in a slogan. We deploy a targeted approach for each project while maintaining the essence of your ideas and concepts.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

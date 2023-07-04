@@ -966,11 +966,39 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Complaint Letters</h3>
+              <p>
+              We understand that bad experiences can leave you disappointed, and it’s crucial to convey your
+                        discomfort for good. Our seasoned letter writers are fully trained to forward your complaints to
+                        the concerned bodies. Their unparalleled capacity to frame your words concisely allows them to
+                        communicate your concerns elaborately. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Acceptance and Rejection Letters</h3>
+              <p>
+              Letters that include the words of acceptance or rejection must have the right tone to ensure a
+                        balanced reaction. Our professional letter-writing services are designed to help our clients
+                        draft polite and elaborative letters that leave a mark of encouragement and reassurance on the
+                        reader’s mind. Our writers opt for a unique approach for every letter promising adequate
+                        reactions according to your expectations.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Letters of Condolences</h3>
+              <p>
+              Grieving times are hard, and there’s nothing better than sending heartfelt condolences to the
+                        survivors. Our trained and empathic team of writers can help you draft considerate condolence
+                        letters that mirror your emotions in the best possible way. We choose the right words and tone
+                        to allow you to express your feelings honestly and concisely. 
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1217,10 +1245,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>Hire Professional Letter Writing Service
+</h3>
+            <p>We at Lincoln Creative understand that not all letters are of the same magnitude. Our trained letter-writing experts craft concise, compelling, and creative letters that communicate your message in a tone that fits your needs.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1262,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Crisp and Concise
+</h3>
+              <p>Our professional letter writers can dig deeper into each detail you provide, transforming it into a letter with credibility and weightage, communicating your message according to your expectations.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1278,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>We Catch the Tone
+</h3>
+              <p>We believe every letter is unique and holds great expressive value for the sender and the recipient. That makes our writers catch the tone and craft a letter that encapsulates your words and emotions.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1294,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>Originality Guaranteed
+</h3>
+              <p>We are home to professional letter writers with years of experience behind them. Our dedicated team guarantees to produce high-quality original content for every letter so you can communicate your feelings in the best possible way.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

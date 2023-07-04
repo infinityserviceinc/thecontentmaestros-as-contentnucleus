@@ -966,11 +966,47 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Leave the myriad of SEO-hassle to our word-crafters: </h3>
-            <p>Aiming to add to revenues and traffic of your business, we help you build a positive image of your
-              business organisation. Our creatively crafted articles help in expanding your clientele and market.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>The Investor Pitch</h3>
+              <p>
+              Small businesses will likely set themselves up for failure without an investment. Owning a
+                  startup translates to delivering compelling messages to secure potential funding that meets
+                  financial and business goals. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>The Elevator Pitch</h3>
+              <p>
+              This pitch can be delivered within the duration of an elevator ride (i.e., roughly a minute).
+                  It’s a persuasive, clear, and concise presentation of the brand, compelling the reader to take
+                  action. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>The Sales Pitch</h3>
+              <p>
+              Pitch the value of your product or service to your target audience and persuade them to take
+                  action. The sales pitch includes a value proposition and business case study to show how it
+                  could be a real problem solver. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>The Traction Pitch</h3>
+              <p>
+              Regardless of the business, it’s crucial to show your audience the progress you’ve made over
+                  time. It highlights traction by discussing offerings, business models, markets, competition, and
+                  company profiles. This helps secure future investments. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1217,10 +1253,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>The Content Maestros is your ultimate resource to hire professional Content Writers</h3>
-            <p>Whether it’s a small or medium-sized business or an enterprise-level client, we help in scaling up your
-              brand’s recognition and online presence. Our thoroughly skilled and native writers cover every aspect of
-              article writing. </p>
+            <h3>The Staple Of Modern Venture Capitalists
+</h3>
+            <p>A pitch deck, when implemented correctly, acts as an invaluable asset for a business’s development as it breaks new paths for securing third-party funding. The clearer the goals, the easier it’s to persuade the audience.
+
+</p>
           </div>
         </div>
       </div>
@@ -1233,9 +1270,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>SEO-oriented articles:</h3>
-              <p>We provide you with content as per the standards of best and effective SEO practices, while tailoring
-                it to your preferred SEO style and relevant keywords.</p>
+              <h3>Well-Designed Decks
+</h3>
+              <p>We craft professional-looking decks that instantly convey to the investors that the founders are well-aware of what goes into their business.
+
+</p>
             </div>
           </div>
         </div>
@@ -1247,9 +1286,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Plagiarism and error-free content:</h3>
-              <p>We make sure that every deliverable is original and 100% unique. We understand the importance of
-                originality and keyword-enrichment when it comes to content development.</p>
+              <h3>Error-Free Pitches
+</h3>
+              <p>Our pitch deck writers are known for presenting relevant information concisely, engagingly, and with a significant degree of flow and cohesion.
+
+</p>
             </div>
           </div>
         </div>
@@ -1261,56 +1302,17 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Proper formatting and structuring:</h3>
-              <p>Our writers are trained to create traction with a single piece of content. We provide well-formatted
-                and creatively structured articles that represent your brand in a professional and positive way.</p>
+              <h3>The Extra Mile
+</h3>
+              <p>Our pitch deck designers supplement clients with additional material that makes the presentation more straightforward, easy to digest, and succinct.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Right tone and writing style:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we doOur experts grasp the idea of business and develop the right tone and establish
-                the right style for your brand. Our well-composed and fine-tuned articles give the right voice to your
-                brand.p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Quick turnaround:</h3>
-              <p>We are realistically quick and meet all of your deadlines and client requirements. In case you don’t
-                like our created craft, we guarantee you the fastest turnaround time and a complete refund.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Countless revisions:</h3>
-              <p>Creating a written masterpiece is both an art and science-- we have mastered every aspect of that. We
-                ensure you with an article that meets each requirement and exceeds all of your expectations.</p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

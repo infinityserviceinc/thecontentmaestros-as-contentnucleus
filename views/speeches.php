@@ -1639,12 +1639,29 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Reel in the audience’s attention with the hook of your speech:</h3>
-            <p>Speech writing is not just summarization of facts, the real hard work is in making the boring facts and
-              details sound interesting, that’s where you require expertise. Share your story and needs and let our
-              experts make you sound impressive. </p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Speech Writing for Any Occasion</h3>
+              <p>
+              Different occasions call for specific speeches to obtain particular goals. Best man speeches, eulogies, graduation speeches, business speeches, political debates, and celebrity statements, to name some.  
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Excelling in Every Topic</h3>
+              <p>
+              Coming from diverse backgrounds, our writers are up to the mark with current events and hold compelling knowledge in the different areas of health, science, sports, religion, politics, arts, technology, etc.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Styling Your Speech with Style</h3>
+              <p>
+              There are different sets of styles that are conducted depending on the occasion. Some of these are informative, persuasive, motivational, forensic, formal, casual, and intimate.
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -1889,9 +1906,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Striking that right tone to evoke audience receptiveness:</h3>
-            <p>Be it academic, persuasive, informative, business corporate or a wedding speech, we make sure that your
-              speeches leave your audience fascinatingly inspired.</p>
+            <h3>Expert Speech Writers Who Will Make Your Life Easier
+</h3>
+            <p>We’re here for you with our team of experienced speech writers for hire who will ensure to touch the audience by effectively voicing your required message.
+
+</p>
           </div>
         </div>
       </div>
@@ -1904,9 +1923,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Setting the right idea in motion:</h3>
-              <p>A speech focusing and addressing the subject of discussion is what doesn’t squander the audience
-                attention— the stage we set for effective delivery.</p>
+              <h3>Plagiarism-Free Content
+</h3>
+              <p>With our strict policies, we warrant 100% original content for you. Our experienced writers are encouraged to pen up from scratch to produce content that shines with originality.
+
+</p>
             </div>
           </div>
         </div>
@@ -1918,9 +1939,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Write it like you talk it: </h3>
-              <p>A speech with a hint of personal touch and conversational tone is what sets the audience in
-                receptiveness—your parlance is our writing tonality.</p>
+              <h3>Client-Confidentiality
+</h3>
+              <p>At Lincoln Creative Writes, customers’ privacy is deeply cherished. We present you with the highest levels of confidentiality, and all your data is safe with us.
+
+</p>
             </div>
           </div>
         </div>
@@ -1932,54 +1955,16 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Doubling checking the facts: </h3>
-              <p>A speech which is factually correct and communicatively enticing is what gets you applause from the
-                audience— believability is our secret ingredient. </p>
+              <h3>Detail-Oriented Approach</h3>
+              <p>After sketching out the first draft, the writer and editor go through the speech line-by-line. This process outlines any minor typing mistakes and constitutes perfection in the final product.
+
+</p>
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/qualified-experts.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Structure for vocalisation:</h3>
-              <p>A speech that gives the audience the right route and idea of destination is what exceeds your
-                expectations— we revise, we write, and we rewrite.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/authentic-research.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Humanisation of content: </h3>
-              <p>A speech is delivered to humans, written by humans and delivered by a human—we make sure you do your
-                best at the stage.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="git-main">
-            <div class="git-box1">
-              <figure>
-                <img src="../assets/images/services/author-website/professional-excellence.svg" alt="" width="42" />
-              </figure>
-            </div>
-            <div class="git-box2">
-              <h3>Your satisfaction: </h3>
-              <p>A speech that doesn’t meet client’s requirements is nothing more than a waste of time, effort and
-                resource—we ensure to not let that happen. </p>
-            </div>
-          </div>
-        </div>
+        
+        
+        
       </div>
 
     </div>

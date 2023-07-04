@@ -841,12 +841,52 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="thierd-sec-content">
-            <h3>Setting Up <b class="small-a">A</b> Profile Page</h3>
-            <p>At The Content Maestros, our writers set up your profile page to help your boost your digital presence.
-              Prior to creating your page, we perform extensive research to gather maximum information and understand
-              about your overall business requirement</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <div class="contentSlider">
+            <div class="thierd-sec-content">
+              <h3>Wikipedia For Artists </h3>
+              <p>
+              Creative makers and thinks offer communities inspiration, joy, and a medium for
+                  interaction. Every artist that preserves the essence of originality and creativity deserves
+                  recognition for
+                  their work. Establishing a Wikipedia page as an artist helps get greater exposure.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Wikipedia For Athletes </h3>
+              <p>
+              Sports remains a trendy topic all year round in most parts of the world.
+                  A Wikipedia page is integral for athletes to maintain their online reputation in an
+                  ever-so-crowded marketplace.
+                  This also makes them seem more approachable to their fans and followers.
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Wikipedia For Celebrities </h3>
+              <p>
+              A paparazzi’s favorite cup of tea? A celebrity. These poor souls are persistently scrutinized for
+                  saucy gossip.
+                  As much as their work relies on a good reputation, they’re prone to becoming affiliated with
+                  scandals.
+                  Wikipedia pages for celebrities allow them to handle their fame and popularity better. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
+            <div class="thierd-sec-content">
+              <h3>Wikipedia For Politicians </h3>
+              <p>
+              Politicians are constantly making headlines because of their statements.
+                  Their responsibilities toward the country make them high-risk figures whose actions are
+                  monitored closely by opposing parties.
+                  A Wikipedia page can help ensure they aren’t falsely portrayed. 
+               
+              </p>
+              <a href="order/" class="btn-theme">Let’s Get Started</a>
+            </div>
           </div>
         </div>
       </div>
@@ -1096,9 +1136,11 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="git wdt-80">
-            <h3>Your investment is our acquired trust, a solemn conviction we work on:</h3>
-            <p>No matter what services you offer or which design you prefer, we structure your website in a way that
-              your audience will surely scroll till the bottom of the page.</p>
+            <h3>The Lincoln Creative Writers Agency
+</h3>
+            <p>Wikipedia is incredibly publicized, and any content posted on this platform is mirrored and copied elsewhere. Wiki writing and editing services enable businesses to retain their online reputation, get more exposure, and improve credibility in a competitive marketplace.
+
+</p>
           </div>
         </div>
       </div>
@@ -1111,9 +1153,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Experience-led:</h3>
-              <p>A good website design is a skill acquired after years of experience and develop expertise—the highlight
-                of our design services.</p>
+              <h3>Research & Copy Writing</h3>
+              <p>Before starting Wikipedia page creation, the Lincoln Creative Writers team conducts extensive research to verify facts and figures.
+
+</p>
             </div>
           </div>
         </div>
@@ -1125,9 +1168,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Outcome-focused: </h3>
-              <p>A good website design is a strategy opening up new possibilities and generating desired results—the
-                culmination of our expertise.</p>
+              <h3>Page Translation
+</h3>
+              <p>Don’t be restricted to one language. Our language experts can convert your content into multiple languages.
+
+</p>
             </div>
           </div>
         </div>
@@ -1139,9 +1184,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Creative exclusivity: </h3>
-              <p>A good website design is an approach to make your business an industry differentiator—the business
-                pinnacle we assure you with.</p>
+              <h3>Page Creation
+</h3>
+              <p>How to create a Wikipedia page for your business? Don’t sweat; we’ll take care of the specifications for you.
+
+</p>
             </div>
           </div>
         </div>
@@ -1153,9 +1200,10 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Custom-made:</h3>
-              <p>A good website design is an outlook of your company embedded with brand personality and prospective—the
-                focus of everything we do. </p>
+            <h3>Maintenance & Monitoring</h3>
+              <p>Did you know a Wikipedia page is subject to illicit alterations? We’ll maintain and monitor yours regularly.
+
+</p>
             </div>
           </div>
         </div>
@@ -1167,9 +1215,11 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Company Credibility:</h3>
-              <p>A good website design is a stage for impression making and establishing a brand’s integrity—the
-                principle we work on. </p>
+            <h3>Page Editing
+</h3>
+              <p>We’ve hired Wikipedia editors who coordinate, correct, and revise written content to ensure you consistently produce quality content.
+
+</p>
             </div>
           </div>
         </div>
@@ -1181,9 +1231,14 @@
               </figure>
             </div>
             <div class="git-box2">
-              <h3>Innovation-driven:</h3>
-              <p>A good website design is a representative of the company’s take on the evolution of design—the
-                unparalleled skill we put forward.</p>
+              <h3>Page Updates
+
+</h3>
+              <p>Our Wikipedia agency in the USA goes the extra mile to ensure that your information is factually correct and up-to-date
+
+
+
+</p>
             </div>
           </div>
         </div>
