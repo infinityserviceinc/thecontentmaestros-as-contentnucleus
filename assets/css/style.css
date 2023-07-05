@@ -917,6 +917,7 @@ video.mdn{
     align-items: flex-start;
     justify-content: center;
     height: 100%;
+    margin-top: 100px;
 }
 
 .banner_left h1 {
@@ -943,7 +944,7 @@ video.mdn{
     object-fit: contain;
 }
 .banner_left .combo_img a img{
-    max-width: 125% !important;
+    max-width: 75% !important;
 }
 
 .combo_btn{
@@ -977,7 +978,7 @@ video.mdn{
     background-color: #fff;
     padding: 2rem 3rem;
     border-radius: 8px;
-    bottom: -90px;
+    bottom: -100px;
     z-index: 2 !important;
     box-shadow: 1px 1px 25px 5px rgba(0, 0, 0, .45);
 }
