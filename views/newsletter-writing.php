@@ -991,12 +991,13 @@
               <a href="order/" class="btn-theme">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
-              <h3>Consumer Email Newsletters</h3>
+              <h3>Organizational newsletters </h3>
               <p>
-              These newsletters are mainly targeted towards the subscribed members, informing them about the
-                  recent developments and promotions in a business or a company. The nature of these emails can be
-                  formal or informal as the main motive to nurture the relationship with the targeted readers. Our
-                  trained writers draft the newsletters depending on the brief provided by the client. 
+              These newsletters are intended to relate to the members of the subscribers and the employees of
+                  an organization. Our writers develop each newsletter in a way that can help both the subscribers
+                  and the employees comprehend the encrypted message in a subtle way. Our writers are open to
+                  ideas and can make necessary changes depending on the needs of the clients. 
+                
                
               </p>
               <a href="order/" class="btn-theme">Let’s Get Started</a>
