@@ -1020,6 +1020,47 @@ video.mdn{
 .sec1_main_form.web{display: block;}
 .sec1_main_form.mob{display: none;}
 
+@media only screen and (max-width: 1400px){
+
+    .home-banner {
+        height: auto;
+        padding: 140px 0 200px 0;
+    }
+
+}
+
+@media only screen and (max-width: 767px){
+
+    .collaboration-sec figure img {
+    width: 100%;
+    HEIGHT: AUTO;
+}
+
+    .home-banner {
+        height: 1500px !important;
+        padding-top: 0;
+    }    
+
+    .combo_btn {
+    margin: 30px 0 40px 0;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.combo_btn a {
+    flex: 0 0 46%;
+    width: 100% !important;
+    padding: 0;
+    margin: 0;
+}
+
+.home-banner {
+    
+}
+
+}
+
+
 @media (max-width: 1024px){
     .section3::before,
     .section3::after{
@@ -15013,10 +15054,6 @@ h2.atle-qunti {
     .home-banner-content {
         padding-top: 40px;
         margin-top: -100px;
-    }
-
-    .home-banner {
-        height: 1200px !important;
     }
 
     .banner-form {
