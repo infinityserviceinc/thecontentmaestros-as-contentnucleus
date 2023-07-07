@@ -917,7 +917,6 @@ video.mdn{
     align-items: flex-start;
     justify-content: center;
     height: 100%;
-    margin-top: 100px;
 }
 
 .banner_left h1 {
@@ -1031,15 +1030,62 @@ video.mdn{
 
 @media only screen and (max-width: 767px){
 
+    .home-banner {
+        height: auto !important;
+        padding: 50px 0px !important;
+    }
+    
+    .banner_left.align-items-center {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    .sec1_form {
+        margin: 40px 0 0 0;
+    }
+    
+    .sec1_form h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    
+    .sec1_form form input {
+        margin: 0 0 20px 0;
+    }
+
+    .form-box-main.clearfix {
+        padding: 20px 20px;
+    }
+    
+    .form-box-main.clearfix h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+    
+    .form-box-main.clearfix form input {
+    }
+    
+    .form-box-main.clearfix form input#phone-coun {
+        padding: 0 0 0 50px;
+    }
+    
+    .form-box-main form label.field-txt {
+        padding: 0 !important;
+    }
+
+    video.mdn {
+        display: none !important;
+    }
+
+
+.slider-wrapper {
+    margin-bottom: 0 !important;
+}
+
     .collaboration-sec figure img {
     width: 100%;
     HEIGHT: AUTO;
-}
-
-    .home-banner {
-        height: 1500px !important;
-        padding-top: 0;
-    }    
+}    
 
     .combo_btn {
     margin: 30px 0 40px 0;
@@ -1052,10 +1098,6 @@ video.mdn{
     width: 100% !important;
     padding: 0;
     margin: 0;
-}
-
-.home-banner {
-    
 }
 
 }
@@ -1074,6 +1116,27 @@ video.mdn{
 }
 
 @media (max-width: 767px){
+
+    section.main-ghst-writng-thierd-sec.sec-padding-60.main-gtqu-sec-img {
+        padding-bottom: 80px;
+    }
+
+    .combo_img.justify-content-center {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .combo_img.justify-content-center a {
+        flex: 0 0 50%;
+        max-width: 100% !important;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+    
+    .banner_left .combo_img a img {
+        max-width: 60% !important;
+    }
+
     .sec1_form, .sec1_main_form {
         width: 100%;
         position: unset !important;
@@ -15633,10 +15696,6 @@ h2.atle-qunti {
 
     .banner-form {
         position: relative;
-    }
-
-    .home-banner {
-        height: 1230px !important;
     }
 
     .hme-lst-stle li {
