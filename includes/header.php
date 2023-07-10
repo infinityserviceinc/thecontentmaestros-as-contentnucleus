@@ -2,33 +2,7 @@
   <nav>
     <ul class="unstyled mainnav pbpx-15">
       <li><a href="/">Home</a></li>
-      <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
-        <!-- <ul class="firstlevel unstyled">
-          <li><a href="services/">Our Services</a></li>
-          <li><a class="inner-pad" href="content-writing/">Content Writing</a></li>
-          <li><a class="inner-pad" href="website-copywriting/">Website Copywriting</a></li>
-          <li><a class="inner-pad" href="seo/">SEO</a></li>
-          <li><a class="inner-pad" href="guest-blogging/">Guest Blogging </a></li>
-          <li><a class="inner-pad" href="article-writing/">Article Writing</a></li>
-          <li><a class="inner-pad" href="blog-writing/">Blog Writing</a></li>
-          <li><a class="inner-pad" href="speech-writing/">Speech Writing</a></li>
-          <li><a class="inner-pad" href="ebook-writing/">eBook Writing</a></li>
-          <li><a class="inner-pad" href="press-release/">Press Release</a></li>
-          <li><a class="inner-pad" href="web-design-development/">Web design & development</a></li>
-          <li><a class="inner-pad" href="social-media-content/">Social Media Content</a></li>
-          <li><a class="inner-pad" href="white-papers/">White Papers</a></li>
-          <li><a class="inner-pad" href="case-studies/">Case Studies</a></li>
-          <li><a class="inner-pad" href="manuscripts-novels/">Manuscripts & Novels</a></li>
-          <li><a class="inner-pad" href="editing-proofreading/">Editing and Proofreading</a></li>
-         
-          <li><a class="inner-pad" href="resume-writing/">Resume Writing</a></li>
-          <li><a class="inner-pad" href="legal-writing/">Legal Writing </a></li>
-          <li><a class="inner-pad" href="proposal-writing/">Proposal Writing</a></li>
-          <li><a class="inner-pad" href="business-plan/">Business Plan</a></li>
-          <li><a class="inner-pad" href="webdesign-development/">Web Design And Development</a></li>
-          <li><a class="inner-pad" href="logo-design/">Logo Design</a></li>
-          <li><a class="inner-pad" href="explainer-video/">Explainer Video</a></li>
-        </ul> -->
+      <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>       
         <ul class="firstlevel unstyled">
           <li>
               <a href="javascript:;">Articles &amp; Blogs <b style="color:#2834d0;">+</b>
@@ -71,14 +45,7 @@
                   </li>
                   <li>
                       <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
-                  </li>
-                  <li>
-                      <a href="business-proposal/"> Business Proposal</a>
-                  </li>
-                  <li>
-                      <a href="business-plan/">
-                          Business Plan </a>
-                  </li>
+                  </li>                  
                   
                   <li>
                       <a href="email-writing/">
@@ -523,6 +490,8 @@
                       </li>
                   </ul>
               </li> -->
+              <li><a href="business-proposal/"> Business Proposal</a></li>
+             <li><a href="business-plan/">Business Plan </a></li>
               <li>
                   <a href="javascript:;">Personal Writing<b style="color:#2834d0;">+</b>
                   </a>
@@ -705,7 +674,7 @@
                           <a href="reputation-management/">Reputation Management</a>
                       </li>
                   </ul>
-              </li>
+              </li>              
               <!-- <li>
                   <a href="javascript:;">Industries<b style="color:#2834d0;">+</b>
                   </a>

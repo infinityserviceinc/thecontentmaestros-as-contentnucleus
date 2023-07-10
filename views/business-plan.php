@@ -595,8 +595,8 @@
                 </p>
                 <h4 class="sf-txt">
                   Starting from only 
-                  <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
-                  <span>$450</span> 
+                  <!-- <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
+                  <span>$450</span>  -->
                 </h4>
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
