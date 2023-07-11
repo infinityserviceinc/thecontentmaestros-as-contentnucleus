@@ -1404,7 +1404,7 @@ Bios </h3>
   <div class="slider-wrapper black non-mar">
     <section class="">
       <div class="item">
-        <div class="home-banner ">
+        <div class="form-banner ">
           <div class="container ">
             <div class="row">
               <div class=" col-lg-12 col-xl-12 text-center">

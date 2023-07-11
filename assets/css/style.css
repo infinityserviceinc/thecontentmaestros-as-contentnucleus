@@ -708,7 +708,7 @@ ul.dropdown li a::before{
 .main-menu>ul>li>a:hover,
 .main-menu>ul>li>a.active,
 .main-menu>ul>li>a:focus {
-    color: #fff !important;
+    color: #000000 !important;
 }
 
 .cstn-column {
@@ -5451,7 +5451,8 @@ footer .social-full {
     padding: 10px 15px;
     background: #0004cad9;
     border-radius: 10px;
-    box-shadow: 7px 9px 30px 0 #0004cad9;
+    box-shadow: 0px 1px 12px 0 #0004cad9;
+
     -webkit-transition: 0.4s;
     -moz-transition: 0.4s;
     -o-transition: 0.4s;
@@ -9954,7 +9955,7 @@ _:future,
     -moz-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
-    color: #fff;
+    color: #000;
     background: #f6dd0c;
 }
 
@@ -10098,7 +10099,7 @@ _:future,
 }
 
 .mycta {
-    background-color: #17b8bc;
+    background-color: #2e3192;
     padding: 40px 0 0 0;
 }
 
@@ -10687,7 +10688,7 @@ ul.artcle-lst li:before {
 }
 
 .main-ghst-writng-second-sec {
-    background-color: #17b8bc;
+    background-color: #2e3192;
 }
 
 .hompg .main-ghst-writng-second-sec {
@@ -10728,7 +10729,7 @@ ul.artcle-lst li:before {
 
 .wy-cseus a.btn-theme {
     background: #ffffff;
-    color: #17b8bc;
+    color: #2e3192;
 }
 
 .wy-cseus a.btn-theme:hover {
@@ -10758,7 +10759,7 @@ ul.artcle-lst li:before {
 .ser-box2 a.btn-theme,
 .mycta a.btn-theme {
     background: #ffffff;
-    color: #17b8bc;
+    color: #2e3192;
 }
 
 .ser-box2 a.btn-theme:hover,
@@ -12447,7 +12448,8 @@ input.btn-theme {
 }
 
 .prce_box.prc-trms-box1 {
-    margin-left: 50px;
+    /* margin-left: 50px; */
+    padding: 35px;
     transform: scale(1.17);
 }
 
@@ -12632,9 +12634,18 @@ h5.clr-heading-3 {
 .wht_pge .info-content,
 .manscpt_pge .info-content,
 .gust_pge .info-content {
-    padding: 0px 0px 120px;
+    padding: 30px 0px 0px;
 }
-
+.card-body{
+    text-align: center;
+}
+.card{
+    padding: 10px;
+}
+.card img{
+    width: auto;
+    height: 210px;
+}
 .cntent-page .main-counter-sec,
 .wbste_pge .main-counter-sec,
 .seo_pge .main-counter-sec,

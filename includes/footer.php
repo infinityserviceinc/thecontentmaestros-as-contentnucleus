@@ -51,7 +51,13 @@
             <li>
                 <a href="listicles/"> Listicles</a>
             </li>
-            <li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-2">
+          <h3 class="xshide">&nbsp</h3>
+          <ul class="linkinglist">
+          <li>
               <a href="grant-writing-services/">
                 Grant Writing </a>
             </li>
@@ -65,11 +71,6 @@
             <li>
                 <a href="business-proposal/"> Business Proposal</a>
             </li>
-          </ul>
-        </div>
-        <div class="col-lg-2">
-          <h3 class="xshide">&nbsp</h3>
-          <ul class="linkinglist">
             <li>
                 <a href="business-plan-writing/">
                     Business Plan </a>
@@ -83,7 +84,13 @@
                 <a href="pitch-deck-design/">
                     Pitch Deck </a>
             </li>
-            <li class="first">
+            
+          </ul>
+        </div>
+        <div class="col-lg-2">
+          <h3 class="xsmtpx-30">&nbsp</h3>
+          <ul class="linkinglist">
+          <li class="first">
                 <a href="press-release-writing-service/"> Press Release Writing
                     Services</a>
             </li>
@@ -105,12 +112,22 @@
             <li>
                 <a href="video-script-writing/">Video Script Writing</a>
             </li>
+           
+            <!-- <li class="first">
+                <a href="affiliate-marketing/"> Affiliate Content Marketing</a>
+            </li>
+            <li>
+                <a href="slogans/">Slogans</a>
+            </li>
+            <li>
+                <a href="taglines/">Taglines</a>
+            </li> -->
           </ul>
-        </div>
+        </div> 
         <div class="col-lg-2">
           <h3 class="xsmtpx-30">&nbsp</h3>
           <ul class="linkinglist">
-            <li>
+          <li>
                 <a href="bio-writing/">Bio Writing</a>
             </li>
             <li>
@@ -131,21 +148,7 @@
             <li>
                 <a href="speeches/">Speeches</a>
             </li>
-            <li class="first">
-                <a href="affiliate-marketing/"> Affiliate Content Marketing</a>
-            </li>
-            <li>
-                <a href="slogans/">Slogans</a>
-            </li>
-            <li>
-                <a href="taglines/">Taglines</a>
-            </li>
-          </ul>
-        </div> 
-        <div class="col-lg-2">
-          <h3 class="xsmtpx-30">&nbsp</h3>
-          <ul class="linkinglist">
-            <li>
+            <!-- <li>
                 <a href="brochure/">Brochure</a>
             </li>
             <li>
@@ -174,7 +177,7 @@
             </li>
             <li>
                 <a href="reputation-management/">Reputation Management</a>
-            </li>
+            </li> -->
           </ul>
         </div>  
       </div>
@@ -346,6 +349,39 @@ Test
     autoplaySpeed: 2e3,
     adaptiveHeight: !0
 });
+
+
+$('.multiple-items').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3
+});
+
+// $('.center').slick({
+//   centerMode: true,
+//   centerPadding: '60px',
+//   slidesToShow: 3,
+//   responsive: [
+//     {
+//       breakpoint: 768,
+//       settings: {
+//         arrows: false,
+//         centerMode: true,
+//         centerPadding: '40px',
+//         slidesToShow: 3
+//       }
+//     },
+//     {
+//       breakpoint: 480,
+//       settings: {
+//         arrows: false,
+//         centerMode: true,
+//         centerPadding: '40px',
+//         slidesToShow: 1
+//       }
+//     }
+//   ]
+// });
   
 var typed = new Typed('#typed', {
   strings: ["Resume", "Article", "Blogs", "Web", "Business", "Seo"],

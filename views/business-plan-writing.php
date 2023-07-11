@@ -793,32 +793,33 @@
       </div>
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">
-          <div class="pricing-hme-content">
-            <ul class="nav nav-pills">
+          <div class="pricing-hme-content ">
+            <!-- <ul class="nav nav-pills">
               <li><a data-toggle="pill" href="#service1" class="active show">Custom Blog Posts</a></li>
               <li><a data-toggle="pill" href="#service2" class="">Monthly Blog Packages</a></li>
               <li><a data-toggle="pill" href="#service3" class="">Power Blog Posts</a></li>
-            </ul>
-            <div class="tab-content pricingboxes pcrc">
-              <div id="service1" class="tab-pane active">
+            </ul> -->
+            <div class="tab-content pricingboxes pcrc ">
+              <div id="service1" class="tab-pane active ">
                 <div class="portfolio-box">
-                  <div class="row">
+                  <div class="row multiple-items">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-1">£15.0</h5>-->
-                          <h3>3 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>1 CUSTOM BLOG POST
-                              <!-- <a href="javascript:;">300 words</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>Within 5 business days</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
+                          <h5 class="clr-heading-1" style="color:#fff;">$450 </h5>
+                          <h3>Basic Package </h3>
+                          <!-- <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is less than <br> $25,000</p>
+                          </div> -->
+                          <ul class="pck-scrl" class="height:160px !important;">
+                          <li>10+ Pages Business Plan</li>
+  <li>Basic Industry and Market Research Analysis</li>
+  <li>3 Years of Financial Projections</li>
+  <li>Basic Marketing Plan</li>
+  <li>Target Market Analysis</li>
+  <li>Limited Revisions</li>
+  <li>Completion in 7 to 10 Business Days</li>
                           </ul>
                         </div>
                         <div class="pce-box-2">
@@ -831,90 +832,28 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box box-prce-trnsfrm">
-                        <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-2">£22.00</h5>-->
-                          <h3>4 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>1 CUSTOM BLOG POST
-                              <!-- <a href="javascript:;">500 words</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>Within 2 business days</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
-                            <li>Unlimited Revisions</li>
-                          </ul>
-                        </div>
-                        <div class="pce-box-2">
-                          <div class="main-cht-us">
-                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
-                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
-                                With Us</a></p>
-                          </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box prc-trms-box2">
-                        <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-3">£30.00</h5>-->
-                          <h3>5 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>1 CUSTOM BLOG POST
-                              <!-- <a href="javascript:;">1,000 words</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>Within 2 business days</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
-                            <li>Unlimited Revisions</li>
-                            <li>SEO Optimized Content</li>
-                          </ul>
-                        </div>
-                        <div class="pce-box-2">
-                          <div class="main-cht-us">
-                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
-                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
-                                With Us</a></p>
-                          </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div id="service2" class="tab-pane">
-                <div class="portfolio-box">
-                  <div class="row">
+
+
+
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-1">£67.00<small>/mo</small></h5>-->
-                          <h3>3 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>5 BLOG POSTS/MO
-                              <!-- <a href="javascript:;">10% OFF</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>500 words each</li>
-                            <li>5 posts will be uploaded every month on your blog</li>
-                            <li>Properly formatted with images</li>
-                            <li>SEO Optimized</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
+                          <h5 class="clr-heading-1" style="color:#fff;">$1,125</h5>
+                          <h3>Standard package </h3>
+                          <!-- <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is greater than $25,000 and less than $75,000</p>
+                          </div> -->
+                          <ul class="pck-scrl" class="height:160px !important;">
+                          <li>20+ Pages</li>
+  <li>Funding Advice</li>
+  <li>Priority Support</li>
+  <li>Advanced Market Research</li>
+  <li>Marketing Plan</li>
+  <li>3 Years of Financial Projections</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>Investment Application Support</li>
                           </ul>
                         </div>
                         <div class="pce-box-2">
@@ -927,91 +866,29 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box box-prce-trnsfrm">
-                        <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-2">£99.00<small>/mo</small></h5>-->
-                          <h3>4 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>10 BLOG POSTS/MO
-                              <!-- <a href="javascript:;">10% OFF</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>500 words each</li>
-                            <li>10 posts will be uploaded every month on your blog</li>
-                            <li>Properly formatted with images</li>
-                            <li>SEO Optimized</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
-                          </ul>
-                        </div>
-                        <div class="pce-box-2">
-                          <div class="main-cht-us">
-                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
-                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
-                                With Us</a></p>
-                          </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box prc-trms-box2">
-                        <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-3">£135.00<small>/mo</small></h5>-->
-                          <h3>5 Stars Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>15 BLOG POSTS/MO
-                              <!-- <a href="javascript:;">10% OFF</a> -->
-                            </h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>500 words each</li>
-                            <li>15 posts will be uploaded every month on your blog</li>
-                            <li>Properly formatted with images</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
-                            <li>SEO Optimized Content</li>
-                            <li>Unlimited Revisions</li>
-                          </ul>
-                        </div>
-                        <div class="pce-box-2">
-                          <div class="main-cht-us">
-                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
-                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
-                                With Us</a></p>
-                          </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div id="service3" class="tab-pane">
-                <div class="portfolio-box">
-                  <div class="row">
+
+
+                    
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-1">£45.00<small>/mo</small></h5>-->
-                          <h3>1 Power Post Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>1 POWER POST / MO <a href="javascript:;">2000 words</a></h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>1,200+ words each</li>
-                            <li>Several targeted, organically embedded keywords</li>
-                            <li>Multiple screenshots and professional quality royalty free images</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
+                          <h5 class="clr-heading-1" style="color:#fff;">$1,800 </h5>
+                          <h3>Professional Business Plan</h3>
+                          
+                          <ul class="pck-scrl" class="height:160px !important;">
+                          <li>25+ Page Business Plan</li>
+  <li>Industry & Market Research Analysis</li>
+  <li>Comprehensive 5-Year Financial Projections</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>Exit Strategy</li>
+  <li>HEPTALYSIS Analysis</li>
+  <li>PEST Analysis</li>
+  <li>Strategic Marketing Plan</li>
+  <li>Detailed Target Market Analysis</li>
+  <li>Unlimited Revisions</li>
+  <li>Designed By Professionals</li>
+  <li>Completion in 2-3 Weeks</li>
                           </ul>
                         </div>
                         <div class="pce-box-2">
@@ -1024,22 +901,30 @@
                         </div>
                       </div>
                     </div>
+
                     <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box box-prce-trnsfrm">
+                      <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-2">£225.00<small>/mo</small></h5>-->
-                          <h3>5 Power Post’s Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>5 POWER POSTS / MO <a href="javascript:;">2000 words</a></h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>1,200+ words each</li>
-                            <li>Several targeted, organically embedded keywords</li>
-                            <li>Multiple screenshots and professional quality royalty free images</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
+                          <h5 class="clr-heading-1" style="color:#fff;">$2925</h5>
+                          <h3>Deluxe Business Plan </h3>
+                          
+                          <ul class="pck-scrl" class="height:160px !important;">
+                          <li>45+ Pages Business Plan</li>
+  <li>Priority Support</li>
+  <li>Advanced Market Research</li>
+  <li>Marketing Plan</li>
+  <li>5 Years of Financial Projections</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>Exit Strategy</li>
+  <li>HEPTALYSIS Analysis</li>
+  <li>PEST Analysis</li>
+  <li>Additional Market Research Report</li>
+  <li>Business Valuation</li>
+  <li>KPI Development</li>
+  <li>Scenario Planning</li>
+  <li>Multiple Versions</li>
+  <li>Completion in 3-4 weeks</li>
                           </ul>
                         </div>
                         <div class="pce-box-2">
@@ -1052,37 +937,18 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                      <div class="prce_box prc-trms-box2">
-                        <div class="pce-box-1">
-                          <!--<h5 class="clr-heading-3">£450.00<small>/mo</small></h5>-->
-                          <h3>10 Power Post’s Package <span>Blog Writing</span></h3>
-                          <div class="growth grwth">
-                            <h4>10 POWER POSTS / MO <a href="javascript:;">2000 words</a></h4>
-                            <p>Custom Blog Writing Services.</p>
-                          </div>
-                          <ul class="pck-scrl">
-                            <li>1,200+ words each</li>
-                            <li>Several targeted, organically embedded keywords</li>
-                            <li>Multiple screenshots and professional quality royalty free images</li>
-                            <li>100% Ownership Rights</li>
-                            <li>100% Money Back Guarantee</li>
-                            <li>100% Satisfaction Guarantee</li>
-                          </ul>
-                        </div>
-                        <div class="pce-box-2">
-                          <div class="main-cht-us">
-                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
-                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
-                                With Us</a></p>
-                          </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
-                        </div>
-                      </div>
-                    </div>
+
+
+
+
+
+                    
+                    
                   </div>
                 </div>
               </div>
+              
+              
             </div>
           </div>
         </div>
@@ -1209,8 +1075,7 @@
                 <li>Strong call to actions</li>
                 <li>Optimised for search engines and social platforms </li>
                 <li>Value-adding content with rich media</li>
-                <li>Effective inbound marketing</li>
-                <li>Increased search engine presence </li>
+                
               </ul>
             </div>
           </div>
@@ -1219,6 +1084,8 @@
           <div class="main-ser main-serv-mob">
             <div class="ser-box2">
               <ul>
+              <li>Effective inbound marketing</li>
+                <li>Increased search engine presence </li>
                 <li>Maximising customer base </li>
                 <!--<li>E-book publication</li>-->
                 <!--<li>Audiobooks</li>-->
@@ -1236,6 +1103,66 @@
             <a href="tel:+19295667079" class="btn-theme">Let's Talk</a>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="main-sft-sec sec-padding-60">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="main-tstiml-cntn">
+            <h2>Explore Our Diverse Content Writing Samples Selection of Creative Samples
+</h2>
+            <p>We deliver premium quality technical writing services to our clients
+
+
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+      <div class="row justify-content-center ">
+        <div class="col-lg-11">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/business-plan-1.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title text-center">VG Smartglass Business</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/business-plan-1.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/business-plan-2.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Micheal J Jasper</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/business-plan-2.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/business-plan-3.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">K Plus Solutions</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/business-plan-3.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            
+            
+            
+          </div>
+        </div>
+
+      </div>
       </div>
     </div>
   </section>
@@ -1511,7 +1438,7 @@ And High Quality</h3>
             <h3>Leave all the heavy lifting of blog writing to us!</h3>
             <p>Businesses need big results in a short time, and that’s what we do to voice your business ideas while
               promoting your brand. </p>
-            <a href="tel:+19295667079" class="btn-theme-outline">Let’s start writing with us</a>
+            <a href="tel:+19295667079" class="btn-theme">Let’s start writing with us</a>
           </div>
         </div>
       </div>
@@ -1521,7 +1448,7 @@ And High Quality</h3>
   <div class="slider-wrapper black non-mar">
     <section class="">
       <div class="item">
-        <div class="home-banner ">
+        <div class="form-banner ">
           <div class="container ">
             <div class="row">
               <div class=" col-lg-12 col-xl-12 text-center">

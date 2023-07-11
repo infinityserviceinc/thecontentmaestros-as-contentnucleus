@@ -834,7 +834,205 @@
     </ul>
   </section>
 
+  <section class="main-princing-sec-hme main-portfolio-sec sec-padding-60">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="info-content">
+            <h3>Have A Look At Our Pricing</h3>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="pricing-hme-content ">
+            <!-- <ul class="nav nav-pills">
+              <li><a data-toggle="pill" href="#service1" class="active show">Custom Blog Posts</a></li>
+              <li><a data-toggle="pill" href="#service2" class="">Monthly Blog Packages</a></li>
+              <li><a data-toggle="pill" href="#service3" class="">Power Blog Posts</a></li>
+            </ul> -->
+            <div class="tab-content pricingboxes pcrc ">
+              <div id="service1" class="tab-pane active ">
+                <div class="portfolio-box">
+                  <div class="row multiple-items">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <h5 class="clr-heading-1" style="color:#fff;">$675</h5>
+                          <h3>BASIC GRANT</h3>
+                          <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is less than <br> $25,000</p>
+                          </div>
+                          <ul class="pck-scrl">
+                          <li>10+ Pages</li>
+  <li>Title Page and Cover Letter</li>
+  <li>Introduction/Abstract/Summary</li>
+  <li>Standard Support</li>
+  <li>Standard Market Research</li>
+  <li>Marketing Plan</li>
+  <li>3 Years of Financial Projections</li>
+  <li>SWOT Analysis</li>
+  <li>Budget</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
 
+
+
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <h5 class="clr-heading-1" style="color:#fff;">$1,500</h5>
+                          <h3>STANDARD GRANT</h3>
+                          <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is greater than $25,000 and less than $75,000</p>
+                          </div>
+                          <ul class="pck-scrl">
+                          <li>15+ Pages</li>
+  <li>Title Page and Cover Letter</li>
+  <li>Introduction/Abstract/Summary</li>
+  <li>Institutional Background</li>
+  <li>Standard Market Research</li>
+  <li>Marketing Plan</li>
+  <li>3 Years of Financial Projections</li>
+  <li>Problem Statement</li>
+  <li>Needs Assessment</li>
+  <li>Goals and Objectives</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>HEPTALYSIS Analysis</li>
+  <li>Future Funding/Sustainability</li>
+  <li>Budget</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <h5 class="clr-heading-1" style="color:#fff;">$2,250</h5>
+                          <h3>PREMIUM GRANT</h3>
+                          <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is greater than $75,000 and less than $150,000</p>
+                          </div>
+                          <ul class="pck-scrl">
+                          <li>20+ Pages</li>
+  <li>Title Page and Cover Letter</li>
+  <li>Introduction/Abstract/Summary</li>
+  <li>Institutional Background</li>
+  <li>Standard Market Research</li>
+  <li>Marketing Plan</li>
+  <li>5 Years of Financial Projections</li>
+  <li>Problem Statement</li>
+  <li>Needs Assessment</li>
+  <li>Goals and Objectives</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>HEPTALYSIS Analysis</li>
+  <li>Additional Market Research Report</li>
+  <li>Business Valuation</li>
+  <li>KPI Development</li>
+  <li>Scenario Planning</li>
+  <li>Multiple Versions</li>
+  <li>Full Commentary & Side Notes</li>
+  <li>Future Funding/Sustainability</li>
+  <li>Budget</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                      <div class="prce_box prc-trms-box1">
+                        <div class="pce-box-1">
+                          <h5 class="clr-heading-1" style="color:#fff;">$2,925</h5>
+                          <h3>DELUXE GRANT</h3>
+                          <div class="growth grwth">
+                             
+                            <p>Recommended if your funding requirement is greater than <br> $150,000</p>
+                          </div>
+                          <ul class="pck-scrl">
+                          <li>20+ Pages</li>
+                          <li>Title Page and Cover Letter</li>
+  <li>Introduction/Abstract/Summary</li>
+  <li>Institutional Background</li>
+  <li>Standard Market Research</li>
+  <li>Marketing Plan</li>
+  <li>5 Years of Financial Projections</li>
+  <li>Problem Statement</li>
+  <li>Needs Assessment</li>
+  <li>Goals and Objectives</li>
+  <li>SWOT Analysis</li>
+  <li>Risk Analysis</li>
+  <li>HEPTALYSIS Analysis</li>
+  <li>Additional Market Research Report</li>
+  <li>Business Valuation</li>
+  <li>KPI Development</li>
+  <li>Scenario Planning</li>
+  <li>Multiple Versions</li>
+  <li>Full Commentary & Side Notes</li>
+  <li>Future Funding/Sustainability</li>
+  <li>Budget</li>
+                          </ul>
+                        </div>
+                        <div class="pce-box-2">
+                          <div class="main-cht-us">
+                            <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat
+                                with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
+                                With Us</a></p>
+                          </div>
+                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+
+
+
+
+
+                    
+                    
+                  </div>
+                </div>
+              </div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+  </section>
 
   <!-- <div class="clientele-sec">
   <div class="container">
@@ -1079,7 +1277,66 @@
       </div>
     </div>
   </section>
+  <section class="main-sft-sec sec-padding-60">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="main-tstiml-cntn">
+            <h2>Find Your Grant Writer Today. See Their Portfolios & Reviews Before You Hire
+</h2>
+            <p>Avoid Mistakes When Applying for Grants By Working With Our Team
 
+
+
+
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+      <div class="row justify-content-center ">
+        <div class="col-lg-11">
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/grant-1.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title text-center">In Need - Grant</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/grant-1.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/grant-2.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Johnson Shaw Foundation</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/grant-2.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="card" >
+  <img src="../assets/images/grant-3.jpg" class="card-img-top text-center img-fluid" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Jonsies House Residential Care Home</h5>
+    <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+    <a href="../assets/images/grant-3.pdf" class="btn-theme text-center m-0">View Sample</a>
+  </div>
+</div>
+            </div>
+            
+            
+            
+          </div>
+        </div>
+
+      </div>
+      </div>
+    </div>
+  </section>
 
   <section class="main-sft-sec sec-padding-60">
     <div class="container-fluid">
@@ -1328,7 +1585,7 @@
   <div class="slider-wrapper black non-mar">
     <section class="">
       <div class="item">
-        <div class="home-banner ">
+        <div class="form-banner ">
           <div class="container ">
             <div class="row">
               <div class=" col-lg-12 col-xl-12 text-center">
