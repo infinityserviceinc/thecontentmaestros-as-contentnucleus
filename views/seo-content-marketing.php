@@ -1195,11 +1195,11 @@
                   <div class="ini-box2">
                     <span>DZ</span>
                   </div>
-                  <h3>Business Head, Denizen Corporate Services</h3>
+                  <h3>Mark Clinton </h3>
                   <p class="fortest">We have been in the customer service industry for quite some time, our daily job
                     requires us to develop a lot of content quickly. The Content Maestros has helped us always and won
                     us over with their blogs time and again. Thank you for your continuous support.</p>
-                  <h5>Mark Clinton</h5>
+                  <h5>Business Head, Denizen Corporate Services</h5>
                   <div class="ratings">
                     <span class="icon-star"></span>
                     <span class="icon-star"></span>
