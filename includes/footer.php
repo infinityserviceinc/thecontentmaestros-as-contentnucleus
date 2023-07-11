@@ -71,7 +71,7 @@
           <h3 class="xshide">&nbsp</h3>
           <ul class="linkinglist">
             <li>
-                <a href="business-plan/">
+                <a href="business-plan-writing/">
                     Business Plan </a>
             </li>
             

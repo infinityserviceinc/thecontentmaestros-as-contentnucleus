@@ -392,7 +392,7 @@
                     <li><a href="wikipedia-profile/">Wikipedia Profile</a></li>
                     <li><a href="resume-writing/">Resume Writing</a></li>
                     <li><a href="legal-writing/">Legal Writing </a></li>
-                    <li><a href="business-plan/">Bsuiness Plan</a></li>
+                    <li><a href="business-plan-writing/">Bsuiness Plan</a></li>
                     <li><a href="webdesign-development/">Web Design And Development</a></li>
                     <li><a href="logo-design/">Logo Design</a></li>
                     <li><a href="explainer-video/">Explainer Video</a></li>
@@ -405,7 +405,7 @@
                   <a href="grant-writing-services/">
                     Grant Writing </a>
               </li>
-              <li><a href="business-plan/">Business Plan </a></li>
+              <li><a href="business-plan-writing/">Business Plan </a></li>
               <li><a href="business-proposal/"> Business Proposal</a></li>
               <li>
                   <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
@@ -422,7 +422,7 @@
                           <a href="business-proposal/"> Business Proposal</a>
                       </li>
                       <li>
-                          <a href="business-plan/">
+                          <a href="business-plan-writing/">
                               Business Plan </a>
                       </li>
                       
@@ -800,7 +800,7 @@
                       <a href="business-proposal"> Business Proposal</a>
                   </li>
                   <li>
-                      <a href="business-plan">
+                      <a href="business-plan-writing">
                           Business Plan </a>
                   </li>
                   
