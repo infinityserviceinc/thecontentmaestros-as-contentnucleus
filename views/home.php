@@ -449,7 +449,7 @@
                 </div> -->
                   <div class="banner_left">
                     <h1>Content Writing Agency for
-                        <span id="typed" style="white-space:pre; color:#2e3390;" class="typed"></span><span class="typed-cursor"></span>
+                        <span id="typed" style="white-space:pre; color:#f6dd0c;" class="typed"></span><span class="typed-cursor"></span>
                     </h1>
                     <p>
                         Wondering where to find expert creative writers?

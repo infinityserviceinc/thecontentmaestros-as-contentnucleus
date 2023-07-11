@@ -643,11 +643,7 @@
                 <p class="text-center">
                   With our social media content creator calendar, you may improve your company's online profile. Maintain a high level of interaction with potential customers through professional profiles.
                 </p>
-                <h4 class="sf-txt">
-                  Starting from only 
-                  <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
-                  <span>$40</span> 
-                </h4>
+                
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
                   <a href="/order/" class="btn-theme-outline">Get a Quote</a>

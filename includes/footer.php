@@ -325,9 +325,9 @@ Test
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 <script src="assets/js/functions.js"></script>
 
-<!-- Start of Zendesk Widget script -->
+<!-- Start of  Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"> </script>
-<!-- End of ghostbookwriters Zendesk Widget script -->
+<!-- End of  Zendesk Widget script -->
 
 
 <script>

@@ -648,11 +648,7 @@
                 <p class="text-center">
                   Our affiliate content marketing efforts allow businesses to gain an edge over their competitors.
                 </p>
-                <!-- <h4 class="sf-txt">
-                  Starting from only 
-                  <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
-                  <span>$80</span> 
-                </h4> -->
+                
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
                   <a href="/order/" class="btn-theme-outline">Get a Quote</a>

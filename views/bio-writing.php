@@ -641,11 +641,7 @@
                 <p class="text-center">
                   Allow us to make your life an inspiration to others with our top-notch bio-writing services
                 </p>
-                <h4 class="sf-txt">
-                  Starting from only 
-                  <img class="lazy" alt="loading image..." src="assets/images/arrow.webp" style="">  
-                  <span>$30</span> 
-                </h4>
+                
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
                   <a href="/order/" class="btn-theme-outline">Get a Quote</a>

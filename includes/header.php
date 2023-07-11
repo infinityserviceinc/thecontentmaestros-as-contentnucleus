@@ -5,7 +5,7 @@
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>       
         <ul class="firstlevel unstyled">
           <li>
-              <a href="javascript:;">Articles &amp; Blogs <b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav4">
                   <li class="first">
@@ -36,7 +36,7 @@
                 Grant Writing </a>
           </li>
           <li>
-              <a href="javascript:;">Business Writing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li>
@@ -74,7 +74,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Editing Service<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -87,7 +87,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Personal Writing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Personal Writing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -120,7 +120,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Digital Solution<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav3">
                   <li class="first">
@@ -155,7 +155,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Design<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Design<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav1">
                   <li class="first">
@@ -200,7 +200,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Marketing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Marketing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav2">
                   <li class="first">
@@ -236,7 +236,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Social Media<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav1">
                   <li class="first">
@@ -255,7 +255,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">SEO<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">SEO<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav2">
                   <li class="first">
@@ -270,7 +270,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Industries<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Industries<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav3">
                   <li class="first">
@@ -401,39 +401,14 @@
               </div>
             </ul> -->
             <ul class="firstlevel unstyled">
-              <li>
-                  <a href="javascript:;">Articles &amp; Blogs <b style="color:#2834d0;">+</b>
-                  </a>
-                  <ul class="dropdown dropdown-03" id="last_nav4">
-                      <li class="first">
-                          <a href="article-writing/"> Article Writing </a>
-                      </li>
-                      <li>
-                          <a href="blogs-writing/"> Blog Writing </a>
-                      </li>
-                      <li>
-                          <a href="microblog-posts/"> Microblog Posts</a>
-                      </li>
-                      <li>
-                          <a href="newsjacking-posts/"> Newsjacking posts</a>
-                      </li>
-                      <li>
-                          <a href="power-blog-posts/"> Power blog posts</a>
-                      </li>
-                      <li>
-                          <a href="magazine-articles/"> Magazine Articles</a>
-                      </li>
-                      <li>
-                          <a href="listicles/"> Listicles</a>
-                      </li>
-                  </ul>
-              </li>
-              <li>
+            <li>
                   <a href="grant-writing-services/">
                     Grant Writing </a>
               </li>
+              <li><a href="business-plan/">Business Plan </a></li>
+              <li><a href="business-proposal/"> Business Proposal</a></li>
               <li>
-                  <a href="javascript:;">Business Writing<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li>
@@ -477,23 +452,8 @@
                       </li>
                   </ul>
               </li>
-              <!-- <li>
-                  <a href="javascript:;">Editing Service<b style="color:#2834d0;">+</b>
-                  </a>
-                  <ul class="dropdown dropdown-03">
-                      <li class="first">
-                          <a href="editing-and-proofreading">Editing &amp; Proof-reading Service</a>
-                      </li>
-                      <li>
-                          <a href="rewriting">
-                              Rewriting </a>
-                      </li>
-                  </ul>
-              </li> -->
-              <li><a href="business-proposal/"> Business Proposal</a></li>
-             <li><a href="business-plan/">Business Plan </a></li>
               <li>
-                  <a href="javascript:;">Personal Writing<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Personal Writing<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li class="first">
@@ -525,8 +485,53 @@
                       </li>
                   </ul>
               </li>
+              <li>
+                  <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;">+</b>
+                  </a>
+                  <ul class="dropdown dropdown-03" id="last_nav4">
+                      <li class="first">
+                          <a href="article-writing/"> Article Writing </a>
+                      </li>
+                      <li>
+                          <a href="blogs-writing/"> Blog Writing </a>
+                      </li>
+                      <li>
+                          <a href="microblog-posts/"> Microblog Posts</a>
+                      </li>
+                      <li>
+                          <a href="newsjacking-posts/"> Newsjacking posts</a>
+                      </li>
+                      <li>
+                          <a href="power-blog-posts/"> Power blog posts</a>
+                      </li>
+                      <li>
+                          <a href="magazine-articles/"> Magazine Articles</a>
+                      </li>
+                      <li>
+                          <a href="listicles/"> Listicles</a>
+                      </li>
+                  </ul>
+              </li>
+              
+              
               <!-- <li>
-                  <a href="javascript:;">Digital Solution<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
+                  </a>
+                  <ul class="dropdown dropdown-03">
+                      <li class="first">
+                          <a href="editing-and-proofreading">Editing &amp; Proof-reading Service</a>
+                      </li>
+                      <li>
+                          <a href="rewriting">
+                              Rewriting </a>
+                      </li>
+                  </ul>
+              </li> -->
+              
+             
+              
+              <!-- <li>
+                  <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav3">
                       <li class="first">
@@ -561,7 +566,7 @@
                   </ul>
               </li> -->
               <!-- <li>
-                  <a href="javascript:;">Design<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Design<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav1">
                       <li class="first">
@@ -605,8 +610,8 @@
                       </li>
                   </ul>
               </li> -->
-              <li>
-                  <a href="javascript:;">Marketing<b style="color:#2834d0;">+</b>
+              <!-- <li>
+                  <a href="javascript:;">Marketing<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav2">
                       <li class="first">
@@ -640,9 +645,9 @@
                           <a href="reviews-service/">Reviews</a>
                       </li>
                   </ul>
-              </li>
+              </li> -->
               <!-- <li>
-                  <a href="javascript:;">Social Media<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav1">
                       <li class="first">
@@ -660,8 +665,8 @@
                       </li>
                   </ul>
               </li> -->
-              <li>
-                  <a href="javascript:;">SEO<b style="color:#2834d0;">+</b>
+              <!-- <li>
+                  <a href="javascript:;">SEO<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav2">
                       <li class="first">
@@ -674,9 +679,9 @@
                           <a href="reputation-management/">Reputation Management</a>
                       </li>
                   </ul>
-              </li>              
+              </li>               -->
               <!-- <li>
-                  <a href="javascript:;">Industries<b style="color:#2834d0;">+</b>
+                  <a href="javascript:;">Industries<b style="color:#fff;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav3">
                       <li class="first">
@@ -750,7 +755,7 @@
       </ul> -->
         <ul class="firstlevel unstyled">
           <li>
-              <a href="javascript:;">Articles &amp; Blogs <b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav4">
                   <li class="first">
@@ -781,7 +786,7 @@
                 Grant Writing </a>
           </li>
           <li>
-              <a href="javascript:;">Business Writing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li>
@@ -826,7 +831,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Editing Service<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -839,7 +844,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Personal Writing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Personal Writing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -872,7 +877,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Digital Solution<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav3">
                   <li class="first">
@@ -907,7 +912,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Design<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Design<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav1">
                   <li class="first">
@@ -952,7 +957,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Marketing<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Marketing<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav2">
                   <li class="first">
@@ -988,7 +993,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Social Media<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav1">
                   <li class="first">
@@ -1007,7 +1012,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">SEO<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">SEO<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav2">
                   <li class="first">
@@ -1022,7 +1027,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Industries<b style="color:#2834d0;">+</b>
+              <a href="javascript:;">Industries<b style="color:#fff;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav3">
                   <li class="first">

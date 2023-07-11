@@ -543,6 +543,7 @@ ul.dropdown li a::before{
     top: 0;
     left: 0;
     z-index: 99;
+    background: #fff;
 }
 
 .top-info-list li a i{
@@ -554,7 +555,7 @@ ul.dropdown li a::before{
     float: right;
     margin: 0px 0 25px;
     padding: 18px;
-    background: #fff;
+    background: #e1e1e1;
     width: 85%;
     height: 60px;
     border-radius: 0 0 8px 8px;
@@ -707,7 +708,7 @@ ul.dropdown li a::before{
 .main-menu>ul>li>a:hover,
 .main-menu>ul>li>a.active,
 .main-menu>ul>li>a:focus {
-    color: #0004cad9;
+    color: #fff !important;
 }
 
 .cstn-column {
