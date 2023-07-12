@@ -1032,7 +1032,12 @@ video.mdn{
 @media only screen and (max-width: 767px){
 
 
-
+    .prce_box ul {
+        overflow-y: unset !important;
+    }
+    .pck-scrl {
+        height: auto !important;
+    }
 .footer-main .col-lg-2 h3.xsmtpx-30 {
     margin-top: 0;
     padding-bottom: 0;
