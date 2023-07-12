@@ -652,7 +652,7 @@
                 
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
-                  <a href="/order/" class="btn-theme-outline">Get a Quote</a>
+                  <a href="javascript:;" class="btn-theme-outline" onclick="showPopup()">Get a Quote</a>
                 </div>
 
                 <div class="combo_img justify-content-center">
@@ -858,7 +858,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$675</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$675</h5> -->
                           <h3>BASIC GRANT</h3>
                           <div class="growth grwth">
                              
@@ -892,7 +892,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$1,500</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$1,500</h5> -->
                           <h3>STANDARD GRANT</h3>
                           <div class="growth grwth">
                              
@@ -932,7 +932,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$2,250</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$2,250</h5> -->
                           <h3>PREMIUM GRANT</h3>
                           <div class="growth grwth">
                              
@@ -976,7 +976,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$2,925</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$2,925</h5> -->
                           <h3>DELUXE GRANT</h3>
                           <div class="growth grwth">
                              
@@ -1239,7 +1239,7 @@
             <p>Read. Review. Repeat-- our game plan for your business booster:</p>
           </div>
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
+        <div class="col-lg-8 col-md-8 col-sm-12">
           <div class="main-ser">
             <div class="ser-box2">
               <ul>
@@ -1249,24 +1249,22 @@
                 <li>Higher user engagement</li>
                 <li>Improved inbound link structure</li>
                 <li>Affordable costs</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="main-ser main-serv-mob">
-            <div class="ser-box2">
-              <ul>
                 <li>Integrated with relevant information</li>
                 <li>Effective business promotion</li>
-                <!--<li>Audiobooks</li>-->
-                <!--<li>Video book trailers</li>-->
-                <!--<li>Web design and Internet SEO</li>-->
-                <!--<li>Branding and publicity</li>-->
               </ul>
             </div>
           </div>
         </div>
+        <style>
+          .ser-box2 ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ser-box2 ul li {
+    flex: 0 0 50%;
+}
+        </style>
       </div>
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">

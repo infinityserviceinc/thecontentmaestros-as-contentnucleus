@@ -88,7 +88,7 @@
                           <label class="field-txt">Phone Number<span>*</span></label>
                           <input id="phone-coun" name="phone" type="number" placeholder="Phone Number"  style="padding-left:50px;" required/>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                          <div class="slct">
                             <label class="field-txt">Select Package <span>*</span></label>
                             <select id="packages" name="Package" class="valid" aria-invalid="false" >
@@ -207,7 +207,7 @@
                         </div>
 
                         
-                        <div class="col-md-12">
+                        <!-- <div class="col-md-12">
                           <label class="field-txt">Type of Service <span>*</span> <a href="#"></a></label>
                           <div class="check-list col-lg-6">
                             <input  type="checkbox" checked name="Services[]" value="Content Writing" >
@@ -277,9 +277,9 @@
                             <input type="checkbox" name="Services[]" value="Wikipedia Profile">
                             <label for="checkbox7">Wikipedia Profile</label>
                           </div>
-                        </div>
+                        </div> -->
                         
-                        <div class="col-md-12">
+                        <!-- <div class="col-md-12">
                           <label class="field-txt">Genre <span>*</span></label>
                           <div class="check-list col-lg-6">
                             <input  type="checkbox" checked name="Genre[]" value="Memoir / Autobiography">
@@ -329,8 +329,8 @@
                             <input type="checkbox" name="Genre[]" value="I Don't Know">
                             <label for="checkbox7">I Don't Know</label>
                           </div>
-                        </div>
-                        <div class="col-md-12">
+                        </div> -->
+                        <!-- <div class="col-md-12">
                           <label class="field-txt">Publishing Goals <span>*</span></label>
                           <div class="check-list col-lg-6">
                             <input  type="checkbox" checked name="PublishingGoals[]" value="Traditional Publisher with National Distribution">
@@ -348,15 +348,15 @@
                             <input  type="checkbox" name="PublishingGoals[]" value="I Don't Know">
                             <label for="checkbox4">I Don't Know</label>
                           </div>
-                        </div>
+                        </div> -->
                         
                         
                         
                         
                         
                         <div class="col-md-12">
-                          <label class="field-txt">Additional Comments <span>*</span></label>
-                          <textarea name="Comment" placeholder="Enter message here" /></textarea>
+                          <label class="field-txt">Describe your query <span>*</span></label>
+                          <textarea name="Comment" placeholder="Enter message here"></textarea>
                         </div>
                         <div class="col-md-12">
                           <input class="btn-theme" type="submit" value="Submit" />

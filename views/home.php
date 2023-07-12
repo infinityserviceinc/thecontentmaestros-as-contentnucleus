@@ -464,7 +464,7 @@
                     </div>
                     <div class="combo_btn">
                         <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
-                        <a href="/order/" class="btn-theme-outline">Get a Quote</a>
+                        <a href="javascript:;" class="btn-theme-outline" onclick="showPopup()">Get a Quote</a>
                     </div>
                 </div>
               </div>

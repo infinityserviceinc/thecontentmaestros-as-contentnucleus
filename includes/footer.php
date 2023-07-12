@@ -269,9 +269,195 @@
     </a>
 </div>
 
+<div class="modal" id="popup" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true" style="display: none;">
+   <div class="popupMaintwo signUpPoptwo " style="display: block;">
+      <div class="white-back">
+         <div class="popup-innertwo">
+            <a class="closePoptwo close" onclick="hidePopup()" data-dismiss="modal" aria-label="Close" aria-hidden="true" href="javascript:;">X</a>
+         </div>
+         <div class="row">
+            <div class="col-md-6 right-s">
 
+            </div>
+            <div class="col-sm-12 col-md-6 pop-h">
+               <h1>EXCLUSIVE OFFER!!!</h1>
+               <h2>AVAIL 50% DISCOUNT NOW!</h2>
+               <form action="/leads/" method="post">
+               <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI']?>">
+                        <input type="hidden" name="brand" value="thecontentmaestros">
+                        <input type="hidden" name="token" value="<?= $token;?>">
+                        <input type="hidden" name="tag" value="sidepanel form in landing-page">
+                        <input type="hidden" name="price" value="null">
+                        <input type="hidden" name="news" value="1">
+                        <input type="text" class="jun" name="gender">
+                  <ul class="pop-li">
+                     <li class="fom3-back"><input class="fom3" type="text" name="name" required="" placeholder="Full Name"></li>
+                     <li class="fom3-back"><input class="fom3" type="email" name="email" required="" placeholder="Email Address"></li>
+                     <li class="fom3-back"><input class="fom3" type="number" name="phone" required="" placeholder="Phone No"></li>
+                     <li class="fom4-back"><textarea class="fom4" name="brief" placeholder="Message" rows="4"></textarea></li>
+                     <div class="text-center ma3">
+                        <input type="submit" class="sign-btn3" name="" value="SUBMIT YOUR QUERY">
+                        
+                     </div>
+                  </ul>
+               </form>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
 
-<div class="mypopup-wrap active" style="display: none;">
+<style>
+  @media (max-width: 767px){
+.popupMaintwo {
+  width: 90% !important;
+    padding: 0 !important;
+    left: 0 !important;
+}
+  }
+
+/* @media (max-width: 992px){
+.popupMaintwo {
+    left: -100px !important;
+}
+} */
+  .modal, .rev-modal {
+    background: #101010b5;
+}
+
+.modal {
+    backdrop-filter: blur(3px);
+}
+.modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    overflow: hidden;
+    outline: 0;
+}
+.popupMaintwo {
+    background-image: url(assets/images/popup-left.webp);
+    background-size: contain;
+    width: 780px;
+    height: 508px;
+    padding: 0 0 0 24px;
+    border-radius: 15px;
+    margin: auto;
+    z-index: 999;
+    align-items: center;
+    background-color: #fff0;
+}
+.pop-h, .popupMaintwo {
+    background-repeat: no-repeat;
+}
+.popupMaintwo, .rev-modal {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+}
+.white-back {
+    border-radius: 43px;
+}
+.close:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.popupMaintwo .closePoptwo {
+    position: absolute;
+    right: 5px;
+    top: -13px;
+    background: #df163b;
+    color: #fff;
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    font-weight: 600;
+    z-index: 1;
+    opacity: 1;
+}
+.close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+.pop-h {
+    background-image: none;
+    padding: 21px 17px;
+    background-size: cover;
+    border: 3px solid #fba91e;
+    border-radius: 14px;
+    background-color: #000;
+}
+
+.pop-h, .popupMaintwo {
+    background-repeat: no-repeat;
+}
+.pop-h h1 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 400!important;
+    padding: 0;
+    line-height: 18px;
+}
+.pop-h h2 {
+    font-size: 40px!important;
+    color: #eda01c;
+    font-weight: 400;
+}
+.fom3-back {
+    background-color: #f1f1f1;
+    margin: 6px 1px 0;
+    padding: 1px 14px;
+    border-radius: 6px;
+    width: 100%;
+}
+.fom3 {
+    font-size: 15px;
+    padding: 6px 2px;
+    width: 80%;
+    background-color: #00ffff00;
+    border: none;
+    outline: 0;
+}
+.fom4-back textarea{
+  width: 100%;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 6px 16px;
+    font-size: 15px;
+    font-weight: 500;
+    background: #f1f1f1;
+}
+
+.sign-btn3 {
+    background-image: linear-gradient(#e0971b,#fba91e,#e0971b);
+    color: #000;
+    border: 0 solid #d10210;
+    font-size: 23px;
+    padding: 8px 0;
+    width: 100%;
+    font-family: Teko,sans-serif;
+    border-radius: 6px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+</style>
+
+<!-- <div class="mypopup-wrap active" style="display: none;">
   <div class="mypopup">
     <div class="left">
       <figure>
@@ -316,7 +502,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div id='test' style="display:none;position:fixed;width:100%;height:100vh;background:red;top:0;left:0;text-align:center;color:white;font-size;60px;">
 Test
 </div>
@@ -327,7 +513,17 @@ Test
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 <script src="assets/js/functions.js"></script>
+<script>
+        function showPopup() {
+            var popup = document.getElementById('popup');
+            popup.style.display = 'block';
+        }
 
+        function hidePopup() {
+            var popup = document.getElementById('popup');
+            popup.style.display = 'none';
+        }
+    </script>
 <!-- Start of  Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"> </script>
 <!-- End of  Zendesk Widget script -->
@@ -354,7 +550,26 @@ Test
 $('.multiple-items').slick({
   infinite: true,
   slidesToShow: 3,
-  slidesToScroll: 3
+  slidesToScroll: 3,
+  responsive: [
+    {
+      breakpoint: 1024, // defines the breakpoint at which the settings will change
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 768, // defines the breakpoint at which the settings will change
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: null,
+        
+      }
+    }
+    // add more responsive configurations as needed
+  ]
 });
 
 // $('.center').slick({

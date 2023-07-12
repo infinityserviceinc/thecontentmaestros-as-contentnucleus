@@ -348,7 +348,7 @@
                     Live Chat
                 </a>
             </li>
-            <li><a href="order/" class="btn-main-">Let's Get Started</a></li>
+            <li><a href="javascript:;" class="btn-main- "onclick="showPopup()">Let's Get Started</a></li>
           </ul>
         </div>
       </div>

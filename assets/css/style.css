@@ -1031,6 +1031,21 @@ video.mdn{
 
 @media only screen and (max-width: 767px){
 
+
+
+.footer-main .col-lg-2 h3.xsmtpx-30 {
+    margin-top: 0;
+    padding-bottom: 0;
+}
+
+.footer-top ul.scalmdia {
+    margin-bottom: 20px;
+}
+
+.footer-main .row .col-lg-2:nth-child(2) h3.xsmtpx-30 {
+    margin-bottom: 10px;
+}
+
     .home-banner {
         height: auto !important;
         padding: 50px 0px !important;
@@ -3471,6 +3486,7 @@ thumb-slider-main {
 
 .footer-main {
     background: #F4F5F7;
+    margin-top: 200px;
 }
 
 .footer-top {
@@ -7455,7 +7471,7 @@ footer .social-full {
     -moz-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
-    color: #000;
+    color: #fff;
     background-color: #f6dd0c;
     padding: 10px 20px;
     display: inline-block;
@@ -9869,7 +9885,8 @@ _:future,
 
 .introduction-new-sec {
     padding: 60px 0;
-    background-color: #ffedf5;
+    background-color: #e1e1e1;
+
     position: relative;
     /* margin-top: 190px; */
 }
@@ -16885,6 +16902,9 @@ h2.atle-qunti {
 }
 
 @media screen and (max-width:320px) {
+    .ser-box2 ul{
+        display: block !important;
+    }
 
     .home-banner-content h1,
     .introduction-sec .wrapper h3,
@@ -17025,12 +17045,12 @@ h2.atle-qunti {
     }
 
     .ultimate-slider .slick-prev {
-        top: 170px;
+        top: 220px;
         left: 115px;
     }
 
     .ultimate-slider .slick-next {
-        top: 170px;
+        top: 220px;
         left: 160px;
     }
 
@@ -18139,3 +18159,4 @@ section.CEO .col-md-4+.col-md-4 h1 span {
     display: table;
     content: " ";
 }
+

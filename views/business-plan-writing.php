@@ -600,7 +600,7 @@
                 </h4> -->
                 <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();">Consult an Expert</a>
-                  <a href="/order/" class="btn-theme-outline">Get a Quote</a>
+                  <a href="javascript:;" class="btn-theme-outline" onclick="showPopup()">Get a Quote</a>
                 </div>
 
                 <div class="combo_img justify-content-center">
@@ -806,7 +806,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$450 </h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$450 </h5> -->
                           <h3>Basic Package </h3>
                           <!-- <div class="growth grwth">
                              
@@ -838,7 +838,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$1,125</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$1,125</h5> -->
                           <h3>Standard package </h3>
                           <!-- <div class="growth grwth">
                              
@@ -872,7 +872,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$1,800 </h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$1,800 </h5> -->
                           <h3>Professional Business Plan</h3>
                           
                           <ul class="pck-scrl" class="height:160px !important;">
@@ -905,7 +905,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12">
                       <div class="prce_box prc-trms-box1">
                         <div class="pce-box-1">
-                          <h5 class="clr-heading-1" style="color:#fff;">$2925</h5>
+                          <!-- <h5 class="clr-heading-1" style="color:#fff;">$2925</h5> -->
                           <h3>Deluxe Business Plan </h3>
                           
                           <ul class="pck-scrl" class="height:160px !important;">
