@@ -6,16 +6,16 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>Wikipedia Page Creation Editing & Writing Services | CCW</title>
+  <title>Wikipedia Page Creation Editing & Writing Services | The Content Maestros</title>
   <meta name="keywords" content="create wikipedia page | make a wikipedia page | Wikipedia page creation">
   <meta name="description"
-    content="Planning to create a Wikipedia page? CCW's expert team knows how to make a Wikipedia page or can also help you with your own  Wikipedia page creation in Hemel Hempstead, Hertfordshire.">
+    content="Planning to create a Wikipedia page? The Content Maestros's expert team knows how to make a Wikipedia page or can also help you with your own  Wikipedia page creation in Hemel Hempstead, Hertfordshire.">
   <link rel="canonical" href="wikipedia-profile/" />
 
   <?php include_once("includes/head.php") ?>
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Wikipedia Page Creation Editing & Writing Services | CCW" />
+  <meta name="twitter:title" content="Wikipedia Page Creation Editing & Writing Services | The Content Maestros" />
   <meta name="twitter:description"
     content="Planning to create a Wikipedia page? CC's expert team knows how to make a Wikipedia page or can also help you with your own  Wikipedia page creation." />
   <meta name="twitter:site" content="@thecontentmaestros" />
@@ -23,7 +23,7 @@
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/wikipedia-profile" />
 
 
-  <meta property="og:title" content="Wikipedia Page Creation Editing & Writing Services | CCW" />
+  <meta property="og:title" content="Wikipedia Page Creation Editing & Writing Services | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/wikipedia-profile" />
   <meta property="og:description"
@@ -518,7 +518,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="ghst-writng-content">
             <h1>Wikipedia Page Writing & Creation Services to Get Listed on Wikipedia</h1>
-            <p>Wikipedia and ccw officially brings you the opportunity to become a part of the World’s Largest
+            <p>Wikipedia and The Content Maestros officially brings you the opportunity to become a part of the World’s Largest
               Encyclopedia</p>
             <ul class="hme-lst-stle hme-st-lft ltf">
               <li>100 % Original Content</li>

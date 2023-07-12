@@ -6,16 +6,16 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>We Provide Professional Resume Writing Services | CCW</title>
+  <title>We Provide Professional Resume Writing Services | The Content Maestros</title>
   <meta name="keywords" content="resume writing services | writing a resume | resume writing" />
   <meta name="description"
-    content="Writing a resume that can open career doors for you is not everyone's job. At CCW, We provide the exceptional resume writing services in Hemel Hempstead, Hertfordshire to help to get your career.">
+    content="Writing a resume that can open career doors for you is not everyone's job. At The Content Maestros, We provide the exceptional resume writing services to help to get your career.">
   <link rel="canonical" href="resume-writing/" />
 
   <?php include_once("includes/head.php") ?>
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="We Provide Professional Resume Writing Services | CCW" />
+  <meta name="twitter:title" content="We Provide Professional Resume Writing Services | The Content Maestros" />
   <meta name="twitter:description"
     content="Writing a resume that can open career doors for you is not everyone's job. At CC, We provide the exceptional resume writing services to help to get your career." />
   <meta name="twitter:site" content="@thecontentmaestros" />
@@ -23,7 +23,7 @@
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/resume-writing" />
 
 
-  <meta property="og:title" content="We Provide Professional Resume Writing Services | CCW" />
+  <meta property="og:title" content="We Provide Professional Resume Writing Services | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/resume-writing" />
   <meta property="og:description"

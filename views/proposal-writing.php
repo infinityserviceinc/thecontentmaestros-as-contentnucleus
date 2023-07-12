@@ -4,7 +4,7 @@
 
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Writing & Publishing Research Proposal For Your Business | CCW</title>
+<title>Writing & Publishing Research Proposal For Your Business | The Content Maestros</title>
 <meta name="keywords" content="writing a proposal | writing a research proposa | writing a project proposal" />
 <meta name="description" content="Worried about writing a proposal? Hire the best team that can help you with writing a research proposal, business proposal or even with writing a project proposal in Hemel Hempstead, Hertfordshire.">
 <link rel="canonical" href="proposal-writing/" />
@@ -24,7 +24,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Writing a Research Proposal For Your Business | CCW"/>
+<meta name="twitter:title" content="Writing a Research Proposal For Your Business | The Content Maestros"/>
 <meta name="twitter:description" content="Worried about writing a proposal? Hire the best team that can help you with writing a research proposal, business proposal or even with writing a project proposal."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -32,7 +32,7 @@
                     
                     
       
-<meta property="og:title" content="Writing a Research Proposal For Your Business | CCW" />
+<meta property="og:title" content="Writing a Research Proposal For Your Business | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/our-services/proposal-writing"/>
 <meta property="og:description" content="Worried about writing a proposal? Hire the best team that can help you with writing a research proposal, business proposal or even with writing a project proposal."/>
@@ -1126,7 +1126,7 @@
           </div>
           <div class="git-box2">
             <h3>Guaranteed confidentiality:</h3>
-            <p>A proposal order that assures you with complete privacy and security of sensitive information is what get us more customers—the raison d'être of CCW. </p>
+            <p>A proposal order that assures you with complete privacy and security of sensitive information is what get us more customers—the raison d'être of The Content Maestros. </p>
           </div>
         </div>
       </div>

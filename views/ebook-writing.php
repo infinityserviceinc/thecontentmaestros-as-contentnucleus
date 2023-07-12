@@ -4,7 +4,7 @@
 
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Writing an Ebook: How to Easily make an Ebook | CCW</title>
+<title>Writing an Ebook: How to Easily make an Ebook | The Content Maestros</title>
 <meta name="keywords" content="writing an ebook | create an ebook | how to make an ebook">
 <meta name="description" content="Let us help you create an Ebook. Our experienced writers can help you with writing an Ebook in Hemel Hempstead, Hertfordshire or can also guide to how make an Ebook.">
 <link rel="canonical" href="ebook-writing/" />
@@ -23,7 +23,7 @@
 "<!-- Twitter Card: -->
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Writing an Ebook: How to Easily make an Ebook | CCW"/>
+<meta name="twitter:title" content="Writing an Ebook: How to Easily make an Ebook | The Content Maestros"/>
 <meta name="twitter:description" content="Let us help you create an Ebook. Our experienced writers can help you with writing an Ebook or can also guide to how make an Ebook."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -32,7 +32,7 @@
                     
 
 
-<meta property="og:title" content="Writing an Ebook: How to Easily make an Ebook | CCW" />
+<meta property="og:title" content="Writing an Ebook: How to Easily make an Ebook | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/our-services/ebook-writing"/>
 <meta property="og:description" content="Let us help you create an Ebook. Our experienced writers can help you with writing an Ebook or can also guide to how make an Ebook." />

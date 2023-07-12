@@ -4,7 +4,7 @@
 
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Best Novel Writing Service & Creative Manuscript Editing | CCW</title>
+<title>Best Novel Writing Service & Creative Manuscript Editing | The Content Maestros</title>
 <meta name="keywords" content="creative manuscrip | creative manuscript letters | novel writing service">
 <meta name="description" content="Our expert team specializes in providing creative manuscript, manuscript letters and exceptional novel writing services in Hemel Hempstead, Hertfordshire.">
 <link rel="canonical" href="manuscripts-novels/" />
@@ -24,7 +24,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Best Novel Writing Service & Creative Manuscript Letters | CCW"/>
+<meta name="twitter:title" content="Best Novel Writing Service & Creative Manuscript Letters | The Content Maestros"/>
 <meta name="twitter:description" content="Our expert team specializes in providing creative manuscript, manuscript letters and exceptional novel writing services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -32,7 +32,7 @@
                  
 
 
-<meta property="og:title" content="Best Novel Writing Service & Creative Manuscript Letters | CCW" />
+<meta property="og:title" content="Best Novel Writing Service & Creative Manuscript Letters | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/our-services/manuscripts-novels"/>
 <meta property="og:description" content="Our expert team specializes in providing creative manuscript, manuscript letters and exceptional novel writing services."/>

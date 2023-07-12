@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
-<title>Terms and Conditions | CCW</title>
+<title>Terms and Conditions | The Content Maestros</title>
 <meta name="keywords" content="Terms and Conditions" />
 <meta name="description" content="Read complete agreement and find out the terms and conditions which you accept by using our Website or our Services.">
 <link rel="canonical" href="terms-and-conditions/" />
@@ -23,7 +23,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Terms and Conditions | CCW"/>
+<meta name="twitter:title" content="Terms and Conditions | The Content Maestros"/>
 <meta name="twitter:description" content="Read complete agreement and find out the terms and conditions which you accept by using our Website or our Services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -31,7 +31,7 @@
                     
 
 
-<meta property="og:title" content="Terms and Conditions | CCW" />
+<meta property="og:title" content="Terms and Conditions | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/terms-and-conditions"/>
 <meta property="og:description" content="Read complete agreement and find out the terms and conditions which you accept by using our Website or our Services."/>
@@ -400,61 +400,148 @@
 
 
 <section class="sec-padding mtpx-90">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <h2>Terms & Conditions</h2>
-        <p>Your use of this Website and/or our services constitutes Your agreement to the following terms and conditions. If You do not agree with any of these terms and conditions, please do not use this Website or Our Services.</p>
-        <p>If You are under the legal age of consent for Your respective district, You are not allowed to access or use this Website or Our Services. You acknowledge and agree that You must be of legal age to purchase any of Our products or services available on this Website or otherwise.</p>
-        <p>By submitting an order and/or payment, You are acknowledging that You have read and understood these terms and conditions. By submitting an order and/or payment, You are also agreeing to be legally bound by these terms and conditions, which form the entire agreement between You and thecontentmaestros.co.uk.</p>
-      </div>
+<div class="container">
+
+<div class="row">
+
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+        <div class="terms_cond_inner">
+
+            <br><br><br><br>
+
+            <h2>Terms and conditions</h2>
+
+            <p>When you place an order with us (i.e. you make payment for an order) then you are considered
+                to have read – understood and agreed to terms and conditions listed on this page.</p>
+
+            <h5>Copyright &amp; Personal Use</h5>
+
+            <p>The Products delivered to You are completely original content. The full copyright to the
+                Products and other materials delivered to you is retained by you and you alone. You agree to
+                indemnify, defend, and hold harmless the Company for any and all unauthorized uses you may
+                make of any material available made available to you by Company. Any unauthorized use of the
+                delivered Products and/or content of this Website may subject you to civil or criminal
+                penalties.</p>
+
+            <h5>No Plagiarism</h5>
+
+            <p>We do not condone, encourage, or knowingly take part in plagiarism or any other acts of fraud
+                or dishonesty. We strongly adhere to and abide by all copyright laws, and will not knowingly
+                allow any Customer to commit plagiarism or violate copyright laws.<br><br>Neither the
+                Company nor any of its affiliates and/or partners shall be liable for any unethical,
+                inappropriate, illegal, or otherwise wrongful use of the Products and/or other written
+                material received from our Website. This includes plagiarism, lawsuits, poor grading,
+                expulsion, academic probation, loss of scholarships/awards/grants/prizes/titles/positions,
+                failure, suspension, or any other disciplinary or legal actions. The buyer of material from
+                our Website is solely responsible for any and all disciplinary actions arising from the
+                improper, unethical, and/or illegal use of the material. </p>
+
+            <h5>Our policy for using images</h5>
+
+            <p>We do not own the copyright of images unless specifically designed by our in-house
+                illustrators - hence we do not use copyright images by ourselves. We will simply provide you
+                links of recommended images so you can copy and place by yourself. You may use royalty free
+                images without any worry, however for copyright images you may require to pay the owner(s).
+            </p>
+
+            <h5>Refund Policy</h5>
+
+            <p>
+                It is important that you carefully read and understand the refund policies in order to have
+                full knowledge of the privileges and limitations governed by The Content Maestros
+                Policies. We offer refunds only in special cases and specified conditions, detailed as
+                under:<br>
+                <br>
+                The Content Maestros offers a 100% Refund on all its services, however, it is not an
+                unconditional 100% refund and certain conditions still apply.<br>
+                <br>
+                The Content Maestros Refund Policy will be Void if;<br>
+                <br>
+                You have chosen a special or a custom package.<br>
+                You have demanded revisions beyond the initial concepts<br>
+                The customer has not been contacted or irresponsive for more than 2 weeks without
+                notice.<br>
+                If the project is placed on hold upon customer request, the refund will be voided.<br>
+                Company’s policies, or policy, have been violated.<br>
+                The creative brief is lacking in required information from the client end.<br>
+                The business is closing or changing its name or business.<br>
+                Reasons such as ‘change of mind’, ‘disagreement with a partner, or other reasons that do not
+                pertain to the service provided will not be subject to refund under any circumstances.<br>
+                Once a client has accepted multiple sets of revisions (for any services), the refund will
+                not be applicable.<br>
+            </p>
+
+            <h5>Limitations on Revisions</h5>
+
+            <p>Editing Orders: We will revise edited content to ensure that no objective or technical errors
+                remain. If no objective or technical errors remain in the content, any further revisions to
+                that content are provided at the sole discretion of the Company.<br><br>Writing Orders: We
+                will revise small segments of written material until that segment is approved by the Client.
+                Once the Client approves of the content that we develop, revisions to that content will be
+                billed at an appropriate editing rate. </p>
+
+            <h5>Limitation Of Liability</h5>
+
+            <p>You agree to release and hold the Company and its employees, officers, directors,
+                shareholders, agents, representatives, affiliates, subsidiaries, advertising, promotion and
+                fulfillment agencies, any third-party providers, or sources of information or data and legal
+                advisers (the “Company’s Affiliates”) harmless from any and all losses, damages, rights,
+                claims, and actions of any kind arising from or related to the Products, including but not
+                limited to: (a) telephone, electronic, hardware or software, network, Internet, email, or
+                computer malfunctions, failures or difficulties of any kind; (b) failed, incomplete, garbled
+                or delayed computer transmissions; (c) any condition caused by events beyond the control of
+                the Company that may cause the Product to be delayed, disrupted, or corrupted; (d) any
+                injuries, losses or damages of any kind arising in connection with or as a result of
+                utilizing our services; or (e) any printing or typographical errors in any materials
+                associated with our services. In addition, you agree to defend, indemnify, and hold the
+                Company and Company’s Affiliates harmless from any claim, suit or demand, including
+                attorney’s fees, made by a third party due to or arising out of your utilizing of our
+                services, your violation or breach of these Terms and Conditions, your violation of any
+                rights of a third party, or any other act or omission by you.<br><br>In no event shall the
+                Company be liable for any direct, indirect, punitive, incidental, special, or consequential
+                damages arising out of or in any way connected with the use of this Website or any
+                information provided on this Website. Because some states or jurisdictions do not allow the
+                exclusion or limitation of liability for consequential or incidental damages, the above
+                limitation may not apply to you.</p>
+
+            <h5>Amendments</h5>
+
+            <p>You acknowledge and agree that We may unilaterally change the Privacy policy and the Terms
+                and Conditions. We recommend you reviewing both the pages from time-to-time as any such
+                changes will be reflected in this section of our Website.</p>
+
+            <h5>Contacting Us</h5>
+
+            <p>If you have any query regarding our policies you may send email at:
+                info@thecontentmaestros.com</p>
+            <h5>Disclaimer</h5>
+            <p>All company logos and trademarks appearing on our website are the property of their
+                respective owners. We are not affiliated, associated, endorsed by, or in any way officially
+                connected with these companies or their trademarks. The use of these logos and trademarks
+                does not imply any endorsement, affiliation, or relationship between us and the respective
+                companies. We solely use these logos and trademarks for identification purposes only. All
+                information and content provided on our website is for informational purposes only and
+                should not be construed as professional advice. We do not guarantee the accuracy or
+                completeness of any information provided on our website. We are not responsible for any
+                errors or omissions, or for the results obtained from the use of this information. Any
+                reliance you place on such information is strictly at your own risk.</p>
+
+        </div>
+
     </div>
-    <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <h3>Definition of Terms</h3>
-        <p>"Website" refers to all online content on thecontentmaestros.co.uk website pages.
-          <br>"Customer," "You," or "Yours" mean and refer to you and/or any other person submitting an order to thecontentmaestros.co.uk on your behalf.
-          <br>"Company," "We," or "Our" mean and refer to thecontentmaestros.co.uk, a company registered under the laws of the London Court of International Arbitration.
-          <br>"Product" means and refers to all services and products provided by thecontentmaestros.co.uk to Customer in accordance with his/her Order. 
 
-          <br>"Order" means an order via phone or e-mail made by Customer to purchase services or products provided by thecontentmaestros.co.uk. Orders are confirmed by down payments via cheque, credit card, cash receipt, bank wire transfer, Western Union or PayPal transfer.
-        </p>
+</div>
 
-        
-        <h3>Our Services</h3>
-        <p>By submitting the Order and/or payment, You are purchasing the Product for Your use only. All Products are drafted by in-house writers. It is Your obligation to read these Terms and Conditions before submitting any Order and/or payment to this Website.
-          <br><br>
-          <strong>REFUND POLICY</strong>
-          <br>
-        It is important that you read and fully understand the refund policy in order to have full knowledge of the privileges and limitations governed by the The Content Maestros’s Policy.
-        <br><br>
-        We offer refunds only in special cases and specified conditions, detailed as under:
-        </p>
+</div>
 
-        <h4>Change of Mind:</h4>
-        <p>The customer is entitled to 100% refund before our writers/editors start working on the project. If (for any reason) you change your mind and decide against continuing your project with us after placing your order, you can ask for a refund within the first hour of placing your order. A 15% processing fee will be charged in other cases.</p>
-
-        <h4>Incompetent Delivery:</h4>
-        <p>Once the work is delivered, customers are only entitled to claim a refund once they have exhausted all the options detailed as under; <br>If it does not comply with project requirements (as requested/documented by the customer). We are committed to providing our customers with 100% satisfaction and offer unlimited revisions to ensure that the delivery is up to the mark. We assign, re-assign and re-write your work to ensure complete satisfaction. <br>Reserve FREE Pages for future, but of the same value and you can avail them at any time.</p>
-        <p>If we're still not able to deliver what you asked for, the refund will be processed with a mutual agreement on a set percentage (but only in the cases where the delivery is completely off the mark).</p>
-
-        <h4>Late Delivery:</h4>
-        <p>We believe in "On Time Delivery" but if for any reason we fail to deliver the asked service on time, after at least three attempts to contact us, your refund will be processed once it is established through documentary evidence that the late delivery was the company’s fault.</p>
-        
-
-        <h4>Refund Time Frame:</h4>
-        <p>Refunds must be claimed within 120 days of delivery. Refunds claimed after the set time frame will not be entertained.</p>
-        <p>All the customers must note the deadline for claiming refund at the time of placing order.</p>
-
-        <h4>Cases where a refund will not be issued:</h4>
-        <p>In case of late delivery due to some minor technical errors, such as grammatical, typing, word count, missing references, etc., refunds will be processed with mutual agreement and the company will only settle with partial refund or discounts reserved for future purchases.<br>The company will not be responsible for any delay from the client’s end. No refund will be issued on the basis of low quality of writing.</p>
-
-        
-        
-      </div>
-    </div>
-  </div>
 </section>
+<!-- footersection -->
+
+<!-- sec_9  end-->
+
+<!-- sec_10 -->
+
 <?php include_once("includes/footer.php") ?> 
 
 

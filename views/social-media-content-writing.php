@@ -6,7 +6,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>Creative Social Media Content Writing | CCW</title>
+  <title>Creative Social Media Content Writing | The Content Maestros</title>
   <meta name="keywords"
     content="social media content creator | social media content types | social media content calendar">
   <meta name="description"
@@ -17,7 +17,7 @@
 
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Creative Social Media Content Calendar | CCW" />
+  <meta name="twitter:title" content="Creative Social Media Content Calendar | The Content Maestros" />
   <meta name="twitter:description"
     content="Our Social media content creator creates social media content calendars that can lead all social media content types." />
   <meta name="twitter:site" content="@thecontentmaestros" />
@@ -25,7 +25,7 @@
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/social-media-content" />
 
 
-  <meta property="og:title" content="Creative Social Media Content Calendar | CCW" />
+  <meta property="og:title" content="Creative Social Media Content Calendar | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/social-media-content" />
   <meta property="og:description"

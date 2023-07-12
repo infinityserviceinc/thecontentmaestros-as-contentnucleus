@@ -8881,7 +8881,9 @@ section.faqsection {}
 }
 
 @media only screen and (max-width:769px) and (min-width:0px) {
-
+    .for-m{
+    color:#000 !important;
+}
     .servicesec h4,
     .listsec h2,
     .maparea h2,

@@ -6,16 +6,16 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>White Paper Content Writing Agency in UK | CCW</title>
+  <title>Professional Biography Writing Services | The Content Maestros</title>
   <meta name="keywords" content="white papers content | white papers writing">
   <meta name="description"
-    content="Are you looking for an expert skilled at white papers writing in Hemel Hempstead, Hertfordshire? CCW can help you! Establish authority and generate leads with effective white papers content.">
+    content="Searching for a website content writing service? As one of the best content writing companies around, we will help get your business more lead flow online.">
   <link rel="canonical" href="white-papers/" />
 
   <?php include_once("includes/head.php") ?>
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="White Paper Content Writing Agency in UK | CCW" />
+  <meta name="twitter:title" content="White Paper Content Writing Agency in USA | The Content Maestros" />
   <meta name="twitter:description"
     content="Are you looking for an expert skilled at white papers writing? CC can help you! Establish authority and generate leads with effective white papers content." />
   <meta name="twitter:site" content="@thecontentmaestros" />
@@ -23,7 +23,7 @@
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/white-papers" />
 
 
-  <meta property="og:title" content="White Paper Content Writing Agency in UK | CCW" />
+  <meta property="og:title" content="White Paper Content Writing Agency in USA | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/white-papers" />
   <meta property="og:description"

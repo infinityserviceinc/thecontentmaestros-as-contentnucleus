@@ -22,7 +22,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Digital Marketing Services | CCW"/>
+<meta name="twitter:title" content="Digital Marketing Services | The Content Maestros"/>
 <meta name="twitter:description" content="Read more about our solutions including content writing, editing, copywriting, proofreading and other writing-related services."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -36,7 +36,7 @@
 
 
 
-<meta property="og:title" content="Digital Marketing Services | CCW" />
+<meta property="og:title" content="Digital Marketing Services | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/services"/>
 <meta property="og:description" content="Read more about our solutions including content writing, editing, copywriting, proofreading and other writing-related services."/>

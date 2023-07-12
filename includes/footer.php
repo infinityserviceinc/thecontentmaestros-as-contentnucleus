@@ -15,7 +15,7 @@
           <div class="fologo">
             <a href="javascript:;"><img src="assets/images/logo.png"></a>
           </div>
-          <h3 class="xsmtpx-30">ABOUT thecontentmaestros</h3>
+          <h3 class="xsmtpx-30"></h3>
           <ul class="linkinglist">
             <li><a href="tel:+19295667079">+1-929-566-7079</a></li>
             <li><a class="address">150 West 25th St New York, NY 10001</a></li>

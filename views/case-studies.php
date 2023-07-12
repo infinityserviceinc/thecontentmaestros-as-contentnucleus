@@ -6,10 +6,10 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>See our Portfolio for Professionally Composed Case Studies | CCW</title>
+  <title>See our Portfolio for Professionally Composed Case Studies | The Content Maestros</title>
   <meta name="keywords" content="Our Portfolio">
   <meta name="description"
-    content="At CCW, before we start to write we read, examine and analyze the case thoroughly. Our portfolio has enough case studies to convince you to hire us!">
+    content="At The Content Maestros, before we start to write we read, examine and analyze the case thoroughly. Our portfolio has enough case studies to convince you to hire us!">
   <link rel="canonical" href="case-studies/" />
 
 
@@ -27,7 +27,7 @@
 
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="See our Portfolio for Professionally Composed Case Studies | CCW" />
+  <meta name="twitter:title" content="See our Portfolio for Professionally Composed Case Studies | The Content Maestros" />
   <meta name="twitter:description"
     content="At CC, before we start to write we read, examine and analyze the case thoroughly. Our portfolio has enough case studies to convince you to hire us!" />
   <meta name="twitter:site" content="@thecontentmaestros" />
@@ -35,7 +35,7 @@
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/case-studies" />
 
 
-  <meta property="og:title" content="See our Portfolio for Professionally Composed Case Studies | CCW" />
+  <meta property="og:title" content="See our Portfolio for Professionally Composed Case Studies | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/case-studies" />
   <meta property="og:description"

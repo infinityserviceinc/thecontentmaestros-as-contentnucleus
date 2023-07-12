@@ -4,7 +4,7 @@
 
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Legal Document Editing & Writing in Plain English | CCW</title>
+<title>Legal Document Editing & Writing in Plain English | The Content Maestros</title>
 <meta name="keywords" content="legal writing sample | legal writing in plain english | legal writing" />
 <meta name="description" content="Have you been asked to submit a legal writing in Hemel Hempstead, Hertfordshire sample that can demonstrate your abilities? Don’t worry! Team CC can help you with legal writing in plain English.">
 <link rel="canonical" href="legal-writing/" />
@@ -24,7 +24,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Legal Document Editing & Writing in Plain English | CCW"/>
+<meta name="twitter:title" content="Legal Document Editing & Writing in Plain English | The Content Maestros"/>
 <meta name="twitter:description" content="Have you been asked to submit a legal writing sample that can demonstrate your abilities? Don’t worry! Team CC can help you with legal writing in plain English."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -32,7 +32,7 @@
                     
    
 
-<meta property="og:title" content="Legal Document Editing & Writing in Plain English | CCW" />
+<meta property="og:title" content="Legal Document Editing & Writing in Plain English | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/our-services/legal-writing"/>
 <meta property="og:description" content="Have you been asked to submit a legal writing sample that can demonstrate your abilities? Don’t worry! Team CC can help you with legal writing in plain English."/>

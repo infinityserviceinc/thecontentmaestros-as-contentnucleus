@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8">
-<title>Privacy Policy | CCW</title>
+<title>Privacy Policy | The Content Maestros</title>
 <meta name="keywords" content="Privacy Policy" />
 <meta name="description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk.">
 <link rel="canonical" href="privacy-policy/" />
@@ -21,7 +21,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Privacy Policy | CCW"/>
+<meta name="twitter:title" content="Privacy Policy | The Content Maestros"/>
 <meta name="twitter:description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -31,7 +31,7 @@
 
 
 
-<meta property="og:title" content="Privacy Policy | CCW" />
+<meta property="og:title" content="Privacy Policy | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/privacy-policy"/>
 <meta property="og:description" content="This page discloses the privacy policy and practices for thecontentmaestros.co.uk."/>
@@ -402,57 +402,70 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <h2>Privacy Policy</h2>
-        <p>This notice discloses the privacy practices for thecontentmaestros.co.uk. This privacy notice applies solely to information collected by this website. It will notify you of the following:<br><br>What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
-        <br>What choices are available to you regarding the use of your data.
-        <br>The security procedures in place to protect the misuse of your information.
-        <br>How you can correct any inaccuracies in the information.
-        <br>Information collection, use and sharing.
-        <br>Confidentiality of services.
-        <br>Originality of content.
-        <br>We are the sole owners of the information collected on this site. We only have access to information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
-        <br>We will use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
-        <br>Unless you ask us not to, we may contact you via email or phone to tell you about specials, new products or services, or changes to this privacy policy.
+      <div class="container">
 
-        </p>
-      </div>
+<div class="row">
+
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <br><br><br><br>
+
+    <div class="terms_cond_inner">
+
+      <h2>Privacy Policy</h2>
+
+      <h5>The Information that we collect from you</h5>
+
+      <p>You share your information with us when you register with us through our website, at the time of placing an order, when you fill out a form or when you subscribe to our newsletter. <br>
+
+      The information that you will typically be sharing with us may include your name, e-mail address, mailing address, phone number, or credit card information. We however also provide option to visit our site as anonymous visitor.</p>
+
+      <h5>Why do we need your information?</h5>
+
+      <p>We may use your information for the specified below purposes:</p>
+
+      <ul>
+
+        <li>The information we collect helps us better serve your individual needs.</li>
+
+        <li>Based on the information and feedback we receive from you - we continually strive to improve our website offerings .</li>
+
+        <li>To enable us effectively respond to your customer service requests and support needs.</li>
+
+        <li>To use your provided email address to send you information, respond to inquiries, and/or other requests or questions.</li>
+
+        <li>We assure you that your provided information (public or private) will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the expressed purpose of delivering the purchased product or service requested.</li>
+
+      </ul>
+
+      <h5>Is your information protected?</h5>
+
+      <p>When you place an order or enter, submit, or access your personal information – at all levels we have implemented security measures to maintain the safety of your personal information.<br>
+
+      Through the use of SSL, we ensure security and confidentiality of information your share. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
+
+      <h5>Why do we use cookies?</h5>
+
+      <p>In order to keep track of advertisements and compile aggregate data about site traffic and site interaction we use cookies. This enables us to offer better site experiences and tools in the future.
+
+        <br>
+
+      If so required, we may seek services from third-party to assist us in better understanding our site visitors. However, third party service providers are not allowed to use the information collected except for the expressed purpose of customers’ analysis. </p>
+
+      <h5>We never share personally identifiable information with third parties </h5>
+
+      <p>The information that are personally identifiable are not sold, traded, or otherwise transferred to outside parties. This means you can be sure we will not distribute your personal information to outside parties without your consent. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+      <h5>Applicability of Privacy policy </h5>
+
+      <p>Our privacy policy does not apply to the information collected through offline media. This applies only to the information we collect through online channels. </p>
+
     </div>
-    <div class="row">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <h3>Your Access to and Control Over Information</h3>
-        <p>You may opt out of any future contacts from us at any time. You can do any of the following actions at any time by contacting us via the email address or phone number provided on our website:
-        </p>
 
-        <ul class="list-simple">
-          <li>See what data we have about you, if any.</li>
-          <li>Change/correct any data we have about you.</li>
-          <li>Have us delete any data we have about you.</li>
-          <li>Express any concern you have about our use of your data.</li>
-        </ul>
-        <h3>Security</h3>
-        <p>We protect your information offline. Only employees and contractors who need the information to perform a specific job (for example, billing or the services ordered) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.</p>
-
-        <h3>Payment</h3>
-        <p>In order to process your order, we may need to collect personal information about you, such as your name, email address, billing address, and phone number). Credit card information is only handled by our third-party credit card provider (PayPal.com or Square).</p>
-
-        <h3>IP Address and Cookies</h3>
-        <p>Non-personal information such as your IP address is automatically recorded when you enter our website. This information is used only to diagnose server problems and site administration. Cookies are used on this site to enhance the user experience and for collecting usage statistics.</p>
-
-        <h3>Information About Our Products and Services</h3>
-        <p>We make every effort to be as accurate as possible in describing the services and products offered on thecontentmaestros.co.uk. We do not warrant that the product or service descriptions, or any other content on this site is accurate, complete, reliable, current, or free of error. Please call or email us immediately if you feel that the product or service you received from us differs from the descriptions on this website.</p>
-        <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at <a href="tel:+19295667079">+1-929-566-7079</a> or contact us via email at <a href="mailto:query@thecontentmaestros.com">query@thecontentmaestros.com</a></p>
-
-        <h3>Confidentiality and Ownership</h3>
-        <p>While many writing services require recognition or sales incentives, our service is 100% confidential. All communication and content developed or reviewed for the purposes of working together will never be disclosed to any other party under any circumstances. We reserve no rights to the products and services we provide. Everything we edit or write is considered the sole property of the client. If you contract with us, you, and only you, will be recognized as the author and/or owner of your material.</p>
-
-        <h3>Originality</h3>
-        <p>All original content we develop/ghostwrite for a client will be free of plagiarism and not copied from any other source. Any and all information submitted to a client that is inspired or researched from another source will be paraphrased and properly cited to ensure the material’s originality.</p>
-
-        
-        
-      </div>
-    </div>
   </div>
+
+</div>
+
+</div>
 </section>
 <?php include_once("includes/footer.php") ?> 
 

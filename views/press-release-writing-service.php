@@ -6,23 +6,23 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-  <title>Press Release Writing By Professional Writers | CCW</title>
-  <meta name="keywords" content="press releases | press release example | press release template uk">
+  <title>Press Release Writing By Professional Writers | The Content Maestros</title>
+  <meta name="keywords" content="press releases | press release example | press release template usa">
   <meta name="description"
-    content="Make the powerful statement with expert written press releases in Hemel Hempstead, Hertfordshire. Check out the press release templates available on our website.">
+    content="Make the powerful statement with expert written press releases. Check out the press release templates available on our website.">
   <link rel="canonical" href="press-release/" />
 
   <?php include_once("includes/head.php") ?>
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Press Release Writing By Professional Writers | CCW" />
+  <meta name="twitter:title" content="Press Release Writing By Professional Writers | The Content Maestros" />
   <meta name="twitter:description"
     content="Make the powerful statement with expert written press releases. Check out the press release templates available on our website." />
   <meta name="twitter:site" content="@thecontentmaestros" />
   <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
   <meta name="twitter:url" content="https://thecontentmaestros.com/our-services/press-release" />
 
-  <meta property="og:title" content="Press Release Writing By Professional Writers | CCW" />
+  <meta property="og:title" content="Press Release Writing By Professional Writers | The Content Maestros" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thecontentmaestros.com/our-services/press-release" />
   <meta property="og:description"

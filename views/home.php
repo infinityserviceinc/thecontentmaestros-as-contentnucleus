@@ -6,7 +6,7 @@
   <title>Professional Content Writing For B2B & B2C</title>
   <meta name="keywords" content="Content creation agency | Content writing services | The Content Maestros uk">
   <meta name="description"
-    content="CCW is a UK-based content creation agency  in Hemel Hempstead, Hertfordshire with a considerable experience in content writing services, editing, copywriting, and proofreading services.">
+    content="The Content Maestros is a UK-based content creation agency  in Hemel Hempstead, Hertfordshire with a considerable experience in content writing services, editing, copywriting, and proofreading services.">
   <link rel="canonical" href="/" />
 
 
@@ -14,9 +14,9 @@
 
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Professional The Content Maestros Services in UK | CCW" />
+  <meta name="twitter:title" content="Professional The Content Maestros Services in USA | The Content Maestros" />
   <meta name="twitter:description"
-    content="CCW is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
+    content="The Content Maestros is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
   <meta name="twitter:site" content="@thecontentmaestros" />
   <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
   <meta name="twitter:url" content="index/" />
@@ -25,11 +25,11 @@
 
 
 
-  <meta property="og:title" content="Professional The Content Maestros Services in UK | CCW" />
+  <meta property="og:title" content="Professional The Content Maestros Services in USA | The Content Maestros" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content=" https://thecontentmaestros.co.uk" />
   <meta property="og:description"
-    content="CCW is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
+    content="The Content Maestros is a UK-based content creation agency with a considerable experience in content writing services, editing, copywriting, and proofreading services." />
   <meta property="og:site_name" content="@thecontentmaestros" />
   <meta property="og:image" content="assets/images/logo.png" />
 

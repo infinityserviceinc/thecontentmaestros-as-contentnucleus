@@ -4,7 +4,7 @@
 
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Testimonials | CCW</title>
+<title>Testimonials | The Content Maestros</title>
 <meta name="keywords" content="Testimonials">
 <meta name="description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us. ">
 <link rel="canonical" href="testimonials/" />
@@ -23,7 +23,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Testimonials | CCW"/>
+<meta name="twitter:title" content="Testimonials | The Content Maestros"/>
 <meta name="twitter:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
 <meta name="twitter:site" content="@thecontentmaestros" />
 <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
@@ -34,7 +34,7 @@
 
 
 
-<meta property="og:title" content="Testimonials | CCW" />
+<meta property="og:title" content="Testimonials | The Content Maestros" />
 <meta property="og:type" content="article"/>
 <meta property="og:url" content="https://thecontentmaestros.com/testimonials"/>
 <meta property="og:description" content="There really is no better way to gain trust and prove the validity of your brand like customer testimonials. Read more what our clients want to say about us."/>
