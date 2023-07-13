@@ -841,7 +841,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="info-content">
-            <h3>Have A Look At Our Pricing</h3>
+            <h3>Have A Look At Our Packages</h3>
           </div>
         </div>
       </div>
@@ -864,7 +864,7 @@
                           <h3>BASIC GRANT</h3>
                           <div class="growth grwth">
                              
-                            <p>Recommended if your funding requirement is less than <br> $25,000</p>
+                            <p>Recommended if your funding requirement is less than $25,000</p>
                           </div>
                           <ul class="pck-scrl">
                           <li>10+ Pages</li>
@@ -884,7 +884,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
+                          <button type="button" class="btn btn-primary" onclick="showPopup()">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -924,7 +924,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
+                          <button type="button" class="btn btn-primary" onclick="showPopup()">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -970,7 +970,8 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
+                          <button type="button" class="btn btn-primary" onclick="showPopup()">Place Your Order Now</button>
+                          
                         </div>
                       </div>
                     </div>
@@ -982,7 +983,7 @@
                           <h3>DELUXE GRANT</h3>
                           <div class="growth grwth">
                              
-                            <p>Recommended if your funding requirement is greater than <br> $150,000</p>
+                            <p>Recommended if your funding requirement is greater than $150,000</p>
                           </div>
                           <ul class="pck-scrl">
                           <li>20+ Pages</li>
@@ -1014,7 +1015,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
+                          <button type="button" class="btn btn-primary" onclick="showPopup()">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>

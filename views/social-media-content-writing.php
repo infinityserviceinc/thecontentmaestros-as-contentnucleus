@@ -842,7 +842,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="info-content">
-            <h3>Have A Look At Our Pricing</h3>
+            <h3>Have A Look At Our Packages</h3>
           </div>
         </div>
       </div>
