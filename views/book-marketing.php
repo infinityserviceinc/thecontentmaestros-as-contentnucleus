@@ -971,7 +971,7 @@
                         after all!
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Social Media Promotion</h3>
@@ -981,7 +981,7 @@
                         landing page for your book.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Support Promotion</h3>
@@ -990,7 +990,7 @@
                         than one. Moreover, organizing book-reading sessions also lends your book to the right audience.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

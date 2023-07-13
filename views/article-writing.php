@@ -960,7 +960,7 @@
                 and style of the magazine. We ensure that the articles incorporate the tone and the targeted
                 audience.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Industry Articles</h3>
@@ -969,7 +969,7 @@
                 industry. Our writers ensure to research each topic thoroughly to provide information based on
                 facts utilizing authentic resources.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>News Articles</h3>
@@ -978,7 +978,7 @@
                 ensure that each news article has enough substance in it to make the news engaging for the
                 readers.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>LinkedIn Articles</h3>
@@ -987,7 +987,7 @@
                 master plan that can help you build authority. We have trained writers to meet your goals on the
                 LinkedIn platform.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

@@ -477,7 +477,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul>
-           <a href="order/" class="btn-theme">Let’s Get Started</a>
+           <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
@@ -833,7 +833,7 @@
         <div class="thierd-sec-content">
           <h3>The biggest asset in legal writing: the brevity of expression:</h3>
           <p>It is the best of both artistry and wisdom. Our experts are skilled in weaving the specifics, actualities, and stats into the fabric of legal notions and ideas—the effective way to communicate the legal standards to your audience.</p>
-          <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
         </div>
       </div>
     </div>

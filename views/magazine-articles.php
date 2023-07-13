@@ -970,7 +970,7 @@
               We understand that every magazine has a unique audience. This drives us to produce compelling feature articles that aim to enlighten your readers with authentic content that matches their tastes and preferences.
 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Opinion Articles</h3>
@@ -978,7 +978,7 @@
               We at Lincoln Creative believe that opinions can change the world. Our expert writing team produces high-quality opinion articles helping you set a unique direction for your magazine. 
 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Informative Articles</h3>
@@ -986,7 +986,7 @@
               Today, information has become crucial to diversify perspectives. Our content experts curate industry-based informative articles enabling your magazine to become a distinguished source of information on relevant topics.
 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Technical Articles</h3>
@@ -994,7 +994,7 @@
               Our technical writing team produces high-quality, accurate, and effective technical content that meets the needs of the intended audience. Our writers bring years of experience in various industries and can communicate complex information clearly and concisely to your readers.
 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

@@ -969,21 +969,21 @@
               <p>
               If there is any reason that you are dissatisfied with our work or if it falls short of your expectations, we promise to correct any mistakes and make everything right until you are completely satisfied.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>High-Quality Work</h3>
               <p>
               Thorough research, a clear and concise writing style, attention to detail, and an understanding of the target audience ensure high-quality work. Our writers provide honest and valuable insights to help readers make informed decisions.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Customization</h3>
               <p>
               Our writers tailor the review to meet your specific needs and requirements. By selecting the appropriate tone, style, and format, we address your specific areas of focus or concerns.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

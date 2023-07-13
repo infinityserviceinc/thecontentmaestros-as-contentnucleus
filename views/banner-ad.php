@@ -969,21 +969,21 @@
               <p>
               Static banners might be plain and boring, but they carry essence and importance in marketing. Our trained banner ad designers can create captivating banner ads representing your business's core like nothing else. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Customized Banners</h3>
               <p>
               We at Lincoln Creative Writers understand that every business wants to create as much impact as possible with banner ads. That’s what enables us to offer you customizable banner ad designs so you can market your business in our own distinguished style. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Flash Banners</h3>
               <p>
               Our expert banner ad designers can help you create catchy flash banners that perfectly blend productivity and animation. We adhere to modern marketing strategies and curate their content according to your respective business needs.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

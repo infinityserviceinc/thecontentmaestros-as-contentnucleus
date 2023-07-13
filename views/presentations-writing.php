@@ -971,7 +971,7 @@
                         accurate information. We have a dedicated writing team that works effortlessly to help you
                         provide your audience with engaging, accurate, and visually synced presentations.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Sales Presentations</h3>
@@ -981,7 +981,7 @@
                         presentation writers opt for a strategic approach with each project to ensure effective and
                         groundbreaking outcomes.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Image building Presentations</h3>
@@ -991,7 +991,7 @@
                         businesses, and organizations to develop an image that allows them to prosper with a new
                         perspective, visibility, increased brand value, and long-term success.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

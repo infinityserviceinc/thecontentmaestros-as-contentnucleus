@@ -968,14 +968,14 @@
               <p>
               Audio transcription can be tricky, especially if you’re using free online tools. Our experts transcribe audio files without compromising the information.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Video Transcription</h3>
               <p>
               We transform videos into text without hassle. From movies to video interviews and more, our team’s got you covered.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
             

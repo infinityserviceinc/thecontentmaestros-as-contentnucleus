@@ -523,7 +523,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
@@ -1049,28 +1049,28 @@
               <p>
               If you're looking for ways to build your business's credibility and establish itself as an industry expert, you need to rely on white paper for the best results. It will educate the target audience about your products and services and convince them to do business with your company. Opt for white paper writers for hire on our platform to enjoy curated and impactful papers. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Highlighting benefits of Technology with White Paper</h3>
               <p>
               Wish to promote an emerging technology and convince the world of the power it holds. A white paper on technology will help you spread your word to the target audience. Hire our expert white paper writing services to make the most out of white paper benefits. Join us and promote technology together in this digital era.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Product Comparison White Paper</h3>
               <p>
               Want to launch an advanced version of your already existing product? Or a better version of one that's already available on the market? You can hugely benefit by publishing a product comparison white paper that will carefully enlist all the factors that make your product the best in the market. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Hybrid Business and Technology White Paper</h3>
               <p>
               Convince your target market of the potential technology holds and how your business is leveraging it to bring numerous benefits. Partner with us and curate the most dynamic hybrid business and technology white paper.   
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

@@ -969,7 +969,7 @@
               The market is saturated with slogans and brands trying to increase their recall value. But if you want to take things a step ahead, our slogan writing services have you covered. We offer customized slogans so you can stand out in the crowd. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Creative Slogans</h3>
@@ -977,7 +977,7 @@
               Creative slogans are meant to make you stand out from the crowd. Our creative slogan writers are equipped with a thorough understanding of modern norms. They can go out of their way to provide you with catchy, effective, and memorable slogans. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Descriptive Slogans</h3>
@@ -985,7 +985,7 @@
               We at Lincoln Creative Writers understand that descriptive slogans can play a pivotal role in developing a brand’s image. That’s what fuels our proficient slogan writers to develop engaging and attractive descriptive slogans to help your audience understand your brand better.
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Advertising Slogans</h3>
@@ -993,7 +993,7 @@
               Slogans are a game changer when it comes to advertising. It’s the slogans that have provided popular brands with the recognition they enjoy today. We can help you develop strategic advertising slogans that can create an impact.
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

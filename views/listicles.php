@@ -970,7 +970,7 @@
               We understand that guides and tutorials are easy when they are listed. That’s what drives our
                         writing team to offer the readers an informative and brief listicle to offer them value. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Educational Listicles</h3>
@@ -979,7 +979,7 @@
                         making choices and comparisons for educational purposes. We have the skills to do the research
                         for your consumers so that they can make the right decisions. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Best Options Listicles</h3>
@@ -988,7 +988,7 @@
                         you into a dilemma. We at Lincoln Creative can effortlessly create articles featuring the best
                         options available. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

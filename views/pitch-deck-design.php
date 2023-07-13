@@ -971,7 +971,7 @@
                   financial and business goals. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>The Elevator Pitch</h3>
@@ -981,7 +981,7 @@
                   action. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>The Sales Pitch</h3>
@@ -991,7 +991,7 @@
                   could be a real problem solver. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>The Traction Pitch</h3>
@@ -1001,7 +1001,7 @@
                   company profiles. This helps secure future investments. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

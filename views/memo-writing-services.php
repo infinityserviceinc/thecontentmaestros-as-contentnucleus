@@ -968,28 +968,28 @@
               <p>
               We can turn your meetings into readable documents. You have to provide us only a. Audible recording or a multimedia version of your business meetings and we will highlight the talking points, proposed solutions, key issues discussed in the meeting. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Response Memos</h3>
               <p>
               It is a descriptive memorandum containing different sections of information such as objective statement, summary section and discussion section. It is usually issued by the board of directors or any other higher authority of an organization to describe terms and conditions on a subject. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Field Report Memos</h3>
               <p>
               Field report memos describe inspections including the result conclusion and procedure involved in the inspection. We can help you add your recommendations in a clear concise way to make the reader understand the whole matter. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Status Memos</h3>
               <p>
               We can also write status memos for your organization to update team supervisors about a project or a task. You can communicate the details in simple language and we will transform it into a sophisticated and formatted document. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

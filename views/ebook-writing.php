@@ -1160,7 +1160,7 @@
         <div class="thierd-sec-content">
           <h3>Amplify your revenues and conversions with white label content:</h3>
           <p>Writing an exceptional eBook requires creativity coupled with niche expertise and knowledge, and we offer just that. Expand your outreach and build stronger connections to outdo your competitors. </p>
-          <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
         </div>
       </div>
     </div>

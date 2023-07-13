@@ -1641,21 +1641,21 @@
               <p>
               Different occasions call for specific speeches to obtain particular goals. Best man speeches, eulogies, graduation speeches, business speeches, political debates, and celebrity statements, to name some.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Excelling in Every Topic</h3>
               <p>
               Coming from diverse backgrounds, our writers are up to the mark with current events and hold compelling knowledge in the different areas of health, science, sports, religion, politics, arts, technology, etc.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Styling Your Speech with Style</h3>
               <p>
               There are different sets of styles that are conducted depending on the occasion. Some of these are informative, persuasive, motivational, forensic, formal, casual, and intimate.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

@@ -971,7 +971,7 @@
                         the concerned bodies. Their unparalleled capacity to frame your words concisely allows them to
                         communicate your concerns elaborately. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Acceptance and Rejection Letters</h3>
@@ -982,7 +982,7 @@
                         reader’s mind. Our writers opt for a unique approach for every letter promising adequate
                         reactions according to your expectations.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Letters of Condolences</h3>
@@ -992,7 +992,7 @@
                         letters that mirror your emotions in the best possible way. We choose the right words and tone
                         to allow you to express your feelings honestly and concisely. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

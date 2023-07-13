@@ -483,7 +483,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul>
-           <a href="order/" class="btn-theme">Let’s Get Started</a>
+           <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
@@ -722,7 +722,7 @@
         <div class="thierd-sec-content">
           <h3>We follow only one document format:  your file</h3>
           <p>Editing and proofreading take more than one more look-over and read-through; it’s a walk through everything you conveyed and composed in words. It’s not about critiquing the most; it’s about judging the best to polish the finest. </p>
-          <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
         </div>
       </div>
     </div>

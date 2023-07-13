@@ -837,7 +837,7 @@
                   a better way.
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Sports Articles</h3>
@@ -847,7 +847,7 @@
                   their favorite team. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Technological Articles</h3>
@@ -856,7 +856,7 @@
                   the field of science and how things can change in the future. 
                
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>
@@ -878,7 +878,7 @@
               experienced team of SEO writers who have been working in the field for several years. Catering to
               different niches, we know how to write SEO optimized content that sounds natural and converts better. Rest
               assured, you can rely on us!</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           </div>
         </div>
         <div class="col-lg-6">
@@ -1014,7 +1014,7 @@
               <h3>Various Specialised Genres</h3>
               <p>With several years of experience and market knowledge, The Content Maestros has mastered various genres
                 of writing. This has helped us to cater to your most unique requirements easily.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </li>
             <li>
               <figure>
@@ -1023,7 +1023,7 @@
               <h3>Personalised Service</h3>
               <p>At The Content Maestros, we personalise our services to meet your requirements and budgets. Our expert
                 team of writers are ready to take on your project and deliver it in a timely manner.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </li>
             <li>
               <figure>
@@ -1033,7 +1033,7 @@
               <p>We do not believe in ‘one size fits all’ approach. Each project is assigned an account manager who
                 remains in constant communication with you to keep you updated. At The Content Maestros, customer
                 satisfaction is of utmost precedence.</p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </li>
           </ul>
         </div>

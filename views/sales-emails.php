@@ -971,7 +971,7 @@
                         with prospecting emails, you’d want to close your deal with new customers. So, let’s get
                         started! 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Cold Outreach Emails </h3>
@@ -981,7 +981,7 @@
                         immediately impact it.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Sales Pitch Emails</h3>
@@ -991,7 +991,7 @@
                         that.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Follow Up Emails </h3>
@@ -1000,7 +1000,7 @@
                         deliver follow-up emails that will deliver the goods every time.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

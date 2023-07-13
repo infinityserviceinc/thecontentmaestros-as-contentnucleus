@@ -968,35 +968,35 @@
               <p>
               If you already have a hypothesis or an idea that can be discussed in detail, you can opt for a descriptive case study. Here we focus on developing a certain theory by forming a pattern between a subject and that theory. It includes quantitative data and concrete evidence to support its study conclusions.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Explanatory Case Studies</h3>
               <p>
               It explains the cause of an event in your field or business, including trends, advancements, and discussion on newer technologies. It can explain these occurrences' cause, effect, and future predictions. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Exploratory Reports </h3>
               <p>
               Refers to a self-contained paper that anchors the beginning of a large-scale investigation. These reports do not have a definite result, but they can help you kickstart a larger trend or research. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Intrinsic Case Studies</h3>
               <p>
               We can also write intrinsic reports for healthcare, psychology, and non-profit organizations. These papers help the user understand a brand in a better way. Intrinsic case studies can help you spread brand awareness if you have a unique business or service.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Instrumental Case Studies</h3>
               <p>
               These case studies can help you generate leads and provide a base for a larger phenomenon. It can help businesses understand which marketing tool will work best for them.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

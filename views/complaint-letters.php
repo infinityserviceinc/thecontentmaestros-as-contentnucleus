@@ -970,7 +970,7 @@
                         call. We can help you draft brief complaint letters that explain your concerns with zeal and
                         impact. We stay committed to representing you with thoughtful and effective writing. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Complaint Response Letters</h3>
@@ -979,7 +979,7 @@
                         mouth. Our trained wordsmiths know how to turn things in your favor by choosing the right words
                         and a tone that connects with the reader. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Letter of Disappointment</h3>
@@ -989,7 +989,7 @@
                         disappointment. We can draft customized letters that allow you to communicate with clarity and
                         mutual respect. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

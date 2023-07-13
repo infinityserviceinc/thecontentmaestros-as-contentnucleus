@@ -418,7 +418,7 @@
            <h1>Logo Design</h1>
            <p>We are a professional Logo Design Company!</p>
             
-           <a href="order/" class="btn-theme">Let’s Get Started</a>
+           <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
         </div>
       </div>
@@ -710,7 +710,7 @@
         <div class="thierd-sec-content">
           <h3>LOOKING FOR A CUSTOM SOLUTION?</h3>
           <p>When you see a logo, what do you think is just a piece of art? That is where you are wrong, as it is the structure block your organisation needs to build a solid brand personality with. Using a custom logo on different parts of your business, for example, site, packing, social media, label, printed materials, and so on, gets your brand much-needed prominence. A logo becomes memorable when it exceptionally recognises your brand from your competition.</p>
-          <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
         </div>
       </div>
     </div>

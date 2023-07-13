@@ -519,7 +519,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
@@ -1497,21 +1497,21 @@
               <p>
               Is your book about to launch or did it just hit the bookstores? Partner with our expert press release writers today and get the word out and loud. Let the world know that your literary masterpiece has hit the shelves!  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Event Press Release</h3>
               <p>
               An event without publicity is bound to fail. Why take the risk? Hire press release writer and make sure the word about your even gets out. Let the expert writers attract your target audience with their word magic!
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Business Press Release</h3>
               <p>
               Whether you’re launching a new business or expanding it through mergers and partnerships, you need to spread the word. There’s no better way to share your achievement then a powerful press release.  
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

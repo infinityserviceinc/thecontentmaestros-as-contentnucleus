@@ -970,7 +970,7 @@
                         team can help you draft a persuasive LOR highlighting all you offer. We will present you as a
                         valuable addition to the institution allowing you to pursue your dreams
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Character Letter of Recommendation</h3>
@@ -980,7 +980,7 @@
                         the crowd. We can help you create an image that can leave a lasting impression on the people
                         around you. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Employment Letter of Recommendation</h3>
@@ -989,7 +989,7 @@
                         factor to make yourself stand out. Our expert writers can help you highlight your professional
                         achievements offering the hiring managers distinctive reasons to get you on board.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

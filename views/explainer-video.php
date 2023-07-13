@@ -501,7 +501,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul> -->
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
@@ -1083,7 +1083,7 @@
               Using an explainer video can help your company generate leads, reduce bounce rates, foster brand
               awareness, and increase conversions. All from a single piece of high-quality video content. Not a bad
               deal, huh?</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           </div>
         </div>
       </div>

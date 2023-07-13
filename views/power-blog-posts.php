@@ -970,7 +970,7 @@
               The first order of business is for you to share relevant information with us. Our expert writers
                         will dive right into understanding the project.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>The Writing Phase</h3>
@@ -978,7 +978,7 @@
               After we understand what you're looking for, we will proceed with the writing phase. We will keep
                         you in the loop and will also cater to revisions quickly.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Final Result</h3>
@@ -986,7 +986,7 @@
               After you approve the final draft, we will proceed with publishing. All that’s left is for you to
                         wait and witness how your organic reach goes to new heights.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

@@ -967,7 +967,7 @@
                         the power of your products. Spread the word about your brand's excellence with brochures that
                         impact consumer choice. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Capabilities</h3>
@@ -976,7 +976,7 @@
                         designed brochures. Get those 'powerful' capabilities brochures designed for your company and
                         let the world know how your business adds value to their lives. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Trifold/Bifold Brochures</h3>
@@ -986,7 +986,7 @@
                         professional content writing for brochures and effectively educate potential consumers about
                         your business's vision! 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

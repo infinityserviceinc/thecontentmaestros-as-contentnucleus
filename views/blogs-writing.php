@@ -597,7 +597,7 @@
               <li>Limitless revisions</li>
               <li>7+ years of experience</li>
             </ul>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             <a href="tel:+19295667079" class="btn-theme-outline bnr-white-btn">+1-929-566-7079</a>
           </div>
         </div>
@@ -1268,7 +1268,7 @@
                 communities, and attract new customers. We understand the unique needs of businesses and provide
                 them with blogs that can help them increase their sales and visibility. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>News Blogs</h3>
@@ -1277,7 +1277,7 @@
                 about what's happening around the industry. Our seasoned writers keep an eye on everything that
                 happens around us and produce blogs that are informative and engaging for the target audience.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Guest Post Blogs</h3>
@@ -1288,7 +1288,7 @@
                 each platform. We ensure to maintain the quality and credibility of the content to match the
                 content on each platform.
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Marketing Blogs</h3>
@@ -1297,7 +1297,7 @@
                 crucial role in creating hype around a product. Our professional team of writers ensures that
                 each blog is written with a fresh approach to keep the surroundings buzzing. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Lifestyle Blogs</h3>
@@ -1306,7 +1306,7 @@
                 can provide valuable information to people looking for workout routines, tips and tricks. Our
                 writers aim to produce such blogs that can add great value to the lives of the readers. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

@@ -968,35 +968,35 @@
               <p>
               It is a supplemental document that applicants send with their resume or CVs containing all the important information, such as measurable results that increase your match rate with the company. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Company Specific Prospect Letters </h3>
               <p>
               This primary type of cover letter is used to inquire about job openings at a single organization without eyeing a specific designation. We can help you write a letter that aligns your talent with the company’s vision. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Career Change Cover Letters</h3>
               <p>
               We also provide cover letter writing services to individuals transitioning to a new profession or developing a different passion than their previous experiences. Highlighting the skills used in past experiences to show your value for the current job. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Networking Cover Letters </h3>
               <p>
               We can help you build a secure network of contacts with our reader-friendly and compelling networking cover letters. It can help you take advice, get referrals, recommendations, and news about new job openings in your profession. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Email Cover Letters </h3>
               <p>
               We also offer short and crisp email cover letter writing services to send with your resumes and CVs, including a cordial introduction, an elevator pitch, and an excerpt reflecting your value to the recruiter. 
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
           </div>
         </div>

@@ -1076,7 +1076,7 @@
               The medical field keeps advancing every day with new observations, and everyone wants to educate themselves with different medical terminologies. Our SEO writers produce 100% original and factually correct articles to help easily break down medical concepts for lay people. 
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Technological Articles</h3>
@@ -1084,7 +1084,7 @@
               Technology has taken over, and it’s time to familiarize ourselves with the evolving world of tech. Our SEO-driven content marketing team produces top-quality SEO content to help you stay on track with the times.
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">
               <h3>Sports Articles</h3>
@@ -1092,7 +1092,7 @@
               Sports fandom is the best! We have a  team of sports-loving SEO writers who write articles on the sports niche with proper research and due diligence. 
                     
               </p>
-              <a href="order/" class="btn-theme">Let’s Get Started</a>
+              <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
             </div>
             
           </div>

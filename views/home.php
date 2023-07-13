@@ -430,7 +430,7 @@
                       </span> based on 3,543 satisfied customers.
                     </p>
                   </div>
-                  <a href="order/" class="btn-theme">Let’s Get Started</a>
+                  <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
                 </div> -->
                   <div class="banner_left">
                     <h1>Content Writing Agency for
@@ -1163,7 +1163,7 @@
             <p>At The Content Maestros, we work closely with you from the initial stage to the final deliverable. This is to
               ensure we have covered all the necessary requirements of our clients without compromising on quality. Our
               goal is to provide highest quality service and professionalism.</p>
-            <a href="order/" class="btn-theme">Let’s Get Started</a>
+            <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
           </div>
         </div>
       </div>
