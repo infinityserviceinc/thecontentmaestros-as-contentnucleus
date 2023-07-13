@@ -733,7 +733,7 @@
                <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();" style="background:#fff;border-color:#fff;color:#000;">Consult an Expert</a>
                   <a href="tel:+19295667079" class="btn-theme-outline" style="border-color:#fff;color:#fff;"><img class="lazy" alt="" src="images/call-img.webp" style="">+1-929-566-7079</a>
-                  <a href="order/" class="btn-theme" style="background:#fff;border-color:#fff;color:#000;">Get a Quote</a>
+                  <a href="javascript:;" class="btn-theme" style="background:#fff;border-color:#fff;color:#000;" onclick="showPopup()">Get a Quote</a>
                </div>
             </div>
          </div>
@@ -1103,7 +1103,8 @@
                <div class="combo_btn">
                   <a href="javascript:;" class="btn-theme" onclick="setButtonURL();" style="background:#000;border-color:#000;">Consult an Expert</a>
                   <a href="tel:+19295667079" class="btn-theme-outline" style="border-color:#fff;color:#fff;"><img class="lazy" alt="" src="images/call-img.webp" style="">+1-929-566-7079</a>
-                  <a href="order/" class="btn-theme" style="background:#000;border-color:#000;">Get a Quote</a>
+                  <a href="javascript:;" class="btn-theme" style="background:#000;border-color:#000;" onclick="showPopup()">Get a Quote</a>
+                  
                </div>
             </div>
          </div>

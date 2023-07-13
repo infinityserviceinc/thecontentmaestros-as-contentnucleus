@@ -413,7 +413,8 @@
         <div class="trst-rvw">
           <h1>The Content Maestros Cloud documentation</h1>
           <p>The Content Maestros provides Git and Mercurial code management for professional teams</p>
-          <a href="order/" class="btn-theme">Get started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Get started</a>
+          
         </div>
       </div>
     </div>
