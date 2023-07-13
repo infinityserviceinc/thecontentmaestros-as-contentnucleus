@@ -2,7 +2,7 @@
 <?php
 include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 
-$domain = "www.thecontentmaestros.co.uk";
+$domain = "www.thecontentmaestros.com";
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
@@ -24,7 +24,7 @@ $data=array(
     'brief'=>$brief,
     'news'=>$news,
     'route'=>$route,
-    'brand'=>"www.thecontentmaestros.co.uk",
+    'brand'=>"www.thecontentmaestros.com",
     'tag' => $tag,
     'price'=> $price,
     'domain' => $domain
