@@ -1022,6 +1022,14 @@ video.mdn{
 .sec1_main_form.mob{display: none;}
 
 @media only screen and (max-width: 1400px){
+    .form-box-main form textarea {
+        height: 80px !important;
+    }
+    
+    .modal-dialog {
+        margin-top: 0 !important;
+    }
+
 
     .home-banner {
         height: auto;
@@ -1044,6 +1052,27 @@ video.mdn{
 }
 
 @media (max-width: 767px){
+
+    .new_poup_main h2 {
+        font-size: 25px;
+    }
+    
+    .new_poup_main {
+        padding-top: 60px;
+    }
+    
+    button.close {
+        right: 5.5%;
+    }
+    
+    .modal-dialog {
+        margin: 0 auto !important;
+        top: 70px;
+    }
+    
+    div#newPopup {
+        padding-left: 0 !important;
+    }
 
     .badge-dic {
         display: none;
@@ -1189,7 +1218,7 @@ section.introduction-new-sec .wrapper.ltus-hlp-sced a.btn-theme-outline {
 
 .banner_left .combo_img a {
     max-width: 100% !important;
-    flex: 0 0 50%;
+    flex: 0 0 50% !important;
     margin: 0 0 20px 0;
 }
 
@@ -1296,7 +1325,7 @@ section.introduction-new-sec .wrapper.ltus-hlp-sced a.btn-theme-outline {
     }
     
     .combo_img.justify-content-center a {
-        flex: 0 0 50%;
+        flex: 0 0 50% !important;
         max-width: 100% !important;
         text-align: center;
         margin: 0 0 20px 0;
@@ -18291,4 +18320,12 @@ a.btn-theme-outline img {
 .banner_left .combo_img a {
     max-width: 100% !important;
     flex: 0 0 21%;
+}
+
+.introduction-new-sec a.btn-theme-outline {
+    background: #f6dd0c;
+}
+
+.ser-box2 ul {
+    margin: 0;
 }
