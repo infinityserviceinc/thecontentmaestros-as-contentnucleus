@@ -4,36 +4,45 @@
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>       
         <ul class="firstlevel unstyled">
-          <li>
-              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;" class="for-m">+</b>
-              </a>
-              <ul class="dropdown dropdown-03" id="last_nav4">
-                  <li class="first">
-                      <a href="article-writing/"> Article Writing </a>
-                  </li>
-                  <li>
-                      <a href="blogs-writing/"> Blog Writing </a>
-                  </li>
-                  <li>
-                      <a href="microblog-posts/"> Microblog Posts</a>
-                  </li>
-                  <li>
-                      <a href="newsjacking-posts/"> Newsjacking posts</a>
-                  </li>
-                  <li>
-                      <a href="power-blog-posts/"> Power blog posts</a>
-                  </li>
-                  <li>
-                      <a href="magazine-articles/"> Magazine Articles</a>
-                  </li>
-                  <li>
-                      <a href="listicles/"> Listicles</a>
-                  </li>
-              </ul>
-          </li>
-          <li>
+            <li>
               <a href="grant-writing-services/">
                 Grant Writing </a>
+          </li> 
+          <li><a href="business-plan-writing/">Business Plan </a></li>
+          <li><a href="business-proposal/"> Business Proposal</a></li>
+          
+          <li>
+              <a href="javascript:;">Personal Writing<b style="color:#fff;" class="for-m">+</b>
+              </a>
+              <ul class="dropdown dropdown-03">
+                  <li class="first">
+                      <a href="transcription-service/">Transcription service</a>
+                  </li>
+                  <li>
+                      <a href="video-script-writing/">Video Script Writing</a>
+                  </li>
+                  <li>
+                      <a href="bio-writing/">Bio Writing</a>
+                  </li>
+                  <li>
+                      <a href="resume-writing/">Resume Writing</a>
+                  </li>
+                  <li>
+                      <a href="wikipedia-writing/">Wikipedia Writing</a>
+                  </li>
+                  <li>
+                      <a href="complaint-letters/">Complaint Letter Writing Service</a>
+                  </li>
+                  <li>
+                      <a href="recommendation-letters/">Recommendation Letters</a>
+                  </li>
+                  <li>
+                      <a href="cover-letter-writing-services/">Cover Letter</a>
+                  </li>
+                  <li>
+                      <a href="speeches/">Speeches</a>
+                  </li>
+              </ul>
           </li>
           <li>
               <a href="javascript:;">Business Writing<b style="color:#fff;" class="for-m">+</b>
@@ -73,6 +82,33 @@
                   </li>
               </ul>
           </li>
+          <li>
+              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;" class="for-m">+</b>
+              </a>
+              <ul class="dropdown dropdown-03" id="last_nav4">
+                  <li class="first">
+                      <a href="article-writing/"> Article Writing </a>
+                  </li>
+                  <li>
+                      <a href="blogs-writing/"> Blog Writing </a>
+                  </li>
+                  <li>
+                      <a href="microblog-posts/"> Microblog Posts</a>
+                  </li>
+                  <li>
+                      <a href="newsjacking-posts/"> Newsjacking posts</a>
+                  </li>
+                  <li>
+                      <a href="power-blog-posts/"> Power blog posts</a>
+                  </li>
+                  <li>
+                      <a href="magazine-articles/"> Magazine Articles</a>
+                  </li>
+                  <li>
+                      <a href="listicles/"> Listicles</a>
+                  </li>
+              </ul>
+          </li>
           <!-- <li>
               <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
               </a>
@@ -86,39 +122,7 @@
                   </li>
               </ul>
           </li> -->
-          <li>
-              <a href="javascript:;">Personal Writing<b style="color:#fff;" class="for-m">+</b>
-              </a>
-              <ul class="dropdown dropdown-03">
-                  <li class="first">
-                      <a href="transcription-service/">Transcription service</a>
-                  </li>
-                  <li>
-                      <a href="video-script-writing/">Video Script Writing</a>
-                  </li>
-                  <li>
-                      <a href="bio-writing/">Bio Writing</a>
-                  </li>
-                  <li>
-                      <a href="resume-writing/">Resume Writing</a>
-                  </li>
-                  <li>
-                      <a href="wikipedia-writing/">Wikipedia Writing</a>
-                  </li>
-                  <li>
-                      <a href="complaint-letters/">Complaint Letter Writing Service</a>
-                  </li>
-                  <li>
-                      <a href="recommendation-letters/">Recommendation Letters</a>
-                  </li>
-                  <li>
-                      <a href="cover-letter-writing-services/">Cover Letter</a>
-                  </li>
-                  <li>
-                      <a href="speeches/">Speeches</a>
-                  </li>
-              </ul>
-          </li>
+
           <!-- <li>
               <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
               </a>
@@ -199,7 +203,7 @@
                   </li>
               </ul>
           </li> -->
-          <li>
+          <!-- <li>
               <a href="javascript:;">Marketing<b style="color:#fff;" class="for-m">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav2">
@@ -234,7 +238,7 @@
                       <a href="reviews-service/">Reviews</a>
                   </li>
               </ul>
-          </li>
+          </li> -->
           <!-- <li>
               <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
               </a>
@@ -254,7 +258,7 @@
                   </li>
               </ul>
           </li> -->
-          <li>
+          <!-- <li>
               <a href="javascript:;">SEO<b style="color:#fff;" class="for-m">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav2">
@@ -268,7 +272,7 @@
                       <a href="reputation-management/">Reputation Management</a>
                   </li>
               </ul>
-          </li>
+          </li> -->
           <!-- <li>
               <a href="javascript:;">Industries<b style="color:#fff;">+</b>
               </a>
@@ -417,13 +421,6 @@
                       </li>
                       <li>
                           <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
-                      </li>
-                      <li>
-                          <a href="business-proposal/"> Business Proposal</a>
-                      </li>
-                      <li>
-                          <a href="business-plan-writing/">
-                              Business Plan </a>
                       </li>
                       
                       <li>

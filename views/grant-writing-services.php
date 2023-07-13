@@ -862,14 +862,14 @@
                           </div>
                           <ul class="pck-scrl">
                           <li>10+ Pages</li>
-  <li>Title Page and Cover Letter</li>
-  <li>Introduction/Abstract/Summary</li>
-  <li>Standard Support</li>
-  <li>Standard Market Research</li>
-  <li>Marketing Plan</li>
-  <li>3 Years of Financial Projections</li>
-  <li>SWOT Analysis</li>
-  <li>Budget</li>
+                            <li>Title Page and Cover Letter</li>
+                            <li>Introduction/Abstract/Summary</li>
+                            <li>Standard Support</li>
+                            <li>Standard Market Research</li>
+                            <li>Marketing Plan</li>
+                            <li>3 Years of Financial Projections</li>
+                            <li>SWOT Analysis</li>
+                            <li>Budget</li>
                           </ul>
                         </div>
                         <div class="pce-box-2">
@@ -878,7 +878,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -918,7 +918,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -964,7 +964,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1008,7 +1008,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1149,14 +1149,14 @@
   <section class="main-ghst-writng-thierd-sec sec-padding-60 main-gtqu-sec-img">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-5 col-md-6 col-sm-12">
           <div class="thierd-sec-img">
             <figure>
               <img src="../assets/images/services/article-writing/get-quality-articles.png" alt="" />
             </figure>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-7 col-md-6 col-sm-12">
           <div class="contentSlider">
             <div class="thierd-sec-content">
               <h3>Non-Profit Grant</h3>
@@ -1178,12 +1178,7 @@
             </div>
             <div class="thierd-sec-content">
               <h3>Grant Writing For Business</h3>
-              <p>
-              Did you know enterprises with healthcare, housing, research, and other public programs earn
-                        better monetary support? You can draft a persuasive proposal with grant writing services that
-                        pique the stakeholder’s interest in your project, increasing your chances of securing the
-                        funding. 
-              </p>
+              <p>Leverage the power of healthcare, housing, research, and public programs to maximize your project's funding potential. Our grant writing services will craft a compelling proposal that captivates stakeholders and boosts your chances of securing the necessary financial support.</p>
               <a href="order/" class="btn-theme">Let’s Get Started</a>
             </div>
             <div class="thierd-sec-content">

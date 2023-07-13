@@ -866,7 +866,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -893,7 +893,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -920,7 +920,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -952,7 +952,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -979,7 +979,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1006,7 +1006,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1038,7 +1038,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1065,7 +1065,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1092,7 +1092,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1124,7 +1124,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1151,7 +1151,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1178,7 +1178,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1210,7 +1210,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1237,7 +1237,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1264,7 +1264,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1296,7 +1296,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1323,7 +1323,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1350,7 +1350,7 @@
                                 with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk
                                 With Us</a></p>
                           </div>
-                          <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+                          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
                         </div>
                       </div>
                     </div>
@@ -1483,14 +1483,14 @@
   <section class="main-ghst-writng-thierd-sec sec-padding-60 main-buld-img-sec">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-5 col-md-6 col-sm-12">
           <div class="thierd-sec-img">
             <figure>
               <img src="../assets/images/services/press-release/build-your-brand.png" alt="" />
             </figure>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-7 col-md-6 col-sm-12">
           <div class="contentSlider">
             <div class="thierd-sec-content">
               <h3>Book Press Releases </h3>

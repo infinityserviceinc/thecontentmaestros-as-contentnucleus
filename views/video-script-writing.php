@@ -831,7 +831,7 @@
           </div>
         </div>
       </div>
-      <div class="row">
+      <div class="row mt-t">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="prce_box prc-trms-box1">
             <div class="pce-box-1">
@@ -854,12 +854,12 @@
                 <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
                   <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
               </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="prce_box box-prce-trnsfrm">
+          <div class="prce_box prc-trms-box1">
             <div class="pce-box-1">
               <!--<h5 class="clr-heading-2">£330</h5>-->
               <h3>Long White Paper Package</h3>
@@ -880,12 +880,12 @@
                 <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
                   <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
               </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="prce_box prc-trms-box2">
+          <div class="prce_box prc-trms-box1">
             <div class="pce-box-1">
               <!--<h5 class="clr-heading-3">£660</h5>-->
               <h3>Business White Paper Package</h3>
@@ -906,7 +906,7 @@
                 <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a>
                   <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
               </div>
-              <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
             </div>
           </div>
         </div>

@@ -740,7 +740,7 @@
             <div class="main-cht-us">
               <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
-            <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
           </div>
         </div>
       </div>
@@ -767,7 +767,7 @@
             <div class="main-cht-us">
               <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
-            <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
           </div>
         </div>
       </div>
@@ -794,7 +794,7 @@
             <div class="main-cht-us">
               <p><a class="cht-wdht-us" href="javascript:;" onclick="setButtonURL();" target="_self">Chat with Us</a> <a href="tel:+19295667079" class="confused"> <i class="icon-phone2"></i>Talk With Us</a></p>
             </div>
-            <a href="order/" class="btn-main odr-plce">Place Your Order Now</a>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#newPopup">Place Your Order Now</button>
           </div>
         </div>
       </div>

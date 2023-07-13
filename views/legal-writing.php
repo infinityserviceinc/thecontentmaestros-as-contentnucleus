@@ -822,14 +822,14 @@
 <section class="main-ghst-writng-thierd-sec sec-padding-60 main-buld-img-sec">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-5 col-md-6 col-sm-12">
         <div class="thierd-sec-img">
           <figure>
             <img src="../assets/images/services/legal-writing/legal-writing.png" alt="" />
           </figure>
         </div>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-7 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3>The biggest asset in legal writing: the brevity of expression:</h3>
           <p>It is the best of both artistry and wisdom. Our experts are skilled in weaving the specifics, actualities, and stats into the fabric of legal notions and ideas—the effective way to communicate the legal standards to your audience.</p>
