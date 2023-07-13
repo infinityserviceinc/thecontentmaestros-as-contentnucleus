@@ -712,6 +712,21 @@ Test
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"> </script>
 <!-- End of  Zendesk Widget script -->
 
+<script>
+ zE(function() {
+    $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+        if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+            $zopim.livechat.window.show();
+        }
+    })
+});
+
+        zE.activate();
+   
+
+
+</script>
+
 
 <script>
   $(document).ready(function() {
