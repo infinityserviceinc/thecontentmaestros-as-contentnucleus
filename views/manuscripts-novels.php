@@ -295,13 +295,13 @@
                   <input type="text" class="jun"  name="gender" > 
 
                     <div class="row">
-                      <div class="col-lg-6">
+                      <div class="col-lg-12">
                         <div class="fldset">
                           <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                           <i class="fa fa-user" aria-hidden="true"></i>
                         </div>
                       </div>
-                      <div class="col-lg-6">
+                      <!-- <div class="col-lg-6">
                         <div class="fldset flt-slct">
                           <select id="packages" name="Interest" class="valid" aria-invalid="false" >
                               <option value="-1" pack="0">Interest in?</option>
@@ -414,7 +414,7 @@
                             </select>
                           <i class="fa fa-university" aria-hidden="true"></i>
                         </div>
-                      </div>
+                      </div> -->
                       <div class="col-lg-6">
                         <div class="fldset">
                           <input id="cemail" type="email" name="email" placeholder="Enter email here" required>

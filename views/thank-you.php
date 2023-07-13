@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Career Coaching</title>
+    <title>Thank You - Signup</title>
     <?php include_once('includes/head.php');?>
     <style>
         /*=======  Page Title  =======*/

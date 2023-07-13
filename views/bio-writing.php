@@ -288,14 +288,14 @@
                 <input type="text" class="jun" name="gender">
 
                 <div class="row">
-                  <div class="col-lg-6">
+                  <div class="col-lg-12">
                     <div class="fldset">
                       <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name"
                         required />
                       <i class="fa fa-user" aria-hidden="true"></i>
                     </div>
                   </div>
-                  <div class="col-lg-6">
+                  <!-- <div class="col-lg-6">
                     <div class="fldset flt-slct">
                       <select id="packages" name="Interest" class="valid" aria-invalid="false">
                         <option value="-1" pack="0">Interest in?</option>
@@ -465,7 +465,7 @@
                       </select>
                       <i class="fa fa-university" aria-hidden="true"></i>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="col-lg-6">
                     <div class="fldset">
                       <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
@@ -662,6 +662,13 @@
                     <div class="sec1_form">
                         <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
+<input type="hidden" name="route" value="/order/">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
+                  <input type="hidden" name="token" value="282fffff0cad631a048ecf18dd1eb52df1842415111d3168ca2755e891d04ab8">   
+                  <input type="hidden" name="tag" value="sidepanel form in landing-page">
+                  <input type="hidden" name="price" value="null">
+                  <input type="hidden" name="news" value="1">
+                  <input type="text" class="jun" name="gender">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
@@ -678,6 +685,13 @@
                     <div class="sec1_form">
                         <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
+<input type="hidden" name="route" value="/order/">   
+                  <input type="hidden" name="brand" value="thecontentmaestros">   
+                  <input type="hidden" name="token" value="282fffff0cad631a048ecf18dd1eb52df1842415111d3168ca2755e891d04ab8">   
+                  <input type="hidden" name="tag" value="sidepanel form in landing-page">
+                  <input type="hidden" name="price" value="null">
+                  <input type="hidden" name="news" value="1">
+                  <input type="text" class="jun" name="gender">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
