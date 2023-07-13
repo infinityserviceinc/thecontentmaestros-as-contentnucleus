@@ -10,29 +10,11 @@
 <meta name="robots" content="noindex" />
 <link rel="canonical" href="order/" />
 
-
-
-
-
-
 <?php include_once("includes/head.php") ?>
 
-
-
-
-
-
-
-
 </head>
+
 <body class="order-page ordrpage">
-
-
-
-
-
-
-
 
 <section class="tphead">
   <div class="container">
@@ -46,15 +28,12 @@
       </div>
       <div class="col-lg-9  ord-box2">
         <div class="text-right">
-          <a href="/"><span class="icon-x-square"></span></a>
+          <a href=""><span class="icon-x-square"></span></a>
         </div>
       </div>
     </div>
   </div>
 </section>
-
-
-
 
 <div class="slider-wrapper black">
   <section class="">

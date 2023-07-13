@@ -958,14 +958,14 @@
   <section class="main-ghst-writng-thierd-sec sec-padding-60 main-gtqu-sec-img">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-5 col-md-6 col-sm-12">
           <div class="thierd-sec-img">
             <figure>
               <img src="../assets/images/services/article-writing/get-quality-articles.png" alt="" />
             </figure>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-7 col-md-6 col-sm-12">
           <div class="contentSlider">
             <div class="thierd-sec-content">
               <h3>Complaint Letters</h3>

@@ -702,7 +702,7 @@
   </div>
 </section>
 
-<section class="main-ghst-writng-thierd-sec sec-padding-60 main-cont-img-sec">
+<section class="">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12">

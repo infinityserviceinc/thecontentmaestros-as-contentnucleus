@@ -826,14 +826,14 @@
 <section class="main-ghst-writng-thierd-sec sec-padding-60 main-buld-img-sec">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-5 col-md-6 col-sm-12">
         <div class="thierd-sec-img">
           <figure>
             <img src="../assets/images/services/proposals/proposal-writing.png" alt="" />
           </figure>
         </div>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-7 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3>Raising the capital of your business to new levels:</h3>
           <p>From well-incorporated business insights to catering prospects’ demands, our business proposals will surely get you the contracts and partnerships you always wanted. </p>

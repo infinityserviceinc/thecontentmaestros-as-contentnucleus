@@ -701,14 +701,14 @@
 <section class="main-ghst-writng-thierd-sec sec-padding-60 main-cont-img-sec">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-5 col-md-6 col-sm-12">
         <div class="thierd-sec-img">
           <figure>
             <img src="../assets/images/services/blog-writing/informative-pieces-that.png" alt="" />
           </figure>
         </div>
       </div>
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-7 col-md-6 col-sm-12">
         <div class="thierd-sec-content">
           <h3>LOOKING FOR A CUSTOM SOLUTION?</h3>
           <p>When you see a logo, what do you think is just a piece of art? That is where you are wrong, as it is the structure block your organisation needs to build a solid brand personality with. Using a custom logo on different parts of your business, for example, site, packing, social media, label, printed materials, and so on, gets your brand much-needed prominence. A logo becomes memorable when it exceptionally recognises your brand from your competition.</p>
