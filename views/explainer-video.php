@@ -54,11 +54,7 @@
 
 
 
-  <noscript>
-    <div id="jqcheck"><img
-        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII="
-        alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
-  </noscript>
+  
 
   <div class="ys-layer"></div>
 
@@ -1098,9 +1094,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg" width="646" height="466"
         alt="Adzerk" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/byCpNCpw.jpeg" width="646" height="466"
-          alt="Adzerk" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/76o9g1diqj" rel="nofollow"
           class="color-blanco">
@@ -1115,9 +1109,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg" width="646" height="466"
         alt="Recognize" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/w9huWJg0.jpeg" width="646" height="466"
-          alt="Recognize" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/hrtpo9j52i" rel="nofollow"
           class="color-blanco">
@@ -1132,9 +1124,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg" width="646" height="466"
         alt="Remind" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/6Zlno3q4.jpeg" width="646" height="466"
-          alt="Remind" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/gzzdmoxvgs" rel="nofollow"
           class="color-blanco">
@@ -1149,9 +1139,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg" width="646" height="466"
         alt="Fonoa" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/A8DbAItA.jpeg" width="646" height="466"
-          alt="Fonoa" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/dm2qu7lnii" rel="nofollow"
           class="color-blanco">
@@ -1166,9 +1154,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg" width="646" height="466"
         alt="Accelerant" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/nkq62xDE.jpeg" width="646" height="466"
-          alt="Accelerant" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/o489sge8h2" rel="nofollow"
           class="color-blanco">
@@ -1183,9 +1169,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg" width="646" height="466"
         alt="Built in" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/sYY7n4M4.jpeg" width="646" height="466"
-          alt="Built in" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/7gdqwq45fw" rel="nofollow"
           class="color-blanco">
@@ -1200,9 +1184,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg" width="646" height="466"
         alt="Law-whiz 1" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/Pui34ULk.jpeg" width="646" height="466"
-          alt="Law-whiz 1" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/by40cyxpv7" rel="nofollow"
           class="color-blanco">
@@ -1217,9 +1199,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg" width="646" height="466"
         alt="Carely" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/K3BpXaPg.jpeg" width="646" height="466"
-          alt="Carely" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/p4m4idfctx" rel="nofollow"
           class="color-blanco">
@@ -1234,9 +1214,7 @@
     <div class="hover-zoom-img hover-zoom-div col-sm-4 padding0"><img
         src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg" width="646" height="466"
         alt="ChargeBee 1" data-lazy-src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg"
-        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-          src="https://m8q6g7v5.rocketcdn.me/wp-content/uploads/2022/02/YUwURMnc.jpeg" width="646" height="466"
-          alt="ChargeBee 1" /></noscript>
+        data-ll-status="loaded" class="entered lazyloaded">
       <div class="work1"></div>
       <div class="text"><a data-lity="" href="https://fast.wistia.net/embed/iframe/na6foqfhp4" rel="nofollow"
           class="color-blanco">

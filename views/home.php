@@ -7,12 +7,6 @@
   <meta name="keywords" content="Content creation agency | Content writing services | The Content Maestros uk">
   <meta name="description"
     content="The Content Maestros is a UK-based content creation agency  in Hemel Hempstead, Hertfordshire with a considerable experience in content writing services, editing, copywriting, and proofreading services.">
-  <link rel="canonical" href="/" />
-
-
-
-
-
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Professional The Content Maestros Services in USA | The Content Maestros" />
   <meta name="twitter:description"
@@ -20,11 +14,6 @@
   <meta name="twitter:site" content="@thecontentmaestros" />
   <meta name="twitter:image" content="https://thecontentmaestros.com/assets/images/logo.png " />
   <meta name="twitter:url" content="index/" />
-
-
-
-
-
   <meta property="og:title" content="Professional The Content Maestros Services in USA | The Content Maestros" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content=" https://thecontentmaestros.co.uk" />
@@ -41,11 +30,7 @@
 
 
 
-  <noscript>
-    <div id="jqcheck"><img
-        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII="
-        alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
-  </noscript>
+  
 
   <?php include_once("includes/header.php") ?>
 
@@ -1424,7 +1409,7 @@
             completed quickly and efficiently. We guarantee profitability where you do not have to worry about ROI. The
             results will speak itself. Contact us today!</p>
           <h5>Facing trouble? <a href="javascript:;" onclick="setButtonURL();">Consult with our strategist</a></h5>
-          <a href="order/" class="btn-theme">Let’s Get Started</a>
+          <a href="javascript:;" class="btn-theme" onclick="showPopup()">Let’s Get Started</a>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div>
