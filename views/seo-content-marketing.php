@@ -1142,7 +1142,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why Choose Us</h3>
+            <h3>Why choose us ?</h3>
             <p>Demonstrating dynamism in various industries, we provide you with tailored SEO services that align well
               with your business needs. </p>
           </div>

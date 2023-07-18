@@ -660,13 +660,8 @@
                     <div class="sec1_form">
                         <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
-<input type="hidden" name="route" value="/order/">   
-                  <input type="hidden" name="brand" value="thecontentmaestros">   
-                  <input type="hidden" name="token" value="282fffff0cad631a048ecf18dd1eb52df1842415111d3168ca2755e891d04ab8">   
-                  <input type="hidden" name="tag" value="sidepanel form in landing-page">
-                  <input type="hidden" name="price" value="null">
-                  <input type="hidden" name="news" value="1">
-                  <input type="text" class="jun" name="gender">
+
+                 
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
@@ -683,13 +678,6 @@
                     <div class="sec1_form">
                         <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                         <form action="/leads/" method="POST">
-<input type="hidden" name="route" value="/order/">   
-                  <input type="hidden" name="brand" value="thecontentmaestros">   
-                  <input type="hidden" name="token" value="282fffff0cad631a048ecf18dd1eb52df1842415111d3168ca2755e891d04ab8">   
-                  <input type="hidden" name="tag" value="sidepanel form in landing-page">
-                  <input type="hidden" name="price" value="null">
-                  <input type="hidden" name="news" value="1">
-                  <input type="text" class="jun" name="gender">
                             <input type="text" name="name" placeholder="Full Name" required="">
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
@@ -846,14 +834,14 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">
           <div class="pricing-hme-content prss-leass">
-            <ul class="nav nav-pills">
+            <!-- <ul class="nav nav-pills">
               <li><a data-toggle="pill" href="#service1" class="active show">General News</a></li>
               <li><a data-toggle="pill" href="#service2" class="">Launch Release</a></li>
               <li><a data-toggle="pill" href="#service3" class="">Executive, Staff and Employees </a></li>
               <li><a data-toggle="pill" href="#service4" class="">Event Press Release</a></li>
               <li><a data-toggle="pill" href="#service5" class="">Expert Position</a></li>
               <li><a data-toggle="pill" href="#service6" class="">Product Press Release</a></li>
-            </ul>
+            </ul> -->
             <div class="tab-content pricingboxes pcrc">
               <div id="service1" class="tab-pane active">
                 <div class="portfolio-box">
@@ -1562,7 +1550,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us?</h3>
+            <h3>Why choose us ?</h3>
             <p>The reporters are only up for crisp press releases, and we make sure not to dissuade anyone of them.</p>
           </div>
         </div>

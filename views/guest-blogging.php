@@ -993,7 +993,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="wy-chseus-heading">
-          <h3>Why choose us?</h3>
+          <h3>Why choose us ?</h3>
           <p>If you are struggling with increasing visitors or limping along to make them customers, let our guest bloggers generate business for you</p>
         </div>
       </div>

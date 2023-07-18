@@ -38,7 +38,11 @@
 <meta property="og:site_name" content="@thecontentmaestros"/>
 <meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png"/>
                 
-                    
+<style>
+  .nav-area-full {
+    background-color: #000;
+  }
+</style>                    
                     
 
 </head>
@@ -423,15 +427,15 @@
 
       <ul>
 
-        <li>The information we collect helps us better serve your individual needs.</li>
+        <li><p>The information we collect helps us better serve your individual needs.</p></li>
 
-        <li>Based on the information and feedback we receive from you - we continually strive to improve our website offerings .</li>
+        <li><p>Based on the information and feedback we receive from you - we continually strive to improve our website offerings .</p></li>
 
-        <li>To enable us effectively respond to your customer service requests and support needs.</li>
+        <li><p>To enable us effectively respond to your customer service requests and support needs.</p></li>
 
-        <li>To use your provided email address to send you information, respond to inquiries, and/or other requests or questions.</li>
+        <li><p>To use your provided email address to send you information, respond to inquiries, and/or other requests or questions.</p></li>
 
-        <li>We assure you that your provided information (public or private) will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the expressed purpose of delivering the purchased product or service requested.</li>
+        <li><p>We assure you that your provided information (public or private) will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the expressed purpose of delivering the purchased product or service requested.</p></li>
 
       </ul>
 

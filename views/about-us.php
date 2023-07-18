@@ -396,7 +396,7 @@
                                     <div class="rap-up">
                                         <h4>Expanded Worldwide</h4>
                                         <span>2019</span>
-                                        <p>Services were expanded by Content Book Writing to across the Seven Seas, with the number of satisfied clients rapidly increasing and bringing in their referrals as well.
+                                        <p>Services were expanded by The Content Maestros to across the Seven Seas, with the number of satisfied clients rapidly increasing and bringing in their referrals as well.
                                         </p>
                                     </div>
                                 </div>
@@ -406,7 +406,7 @@
                                     <div class="rap-up">
                                         <h4>500 Clients Benchmark</h4>
                                         <span>2016</span>
-                                        <p>Secured the 500th client! Content Book Writing managed to retain up to 500 satisfied clients, with an aim to progress further.
+                                        <p>Secured the 500th client! The Content Maestros managed to retain up to 500 satisfied clients, with an aim to progress further.
                                         </p>
                                     </div>
                                 </div>
@@ -416,7 +416,7 @@
                                     <div class="rap-up">
                                         <h4>Addition In Team</h4>
                                         <span>2013</span>
-                                        <p>Content Book Writing manages to incorporate some of the best digital marketers and influencers from the whole wide world in its team to enhance their Content related services.
+                                        <p>The Content Maestros manages to incorporate some of the best digital marketers and influencers from the whole wide world in its team to enhance their Content related services.
                                         </p>
                                     </div>
                                 </div>
@@ -426,7 +426,7 @@
                                     <div class="rap-up">
                                         <h4>How We Started</h4>
                                         <span>2010</span>
-                                        <p>A small team of enthusiastic writers with a common aim for providing quality content for Content Marketing purposes joined hands together, to lead the way for one of the best content writing agencies in the world namely Content Book Writing.
+                                        <p>A small team of enthusiastic writers with a common aim for providing quality content for Content Marketing purposes joined hands together, to lead the way for one of the best content writing agencies in the world namely The Content Maestros.
                                         </p>
                                     </div>
                                 </div>
@@ -657,14 +657,14 @@
                 </div>
                 <div class="col-md-4">
                 <h1><strong>CEO's</strong> <br> <span>Message</span></h1>
-                <p>Building this organization from scratch was not an easy task, but I can say, as the Chief Executive Officer (CEO) of Content Book Writing; that it was due to the efforts of our hard working team that we have managed to achieve this feat of being one of the best content writing services in the world.
+                <p>Building this organization from scratch was not an easy task, but I can say, as the Chief Executive Officer (CEO) of The Content Maestros; that it was due to the efforts of our hard working team that we have managed to achieve this feat of being one of the best content writing services in the world.
                 </p>
                 <p>Content Marketing is one of the most effective ways to enhance the online presence of your brand, and helps you in increasing your lead generation as well. 
                 </p>
                 </div>
                 <div class="col-md-4">
                 <p>
-                    If your online presence is weak, then you cannot hope to make an impact in today’s digital world. This is why, we at Content Book Writing grouped together to provide quality content services to brands and businesses looking to enhance their online presence.
+                    If your online presence is weak, then you cannot hope to make an impact in today’s digital world. This is why, we at The Content Maestros grouped together to provide quality content services to brands and businesses looking to enhance their online presence.
                     <br>
                 Quality content is something that not every agency can provide you, especially in today’s time when there are plenty of copywriters available who are willing to deliver you quality work. We are working as a reputed and established agency which guarantees to deliver what it promises.
                 <!--<a class="ceo-read-more" style="color: #14cfb6;cursor: pointer;"> &nbsp; Read more ></a>-->
@@ -735,7 +735,7 @@
                     <div class="col-md-6">
                         <br>
 
-                        <p>Content Book Writing is currently one of the most reliable agencies in the world as far as Content Writing services are concerned, but this feat was not easy to achieve. We started out as a small team of writers who had to work their way to the top. Now we are a team of over 50+ writers and we are successfully catering to clients all over the globe. We started working in Content Marketing when the trend has just newly emerged and entered the markets. Now you can see that Content Marketing has become the new norm and everywhere there is an abundance of Content Writers spinning out content and helping business engage in Digital Marketing.</p>
+                        <p>The Content Maestros is currently one of the most reliable agencies in the world as far as Content Writing services are concerned, but this feat was not easy to achieve. We started out as a small team of writers who had to work their way to the top. Now we are a team of over 50+ writers and we are successfully catering to clients all over the globe. We started working in Content Marketing when the trend has just newly emerged and entered the markets. Now you can see that Content Marketing has become the new norm and everywhere there is an abundance of Content Writers spinning out content and helping business engage in Digital Marketing.</p>
 
                         <h2>Spread Out Across The Globe…</h2>
                         <p>We are now successfully catering to clients not just from a particular state, country or continent, but our services now extend the seven seas. You could be near the Atlantic or the Pacific; you can find us for your help! We do not only cater to clients from one particular area, but we make sure that our services are available everywhere. </p>
@@ -746,7 +746,7 @@
                         <p>Our team of content writers is also from diverse backgrounds and they have the vast pool of knowledge that you as a client would need to churn out some gripping content. You can have us write on Fashion or Retail or Medical, our team has a writer for every field. We have diversified our team so that we can manage all kinds of content related requests. </p>
 
                         <p>Not only content writers, we have also hired Digital Marketers who know what kind of content is required to help business reach their Digital marketing goals. Why else would a company opt to buy content if it is not in line with SEO requirements or is not structured according to Digital marketing requirements?</p>
-                        <p>With Content Book Writing however, you can get custom content just as you want! You can even get free online consultancy so that you can learn more about how you can start engaging in Content marketing with our help!</p>
+                        <p>With The Content Maestros however, you can get custom content just as you want! You can even get free online consultancy so that you can learn more about how you can start engaging in Content marketing with our help!</p>
                     </div>
 
                 </div>

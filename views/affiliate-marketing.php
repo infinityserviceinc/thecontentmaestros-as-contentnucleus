@@ -1026,7 +1026,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
+            <h3>Why choose us ?</h3>
             <p>Read. Review. Repeat-- our game plan for your business booster:</p>
           </div>
         </div>
@@ -1385,7 +1385,7 @@ Certifications</h3>
 
                           <div class="col-md-12">
                             <label class="field-txt">Additional Comments <span>*</span></label>
-                            <textarea name="Comment" placeholder="Enter message here" /></textarea>
+                            <textarea name="Comment" placeholder="Enter message here"></textarea>
                           </div>
                           <div class="col-md-12">
                             <input class="btn-theme" type="submit" value="Submit" />

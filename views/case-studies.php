@@ -824,7 +824,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us?</h3>
+            <h3>Why choose us ?</h3>
             <p>A case study without reader value, it just another narration and boast of business success.</p>
           </div>
         </div>

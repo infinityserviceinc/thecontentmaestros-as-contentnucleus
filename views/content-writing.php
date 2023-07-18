@@ -906,7 +906,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="wy-chseus-heading">
-          <h3>Why choose us</h3>
+          <h3>Why choose us ?</h3>
           <p>Plan, produce and personalise—the prowess of our content gurus.</p>
         </div>
       </div>

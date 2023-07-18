@@ -53,7 +53,7 @@
                           Newsletter Writing</a>
                   </li>
                   <li>
-                      <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
+                      <a href="whitepaper-writing-service/"> Whitepaper Writing Service</a>
                   </li>                  
                   
                   <li>
@@ -110,7 +110,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
+              <a href="javascript:;">Editing Service<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -124,7 +124,7 @@
           </li> -->
 
           <!-- <li>
-              <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
+              <a href="javascript:;">Digital Solution<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav3">
                   <li class="first">
@@ -159,7 +159,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Design<b style="color:#fff;">+</b>
+              <a href="javascript:;">Design<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav1">
                   <li class="first">
@@ -240,7 +240,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
+              <a href="javascript:;">Social Media<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav1">
                   <li class="first">
@@ -274,7 +274,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Industries<b style="color:#fff;">+</b>
+              <a href="javascript:;">Industries<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav3">
                   <li class="first">
@@ -301,7 +301,7 @@
       </li>
       <!-- <li><a href="http://thecontentmaestros.com/pricing">Pricing</a></li> -->
       <li><a href="testimonials/">Testimonials</a></li>
-      <li><a href="faq/">Faq</a></li>
+      <li><a href="faq/">FAQ's</a></li>
       <li><a href="about-us/">About</a></li>
       <!-- <li><a href="http://thecontentmaestros.com/contact">Contact</a></li> -->
     </ul>
@@ -330,7 +330,7 @@
               <a href="services/" class="menuside">Services</a></li>            
             <!-- <li class=""><a href="http://thecontentmaestros.com/pricing">Pricing</a></li> -->
             <li class=""><a href="testimonials/">Testimonials</a></li>
-            <li class=""><a href="faq/">Faq</a></li>
+            <li class=""><a href="faq/">FAQ's</a></li>
             <li class=""><a href="about-us/" class="menuside">About</a></li>
             <!-- <li class=""><a href="http://thecontentmaestros.com/contact">Contact </a></li> -->
           </ul>
@@ -412,7 +412,7 @@
               <li><a href="business-plan-writing/">Business Plan </a></li>
               <li><a href="business-proposal/"> Business Proposal</a></li>
               <li>
-                  <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Business Writing<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li>
@@ -420,7 +420,7 @@
                               Newsletter Writing</a>
                       </li>
                       <li>
-                          <a href="whitepaper-writing-service/">Whitepaper Writing Service</a>
+                          <a href="whitepaper-writing-service/"> Whitepaper Writing Service</a>
                       </li>
                       
                       <li>
@@ -450,11 +450,11 @@
                   </ul>
               </li>
               <li>
-                  <a href="javascript:;">Personal Writing<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Personal Writing<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li class="first">
-                          <a href="transcription-service/">Transcription service</a>
+                          <a href="transcription-service/">Transcription Service</a>
                       </li>
                       <li>
                           <a href="video-script-writing/">Video Script Writing</a>
@@ -483,7 +483,7 @@
                   </ul>
               </li>
               <li>
-                  <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;">+</b>
+                  <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav4">
                       <li class="first">
@@ -512,7 +512,7 @@
               
               
               <!-- <li>
-                  <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Editing Service<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03">
                       <li class="first">
@@ -528,7 +528,7 @@
              
               
               <!-- <li>
-                  <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Digital Solution<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav3">
                       <li class="first">
@@ -563,7 +563,7 @@
                   </ul>
               </li> -->
               <!-- <li>
-                  <a href="javascript:;">Design<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Design<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav1">
                       <li class="first">
@@ -608,7 +608,7 @@
                   </ul>
               </li> -->
               <!-- <li>
-                  <a href="javascript:;">Marketing<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Marketing<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="mid_nav2">
                       <li class="first">
@@ -644,7 +644,7 @@
                   </ul>
               </li> -->
               <!-- <li>
-                  <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Social Media<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav1">
                       <li class="first">
@@ -663,7 +663,7 @@
                   </ul>
               </li> -->
               <!-- <li>
-                  <a href="javascript:;">SEO<b style="color:#fff;">+</b>
+                  <a href="javascript:;">SEO<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav2">
                       <li class="first">
@@ -678,7 +678,7 @@
                   </ul>
               </li>               -->
               <!-- <li>
-                  <a href="javascript:;">Industries<b style="color:#fff;">+</b>
+                  <a href="javascript:;">Industries<b style="color:#fff;margin-left: 7px;">+</b>
                   </a>
                   <ul class="dropdown dropdown-03" id="last_nav3">
                       <li class="first">
@@ -721,7 +721,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="services/">Services</a></li>
         <li><a href="testimonials/">Testimonials</a></li>
-        <li><a href="faq/">Faq</a></li>
+        <li><a href="faq/">FAQ's</a></li>
         <li><a href="about-us/">About</a></li>
       </ul>
     </nav>
@@ -752,7 +752,7 @@
       </ul> -->
         <ul class="firstlevel unstyled">
           <li>
-              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;">+</b>
+              <a href="javascript:;">Articles &amp; Blogs <b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav4">
                   <li class="first">
@@ -779,26 +779,23 @@
               </ul>
           </li>
           <li>
-              <a href="grant-writing-services">
-                Grant Writing </a>
+              <a href="grant-writing-services"> Grant Writing </a>
           </li>
           <li>
-              <a href="javascript:;">Business Writing<b style="color:#fff;">+</b>
+              <a href="javascript:;">Business Writing<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li>
-                      <a href="newsletter-writing">
-                          Newsletter Writing</a>
+                      <a href="newsletter-writing"> Newsletter Writing</a>
                   </li>
                   <li>
-                      <a href="whitepaper-writing-service">Whitepaper Writing Service</a>
+                      <a href="whitepaper-writing-service"> Whitepaper Writing Service</a>
                   </li>
                   <li>
                       <a href="business-proposal"> Business Proposal</a>
                   </li>
                   <li>
-                      <a href="business-plan-writing">
-                          Business Plan </a>
+                      <a href="business-plan-writing"> Business Plan </a>
                   </li>
                   
                   <li>
@@ -820,15 +817,15 @@
                       <a href="customer-letters"> Customer Letters</a>
                   </li>
                   <li>
-                      <a href="memo-writing-services">Memo Writing Services</a>
+                      <a href="memo-writing-services"> Memo Writing Services</a>
                   </li>
                   <li>
-                      <a href="professional-case-study-writing-service">Case Study</a>
+                      <a href="professional-case-study-writing-service"> Case Study</a>
                   </li>
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Editing Service<b style="color:#fff;">+</b>
+              <a href="javascript:;">Editing Service<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
@@ -841,40 +838,40 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Personal Writing<b style="color:#fff;">+</b>
+              <a href="javascript:;">Personal Writing<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03">
                   <li class="first">
-                      <a href="transcription-service">Transcription service</a>
+                      <a href="transcription-service"> Transcription service</a>
                   </li>
                   <li>
-                      <a href="video-script-writing">Video Script Writing</a>
+                      <a href="video-script-writing"> Video Script Writing</a>
                   </li>
                   <li>
-                      <a href="bio-writing">Bio Writing</a>
+                      <a href="bio-writing"> Bio Writing</a>
                   </li>
                   <li>
-                      <a href="resume-writing">Resume Writing</a>
+                      <a href="resume-writing"> Resume Writing</a>
                   </li>
                   <li>
-                      <a href="wikipedia-writing">Wikipedia Writing</a>
+                      <a href="wikipedia-writing"> Wikipedia Writing</a>
                   </li>
                   <li>
-                      <a href="complaint-letters">Complaint Letter Writing Service</a>
+                      <a href="complaint-letters"> Complaint Letter Writing Service</a>
                   </li>
                   <li>
-                      <a href="recommendation-letters">Recommendation Letters</a>
+                      <a href="recommendation-letters"> Recommendation Letters</a>
                   </li>
                   <li>
-                      <a href="cover-letter-writing-services">Cover Letter</a>
+                      <a href="cover-letter-writing-services"> Cover Letter</a>
                   </li>
                   <li>
-                      <a href="speeches">Speeches</a>
+                      <a href="speeches"> Speeches</a>
                   </li>
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Digital Solution<b style="color:#fff;">+</b>
+              <a href="javascript:;">Digital Solution<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav3">
                   <li class="first">
@@ -909,7 +906,7 @@
               </ul>
           </li> -->
           <!-- <li>
-              <a href="javascript:;">Design<b style="color:#fff;">+</b>
+              <a href="javascript:;">Design<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav1">
                   <li class="first">
@@ -954,7 +951,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">Marketing<b style="color:#fff;">+</b>
+              <a href="javascript:;">Marketing<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="mid_nav2">
                   <li class="first">
@@ -990,7 +987,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Social Media<b style="color:#fff;">+</b>
+              <a href="javascript:;">Social Media<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav1">
                   <li class="first">
@@ -1009,7 +1006,7 @@
               </ul>
           </li> -->
           <li>
-              <a href="javascript:;">SEO<b style="color:#fff;">+</b>
+              <a href="javascript:;">SEO<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav2">
                   <li class="first">
@@ -1024,7 +1021,7 @@
               </ul>
           </li>
           <!-- <li>
-              <a href="javascript:;">Industries<b style="color:#fff;">+</b>
+              <a href="javascript:;">Industries<b style="color:#fff;margin-left: 7px;">+</b>
               </a>
               <ul class="dropdown dropdown-03" id="last_nav3">
                   <li class="first">

@@ -687,11 +687,7 @@
                 <h3>Sign up with The Content Maestros to Avail Our Exclusive Discounts</h3>
                 <form action="/leads/" method="POST">
 <input type="hidden" name="route" value="/order/">   
-                  <input type="hidden" name="brand" value="thecontentmaestros">   
-                  <input type="hidden" name="token" value="282fffff0cad631a048ecf18dd1eb52df1842415111d3168ca2755e891d04ab8">   
-                  <input type="hidden" name="tag" value="sidepanel form in landing-page">
-                  <input type="hidden" name="price" value="null">
-                  <input type="hidden" name="news" value="1">
+                  
                   <input type="text" name="name" placeholder="Full Name" required="">
                   <input type="email" name="email" placeholder="Email" required="">
                   <input type="number" name="phone" placeholder="Phone Number" required="">
@@ -1233,7 +1229,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
+            <h3>Why choose us ?</h3>
             <p>Read. Review. Repeat-- our game plan for your business booster:</p>
           </div>
         </div>

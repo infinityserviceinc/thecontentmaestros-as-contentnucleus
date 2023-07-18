@@ -523,6 +523,8 @@ ul.dropdown li a::before{
     position: relative;
     width: 8px;
     height: 8px;
+    left: -4px;
+    top: 3px;
 }
 
 .header-main.showmenu .main-menu>ul>li>a,
@@ -10509,6 +10511,7 @@ _:future,
     font-weight: 500;
     font-size: 44px;
     letter-spacing: -1px;
+    margin-bottom: 100px;
 }
 
 .team-content p,
@@ -12602,7 +12605,7 @@ input.btn-theme {
 .prce_box.box-prce-trnsfrm {
     transform: scale(1.5);
     z-index: 9;
-    margin: 15px 55px;
+    margin: 15px 63px;
     overflow: hidden;
 }
 
@@ -12613,13 +12616,13 @@ input.btn-theme {
     font-weight: bold;
     vertical-align: middle;
     padding: 7px 10px;
-    text-indent: -15px;
+    text-indent: -22px;
     display: block;
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    height: 35px;
-    width: 180px;
+    height: 31px;
+    width: 162px;
     background-color: red;
     position: absolute;
     border: 2px solid #b70000;
@@ -12716,7 +12719,7 @@ h5.clr-heading-3 {
 .box-prce-trnsfrm.prce_box .growth p,
 .prc-trms-box1.prce_box .growth p,
 .prc-trms-box2.prce_box .growth p {
-    font-size: 10.5px;
+    font-size: 12.5px;
 }
 
 .mntly-heading {
@@ -15595,7 +15598,7 @@ h2.atle-qunti {
     }
 
     .slider-wrapper.black.non-mar .home-banner {
-        height: 980px !important;
+        height: 730px !important;
     }
 
     .built-sec {
@@ -16291,7 +16294,7 @@ h2.atle-qunti {
     }
 
     .slider-wrapper.black.non-mar .home-banner {
-        height: 900px !important;
+        height: 730px !important;
     }
 
     .main-wtn-sec ul {

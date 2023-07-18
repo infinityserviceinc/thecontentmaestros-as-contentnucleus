@@ -1073,7 +1073,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
+            <h3>Why choose us ?</h3>
             <p>Your blog establishes brand identity, and we make sure you get a reputable one.</p>
           </div>
         </div>

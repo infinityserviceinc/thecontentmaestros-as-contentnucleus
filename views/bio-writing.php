@@ -30,7 +30,11 @@
     content="Are you looking for an expert skilled at white papers writing? CC can help you! Establish authority and generate leads with effective white papers content." />
   <meta property="og:site_name" content="@thecontentmaestros" />
   <meta property="og:image" content="https://thecontentmaestros.com/assets/images/logo.png" />
-
+  <style>
+    .info-content h3{
+      margin-bottom: 100px;
+    }
+  </style>
 
 </head>
 
@@ -1120,7 +1124,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
+            <h3>Why choose us ?</h3>
             <p>White papers are often underutilised, but once created well they wholly effective marketing toolkit. </p>
           </div>
         </div>

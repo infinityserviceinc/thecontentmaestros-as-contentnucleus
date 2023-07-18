@@ -1607,7 +1607,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="wy-chseus-heading">
-            <h3>Why choose us</h3>
+            <h3>Why choose us ?</h3>
             <p>We ensure that every second spent by the user is a time well-spent to become your customer.</p>
           </div>
         </div>

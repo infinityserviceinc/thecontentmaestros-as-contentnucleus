@@ -756,7 +756,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div class="wy-chseus-heading">
-          <h3>Why choose us</h3>
+          <h3>Why choose us ?</h3>
           <p>Quick rewrite, or an extensive edit, leave the itsy bitsy details to us</p>
         </div>
       </div>
