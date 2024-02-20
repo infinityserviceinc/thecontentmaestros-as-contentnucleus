@@ -564,12 +564,12 @@
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
+                            <div style="bottom: 5px;position: absolute;">
+                            <input style="height: auto; width: auto;" type="checkbox" id="" name="" value="1" required>
+                            <label for="terms">I have read and agree to the <a href="/terms-and-conditions/">terms of service</a></label>
+                            </div>
                         </form>
-                        <p class="mt-3">
-                          <input type="checkbox" id="" name="" value="1" required>
-
-                             <label for="terms">I have read and agree to the terms of service</label>
-                            </p>
+                        
                     </div>
                 </div>
             </div>
@@ -592,12 +592,12 @@
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
+                            <div style="bottom: 5px;position: absolute;">
+                            <input style="height: auto; width: auto;" type="checkbox" id="" name="" value="1" required>
+                            <label for="terms">I have read and agree to the <a href="/terms-and-conditions/">terms of service</a></label>
+                            </div>
                         </form>
-                        <p class="mt-3">
-                          <input type="checkbox" id="" name="" value="1" required>
-
-                             <label for="terms">I have read and agree to the terms of service</label>
-                            </p>
+                        
                     </div>
                 </div>
             </div>
@@ -1747,7 +1747,7 @@
                           <p>
                           <input type="checkbox" id="" name="" value="1" required>
 
-                             <label for="terms">I have read and agree to the terms of service</label>
+                          <label for="terms">I have read and agree to the <a href="/terms-and-conditions/">terms of service</a></label>
                             </p>
                         </div>
                       </form>

@@ -430,7 +430,7 @@
                         <p>
                           <input type="checkbox" id="" name="" value="1" required>
 
-                             <label for="terms">I have read and agree to the terms of service</label>
+                             I have read and agree to the terms of service
                             </p>
                         <div class="col-md-12">
                           <input class="btn-theme" type="submit" value="Submit">
@@ -475,8 +475,8 @@
                      <p>
                           <input type="checkbox" id="" name="" value="1" required>
 
-                             <label style="    color: white;
-" for="terms ">I have read and agree to the terms of service</label>
+                            
+                      <label style="    color: white; for="terms">I have read and agree to the <a href="/terms-and-conditions/">terms of service</a></label>
                             </p>
                      <div class="text-center ma3">
                         <input type="submit" class="sign-btn3" name="" value="SUBMIT YOUR QUERY">
