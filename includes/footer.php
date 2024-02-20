@@ -203,7 +203,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-            <div class="audley" style="padding-left:65px;">  
+            <div class="audley" style="    padding-left:85px;">  
           <!-- <div class="fologo">
             <img src="assets/images/logo.png">
           </div> -->
@@ -424,8 +424,14 @@
                         </div>
                         <div class="col-md-12">
                           <label class="field-txt">Describe your query <span>*</span></label>
-                          <textarea name="Comment" placeholder="Enter message here" required></textarea>
+                          <textarea name="Comment" placeholder="Enter message here" required></textarea> 
+                         
                         </div>
+                        <p>
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                         <div class="col-md-12">
                           <input class="btn-theme" type="submit" value="Submit">
                         </div>
@@ -466,10 +472,16 @@
                      <li class="fom3-back"><input class="fom3" type="email" name="email" required="" placeholder="Email Address"></li>
                      <li class="fom3-back"><input class="fom3" type="number" name="phone" required="" placeholder="Phone No"></li>
                      <li class="fom4-back"><textarea class="fom4" name="brief" placeholder="Message" rows="4"></textarea></li>
+                     <p>
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                      <div class="text-center ma3">
                         <input type="submit" class="sign-btn3" name="" value="SUBMIT YOUR QUERY">
                         
                      </div>
+                     
                   </ul>
                </form>
             </div>

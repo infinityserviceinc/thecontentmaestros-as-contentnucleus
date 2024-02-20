@@ -567,6 +567,8 @@
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
+                            
+
                         </form>
                     </div>
                 </div>
@@ -590,11 +592,21 @@
                             <input type="email" name="email" placeholder="Email" required="">
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
+                            
+
+                           
                         </form>
+                        <p>
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                     </div>
+                    
                 </div>
             </div>
         </div>
+        
     </section>
 
   </div>
@@ -1479,6 +1491,11 @@
                             <textarea name="Comment" placeholder="Enter message here" /></textarea>
                           </div>
                           <div class="col-md-12">
+                          <p>
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                             <input class="btn-theme" type="submit" value="Submit" />
                           </div>
                         </div>

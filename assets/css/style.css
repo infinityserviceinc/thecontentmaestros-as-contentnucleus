@@ -3113,6 +3113,10 @@ section.main-frm-sec .banner-form {
     margin: 0 0 5px;
     width: 100%;
     display: block;
+    
+}
+input#phone-coun {
+    padding-left: 85px !important;
 }
 
 .form-box-main form label.field-txt span {

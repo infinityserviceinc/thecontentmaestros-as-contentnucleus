@@ -1614,6 +1614,11 @@
                             <label class="field-txt">Additional Comments <span>*</span></label>
                             <textarea name="Comment" placeholder="Enter message here" /></textarea>
                           </div>
+                          <p>
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                           <div class="col-md-12">
                             <input class="btn-theme" type="submit" value="Submit" />
                           </div>
