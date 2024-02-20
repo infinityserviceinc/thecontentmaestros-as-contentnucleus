@@ -675,6 +675,11 @@
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
                         </form>
+                        <p class="mt-3">
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                     </div>
                 </div>
             </div>
@@ -698,6 +703,11 @@
                             <input type="number" name="phone" placeholder="Phone Number" required="">
                             <input type="Submit" value="Submit">
                         </form>
+                        <p class="mt-3">
+                          <input type="checkbox" id="" name="" value="1" required>
+
+                             <label for="terms">I have read and agree to the terms of service</label>
+                            </p>
                     </div>
                 </div>
             </div>

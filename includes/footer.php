@@ -475,7 +475,8 @@
                      <p>
                           <input type="checkbox" id="" name="" value="1" required>
 
-                             <label for="terms">I have read and agree to the terms of service</label>
+                             <label style="    color: white;
+" for="terms ">I have read and agree to the terms of service</label>
                             </p>
                      <div class="text-center ma3">
                         <input type="submit" class="sign-btn3" name="" value="SUBMIT YOUR QUERY">
